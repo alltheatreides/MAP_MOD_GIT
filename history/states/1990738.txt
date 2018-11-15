@@ -1,0 +1,1 @@
+state={ id=1729 name="STATE_1729" manpower=10 state_category = town history={ victory_points = { 1988 0 } owner = NIC add_core_of = NIC buildings = { infrastructure = 1 } } provinces = { 1988 } }

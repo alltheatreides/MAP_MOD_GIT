@@ -1,0 +1,1 @@
+state={ id=1726 name="STATE_1726" manpower=10 state_category = town history={ victory_points = { 1985 0 } owner = XSM add_core_of = XSM buildings = { infrastructure = 1 } } provinces = { 1985 } }

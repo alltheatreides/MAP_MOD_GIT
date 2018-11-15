@@ -1,0 +1,1 @@
+state={ id=3615 name="STATE_3615" manpower=10 state_category = town history={ victory_points = { 4873 0 } owner = MON add_core_of = MON buildings = { infrastructure = 1 } } provinces = { 4873 } }
