@@ -1,0 +1,1 @@
+state={ id=3719 name="STATE_3719" manpower=118980 state_category = metropolis resources = { oil = 52 aluminium = 8 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 5001 0 } owner = USA add_core_of = USA buildings = { infrastructure = 6  industrial_complex = 1 } } provinces = { 5001 } }

@@ -1,1 +1,0 @@
-state={ id=9379 name="STATE_9379" manpower=10 state_category = town history={ victory_points = { 12532 0 } owner = AST add_core_of = AST buildings = { infrastructure = 1 } } provinces = { 12532 } }

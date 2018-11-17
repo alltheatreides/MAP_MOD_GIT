@@ -1,0 +1,5 @@
+-- NDefines.NBuildings.SUPPLY_PORT_LEVEL_THROUGHPUT = 6
+-- NDefines.NCountry.SUPPLY_PATH_MAX_DISTANCE = 7,
+-- NDefines.NMilitary.STRATEGIC_INFRA_SPEED = 5.0,
+-- NDefines.NMilitary.STRATEGIC_SPEED_BASE = 6.0,
+-- NDefines.NMilitary.SPEED_REINFORCEMENT_BONUS = 0.1

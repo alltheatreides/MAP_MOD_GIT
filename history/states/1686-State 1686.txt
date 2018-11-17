@@ -1,0 +1,1 @@
+state={ id=1686 name="STATE_1686" manpower=224286 state_category = town resources = { oil = 10 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 1944 1 } owner = VEN add_core_of = VEN buildings = { infrastructure = 4 1944 = { naval_base =  5 } industrial_complex = 1 } } provinces = { 1944 } }

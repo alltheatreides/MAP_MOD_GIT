@@ -1,0 +1,1 @@
+state={ id=6267 name="STATE_6267" manpower=187500 state_category = city resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 9417 15 } owner = SOV add_core_of = SOV buildings = { infrastructure = 5 9417 = { naval_base =  5 } arms_factory = 1 industrial_complex = 1 } } provinces = { 9417 } }

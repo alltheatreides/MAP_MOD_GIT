@@ -1,0 +1,1 @@
+state={ id=7527 name="STATE_7527" manpower=5000 state_category = wasteland resources = { oil = 0 aluminium = 3 rubber = 0 tungsten = 0 steel = 0 chromium = 5 } history={ victory_points = { 10677 0 } owner = SOV add_core_of = SOV buildings = { infrastructure = 1  } } provinces = { 10677 } }

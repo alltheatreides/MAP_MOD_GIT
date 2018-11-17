@@ -1,0 +1,1 @@
+state={ id=8786 name="STATE_8786" manpower=1622728 state_category = city resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 1 steel = 2 chromium = 1 } history={ victory_points = { 11938 0 } owner = GXC add_core_of = GXC buildings = { infrastructure = 3  arms_factory = 1 industrial_complex = 1 } } provinces = { 11938 } }

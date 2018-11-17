@@ -1,0 +1,1 @@
+state={ id=6763 name="STATE_6763" manpower=193334 state_category = rural resources = { oil = 0 aluminium = 1 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 9913 0 } owner = MAN add_core_of = MAN buildings = { infrastructure = 4  } } provinces = { 9913 } }

@@ -1,0 +1,1 @@
+NDefines_Graphics.NGraphics.CITY_SPRAWL_AMOUNT = 1.0

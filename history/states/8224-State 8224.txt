@@ -1,0 +1,1 @@
+state={ id=8224 name="STATE_8224" manpower=2457500 state_category = megalopolis resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 11374 0 } owner = ENG add_core_of = ENG buildings = { infrastructure = 9 11374 = { naval_base =  10 } arms_factory = 1 dockyard = 1 industrial_complex = 1 } } provinces = { 11374 } }
