@@ -1,1 +1,0 @@
-state={ id=940 name="STATE_940" manpower=12353 state_category = wasteland resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 1095 0 } owner = FRA add_core_of = FRA buildings = { infrastructure = 0  } } provinces = { 1095 } }

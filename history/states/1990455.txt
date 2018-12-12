@@ -1,0 +1,1 @@
+state={ id=1446 name="STATE_1446" manpower=133077 state_category = large_city resources = { oil = 1 aluminium = 0 rubber = 0 tungsten = 0 steel = 1 chromium = 0 } history={ victory_points = { 1654 0 } owner = URG add_core_of = URG buildings = { infrastructure = 1  arms_factory = 1 dockyard = 1 industrial_complex = 1 } } provinces = { 1654 } }

@@ -1,0 +1,1 @@
+state={ id=356 name="STATE_356" manpower=30000 state_category = small_island resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 408 0 } owner = SWE add_core_of = SWE buildings = { infrastructure = 1 408 = { naval_base =  1 } } } provinces = { 408 } }

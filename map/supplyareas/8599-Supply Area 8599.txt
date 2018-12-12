@@ -1,1 +1,0 @@
-supply_area={ id=8599 name="SUPPLYAREA_8599" value=10 states={ 8599 } }

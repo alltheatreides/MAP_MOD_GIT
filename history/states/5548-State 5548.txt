@@ -1,1 +1,0 @@
-state={ id=5548 name="STATE_5548" manpower=131786 state_category = pastoral resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 7848 0 } owner = MAN add_core_of = MAN buildings = { infrastructure = 4  } } provinces = { 7848 } }

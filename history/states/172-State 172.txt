@@ -1,1 +1,0 @@
-state={ id=172 name="STATE_172" manpower=0 state_category = enclave resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 197 1 } owner = FIN add_core_of = FIN buildings = { infrastructure = 3  } } provinces = { 197 } }

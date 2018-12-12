@@ -1,0 +1,1 @@
+state={ id=7861 name="STATE_7861" manpower=9091 state_category = pastoral resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 11011 0 } owner = AST add_core_of = AST buildings = { infrastructure = 1  } } provinces = { 11011 } }
