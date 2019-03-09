@@ -3,4 +3,5 @@ NDefines.NCountry.SUPPLY_PATH_MAX_DISTANCE = 7
 NDefines.NBuildings.INFRA_TO_SUPPLY = 1
 NDefines.NMilitary.STRATEGIC_INFRA_SPEED = 5
 NDefines.NMilitary.STRATEGIC_SPEED_BASE = 6
+NDefines.NMilitary.OUT_OF_SUPPLY_ATTRITION = 0
 -- NDefines.NMilitary.SPEED_REINFORCEMENT_BONUS = 0.1

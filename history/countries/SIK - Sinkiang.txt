@@ -1,4 +1,4 @@
-﻿capital = 617
+﻿capital = 3456
 
 oob = "SIK_1936"
 

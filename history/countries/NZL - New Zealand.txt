@@ -1,4 +1,4 @@
-﻿capital = 284
+﻿capital = 1580
 
 oob = "NZL_1936"
 

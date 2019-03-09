@@ -1,4 +1,4 @@
-﻿capital = 48
+﻿capital = 818
 
 oob = "BUL_1936"
 

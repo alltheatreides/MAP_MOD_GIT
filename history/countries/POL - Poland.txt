@@ -1,4 +1,4 @@
-﻿capital = 10
+﻿capital = 2434
 
 oob = "POL_1936"
 if = {

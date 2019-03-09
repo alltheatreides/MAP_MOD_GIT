@@ -1,4 +1,4 @@
-﻿capital = 304
+﻿capital = 5356
 
 oob = "PAN_1936"
 

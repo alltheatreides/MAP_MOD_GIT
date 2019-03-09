@@ -1,4 +1,4 @@
-﻿capital = 46
+﻿capital = 6467
 
 oob = "ROM_1936"
 if = {

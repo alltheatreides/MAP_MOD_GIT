@@ -1,4 +1,4 @@
-﻿capital = 100 #Iceland
+﻿capital = 9521 #Iceland
 
 oob = "ICE_1936"
 
