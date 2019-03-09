@@ -1,1 +1,1 @@
-state={ id=7435 name="STATE_7435" manpower=2942 state_category = wasteland resources = { oil = 0 aluminium = 1 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 10585 0 } owner = CAN add_core_of = CAN buildings = { infrastructure = 1  } } provinces = { 10585 } }
+state={ id=7435 name="STATE_7435" manpower=2942 state_category = wasteland resources = { oil = 0 aluminium = 1 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 10585 0 } owner = CAN add_core_of = CAN buildings = { infrastructure = 0  } } provinces = { 10585 } }

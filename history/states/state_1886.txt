@@ -1,1 +1,1 @@
-state={ id=1886 name="STATE_1886" manpower=12106 state_category = rural resources = { oil = 1 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 2169 0 } owner = ARG add_core_of = ARG buildings = { infrastructure = 1  } } provinces = { 2169 } }
+state={ id=1886 name="STATE_1886" manpower=12106 state_category = rural resources = { oil = 1 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 2169 0 } owner = ARG add_core_of = ARG buildings = { infrastructure = 0  } } provinces = { 2169 } }

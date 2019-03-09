@@ -1,1 +1,1 @@
-state={ id=4810 name="STATE_4810" manpower=454546 state_category = town resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 7007 0 } owner = CHI add_core_of = CHI buildings = { infrastructure = 1  } } provinces = { 7007 } }
+state={ id=4810 name="STATE_4810" manpower=454546 state_category = town resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 7007 0 } owner = CHI add_core_of = CHI buildings = { infrastructure = 0  } } provinces = { 7007 } }

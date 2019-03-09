@@ -1,1 +1,1 @@
-state={ id=3334 name="STATE_3334" manpower=35758 state_category = pastoral resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 4568 0 } owner = FRA add_core_of = FRA buildings = { infrastructure = 1  } } provinces = { 4568 } }
+state={ id=3334 name="STATE_3334" manpower=35758 state_category = pastoral resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 4568 0 } owner = FRA add_core_of = FRA buildings = { infrastructure = 0  } } provinces = { 4568 } }
