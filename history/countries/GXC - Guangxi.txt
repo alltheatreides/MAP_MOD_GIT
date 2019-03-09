@@ -1,4 +1,4 @@
-﻿capital = 594
+﻿capital = 4916
 
 oob = "GXC_1936"
 

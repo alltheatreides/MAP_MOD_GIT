@@ -1,4 +1,4 @@
-﻿capital = 7272
+﻿capital = 7212
 
 oob = "URG_1936"
 if = {

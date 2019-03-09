@@ -1,4 +1,4 @@
-﻿capital = 6103
+﻿capital = 4007
 
 set_oob = "ENG_1936"
 if = {

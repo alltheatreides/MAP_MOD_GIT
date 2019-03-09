@@ -1,4 +1,4 @@
-﻿capital = 8
+﻿capital = 4439
 
 oob = "LUX_1936"
 
