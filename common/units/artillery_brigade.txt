@@ -32,7 +32,7 @@ sub_units = {
 		default_morale = 0.1
 		training_time = 120
 		weight = 0.5
-		supply_consumption = 2
+		supply_consumption = 1
 
 		#Line artillery bonuses
 		# soft_attack = 0.25
@@ -178,7 +178,7 @@ sub_units = {
 		training_time = 120
 		weight = 0.5
 
-		supply_consumption = 2
+		supply_consumption = 1
 		
 		forest = {
 			attack = -0.2
@@ -324,7 +324,7 @@ sub_units = {
 		weight = 0.5
 
 		
-		supply_consumption = 2.8
+		supply_consumption = 1.4
 		
 		forest = {
 			attack = -0.1

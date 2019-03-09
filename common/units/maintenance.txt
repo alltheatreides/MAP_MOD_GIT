@@ -29,7 +29,7 @@ sub_units = {
 
 		#Misc Abilities
 		weight = 0.1
-		supply_consumption = 0.3
+		supply_consumption = 0.15
 		can_be_parachuted = yes
 		
 		# Important Ability

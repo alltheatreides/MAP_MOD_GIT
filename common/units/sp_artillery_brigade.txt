@@ -30,7 +30,7 @@ sub_units = {
 		max_strength = 0.6
 		training_time = 180
 		weight = 1
-		supply_consumption = 4
+		supply_consumption = 2
 
 
 		forest = {
@@ -90,7 +90,7 @@ sub_units = {
 		max_strength = 0.6
 		training_time = 180
 		weight = 1.25
-		supply_consumption = 4.4
+		supply_consumption = 2.2
 
 
 		forest = {
@@ -154,7 +154,7 @@ sub_units = {
 		default_morale = 0.1
 		max_strength = 0.6
 		weight = 1.5
-		supply_consumption = 6
+		supply_consumption = 3
 
 
 		forest = {
@@ -219,7 +219,7 @@ sub_units = {
 		max_strength = 0.6
 		training_time = 180
 		weight = 1.75
-		supply_consumption = 8
+		supply_consumption = 4
 
 
 		forest = {
@@ -283,7 +283,7 @@ sub_units = {
 		max_strength = 0.6
 		training_time = 180
 		weight = 1.5
-		supply_consumption = 5
+		supply_consumption = 2.5
 
 		forest = {
 		    attack = -0.3
