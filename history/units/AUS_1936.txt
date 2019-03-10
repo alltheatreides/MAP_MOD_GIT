@@ -153,7 +153,7 @@ units = {
 
 air_wings = {
 	### Luftstreitkräfte -- Vienna (full air force, consolidated), CR.32 aircraft
-	4 = {
+	6470 = {
 		fighter_equipment_0 =  {
 			owner = "AUS" 
 			creator = "ITA"

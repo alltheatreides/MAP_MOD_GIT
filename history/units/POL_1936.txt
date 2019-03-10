@@ -528,14 +528,14 @@ units = {
 
 ##### Wojska Lotnicze i Obrony Powietrzne #####
 air_wings = {
-	10 = { 
+	2434 = { 
 		fighter_equipment_0 =  {
 			owner = "POL" 
 			amount = 108
 		}
 		
 	}
-	86 = { 
+	4414 = { 
 		fighter_equipment_0 =  {
 			owner = "POL" 
 			amount = 54

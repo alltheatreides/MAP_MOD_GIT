@@ -70,7 +70,7 @@ units = {
 
 air_wings = {
 	### Latvijas Gaisa Speki
-	12 = {
+	8072 = {
 		# Aviacijas Pulka -- Bristol Bulldogs
 		fighter_equipment_0 =  {
 			owner = "LAT" 

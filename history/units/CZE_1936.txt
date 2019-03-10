@@ -359,7 +359,7 @@ units = {
 air_wings = {
 	# Letectvo I.Armády -- Prague
 	# Letectvo Hlavniho Velitelstivi -- Prague
-	9 = { 
+	6271 = { 
 		fighter_equipment_0 = {		# Avia B.534
 			owner = "CZE" 
 			amount = 36
@@ -375,7 +375,7 @@ air_wings = {
 	}
 
 	# Letectvo III.Armády -- Bratislava
-	70 = {
+	2375 = {
 		fighter_equipment_0 = {		# Avia B.534
 			owner = "CZE" 
 			amount = 36
@@ -383,7 +383,7 @@ air_wings = {
 	}
 
 	# Letectvo IV.Armády -- Olomouc
-	75 = {
+	8361 = {
 		fighter_equipment_0 = {		# Avia B.534
 			owner = "CZE" 
 			amount = 72
