@@ -452,7 +452,7 @@ units = {
 
 ### Fortele Aeriene Regale ale României (FFAR) ###
 air_wings = {
-	46 = {
+	569 = {
 		# Grup 1 Avion de Vanatoare -- PZL P.11 fighters
 		fighter_equipment_0 = {
 			owner = "ROM" 
@@ -460,7 +460,7 @@ air_wings = {
 			amount = 48
 		}
 	}
-	79 = {
+	2606 = {
 		# Grup 2 Avion de Vanatoare -- IAR 14, 15 fighters
 		fighter_equipment_0 = {
 			owner = "ROM" 

@@ -79,7 +79,7 @@ units = {
 
 air_wings = {
 	### Fuerza Aérea de Chile -- Santiago
-	279 = {
+	9801 = {
 		# Fighter Air Group -- Curtis Hawk IIs
 		fighter_equipment_0 =  {
 			owner = "CHL" 

@@ -244,7 +244,7 @@ units = {
 
 air_wings = {
 	### Fuerza Aérea Mexicana -- Mexico City
-	277 = {
+	1706 = {
 		# CAS Air Group -- de Haviland DH-4Bs
 		CAS_equipment_1 =  {
 			owner = "MEX" 

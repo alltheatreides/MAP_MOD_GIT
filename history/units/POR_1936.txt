@@ -235,7 +235,7 @@ units = {
 
 ### Aeronáutica Militar ###
 air_wings = {
-	112 = {
+	793 = {
 		# Noite Esquadrão de Bombardeiro  -- Ju 52/3m bombers
 		tac_bomber_equipment_0 = {
 			owner = "POR" 

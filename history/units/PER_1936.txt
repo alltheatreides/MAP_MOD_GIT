@@ -61,7 +61,7 @@ units = {
 
 air_wings = {
 	### Royal Iranian Air Force ###
-	266 = {
+	5328 = {
 		# 1st Air Group -- Hawker Furys
 		fighter_equipment_0 =  {
 			owner = "PER" 

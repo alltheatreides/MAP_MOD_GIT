@@ -96,7 +96,7 @@ units = {
 
 air_wings = {
 	### Flyvevabnet -- Copenhagen
-	37 = {
+	2175 = {
 		# 1. Jagerafdeling
 		# Consisted of 18 Gloster Gauntlets, 4 Bristol Bulldogs
 		fighter_equipment_0 =  {
@@ -105,7 +105,7 @@ air_wings = {
 		}
 	}
 	# Søværnets Flyvetjeneste -- Jutland
-	99 = {
+	2256 = {
 		# Consisted of 12 Hawker Nimrods
 		fighter_equipment_0 = {
 			owner = "DEN" 

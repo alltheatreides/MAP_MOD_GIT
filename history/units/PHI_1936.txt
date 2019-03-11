@@ -37,7 +37,7 @@ units = {
 
 air_wings = {
 	### Philippine Army Air Corps ###
-	327 = {
+	9084 = {
 		# Fighter Squadron -- Curtis P-26A's
 		fighter_equipment_0 =  {
 			owner = "PHI" 

@@ -79,7 +79,7 @@ units = {
 
 air_wings = {
 	### Cuerpo de Aviación del Perú -- Lima
-	303 = {
+	9844 = {
 		# Fighter Air Group -- Curtis F11s, NiD 123s, Ca.114s
 		fighter_equipment_0 =  {
 			owner = "PRU" 

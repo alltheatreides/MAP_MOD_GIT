@@ -87,7 +87,7 @@ units = {
 
 air_wings = {
 	### Fuerza Aérea Colombiana -- Cartegena
-	306 = {
+	1820 = {
 		# Fighter Air Group -- Curtis II F11Cs
 		fighter_equipment_0 =  {
 			owner = "COL" 

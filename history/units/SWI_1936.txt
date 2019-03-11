@@ -363,7 +363,7 @@ units = {
 ### Air Wings ###
 air_wings = {
 	##### Schweizer Luftwaffe #####
-	3 = { 
+	6470 = { 
 		# Fliegerregimenter 1 -- Dewotine D.27 fighters
 		fighter_equipment_0 = {
 			owner = "SWI" 

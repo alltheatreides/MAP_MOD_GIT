@@ -192,7 +192,7 @@ units = {
 
 air_wings = {
 	### Vuzdushnite voiski -- Sofia (early purchases of GER Ar 65, He 51 fighters)
-	48 = {
+	818 = {
 		# Vuzdushnite voiski na Negovo Velichestvo
 		fighter_equipment_0 =  {
 			owner = "BUL"

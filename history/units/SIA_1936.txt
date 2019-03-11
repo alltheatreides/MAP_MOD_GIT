@@ -72,7 +72,7 @@ units = {
 
 air_wings = {
 	### Royal Siamese Air Force ###
-	289 = {
+	7100 = {
 		# 1st Air Wing -- Curtis Hawks
 		# 2nd Air Wing -- French WWI biplanes (SPAD.XIII, Ni.23)
 		fighter_equipment_0 =  {
