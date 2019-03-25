@@ -16,8 +16,9 @@ division_template = {
 		infantry = { x = 2 y = 2 }
 	}
 	support = {
-		artillery = { x = 0 y = 0 }  # US Hvy Field Arty consisted of 2 Bns, 155mm howitzers
-		engineer = { x = 0 y = 1 }   # US Eng Rgt consisted of 2 Bns
+	DIV_HQ = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 }  # US Hvy Field Arty consisted of 2 Bns, 155mm howitzers
+		engineer = { x = 0 y = 2 }   # US Eng Rgt consisted of 2 Bns
 	}
 }
 division_template = {
@@ -40,8 +41,9 @@ division_template = {
 		infantry = { x = 3 y = 2 }
 	}
 	support = {
-		artillery = { x = 0 y = 0 }  # US Hvy Field Arty consisted of 2 Bns, 155mm howitzers
-		engineer = { x = 0 y = 1 }   # US Eng Rgt consisted of 2 Bns
+	DIV_HQ = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 }  # US Hvy Field Arty consisted of 2 Bns, 155mm howitzers
+		engineer = { x = 0 y = 2 }   # US Eng Rgt consisted of 2 Bns
 	}
 }
 division_template = {
@@ -60,8 +62,9 @@ division_template = {
 		cavalry = { x = 1 y = 3 }
 	}
 	support = {
-		recon = { x = 0 y = 0 }      # US Cav Recon consisted of 52 ACs, 13 L Arm
-		engineer = { x = 0 y = 1 }   # US Eng Bn
+	DIV_HQ = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }      # US Cav Recon consisted of 52 ACs, 13 L Arm
+		engineer = { x = 0 y = 2 }   # US Eng Bn
 	}
 }
 division_template = {
@@ -75,7 +78,8 @@ division_template = {
 		infantry = { x = 0 y = 2 }
 	}
 	support = {
-		engineer = { x = 0 y = 0 }   
+	DIV_HQ = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }   
 	}
 	priority = 0
 }

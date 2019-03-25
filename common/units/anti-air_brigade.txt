@@ -16,14 +16,14 @@ sub_units = {
 			anti_air
 		}
 		
-		group = infantry
+		group = frontline_support
 		
 		categories = {
 			category_army
 			category_line_artillery
 		}		
 		
-		combat_width = 1
+		combat_width = 0
 		
 		#Size Definitions
 		max_organisation = 0
@@ -75,14 +75,14 @@ sub_units = {
 			anti_air
 		}
 		
-		group = mobile
+		group = frontline_support
 		
 		categories = {
 			category_army
 			category_line_artillery
 		}		
 		
-		combat_width = 1
+		combat_width = 0
 		
 		#Size Definitions
 		max_organisation = 0

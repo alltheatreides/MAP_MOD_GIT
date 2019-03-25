@@ -14,8 +14,9 @@
 		infantry = { x = 2 y = 2 }
 	}
 	support = {
-		engineer = { x = 0 y = 0 }
-		artillery = { x = 0 y = 1 }
+	DIV_HQ = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }
+		artillery = { x = 0 y = 3 }
 	}
 }
 division_template = {
@@ -34,7 +35,8 @@ division_template = {
 		mountaineers = { x = 2 y = 2 }
 	}
 	support = {
-		engineer = { x = 0 y = 0 }
+	DIV_HQ = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }
 	}
 }
 division_template = { 						
@@ -65,9 +67,10 @@ division_template = {
 		motorized = { x = 2 y = 2 }
 	}
 	support = {
-        recon = { x = 0 y = 0 }
-	 	engineer = { x = 0 y = 1 }
-        artillery = { x = 0 y = 2 }			
+	DIV_HQ = { x = 0 y = 0 }
+        recon = { x = 0 y = 1 }
+	 	engineer = { x = 0 y = 2 }
+        artillery = { x = 0 y = 3 }			
 	}
 }
 division_template = {
@@ -82,8 +85,9 @@ division_template = {
 		motorized = { x = 2 y = 1 }
 	}
 	support = {
-		recon = { x = 0 y = 0 }
-		engineer = { x = 0 y = 1 }
+	DIV_HQ = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+		engineer = { x = 0 y = 2 }
 	}
 }
 division_template = {
@@ -100,8 +104,9 @@ division_template = {
 		motorized = { x = 2 y = 2 }
 	}
 	support = {
-			recon = { x = 0 y = 0 }
-			engineer = { x = 0 y = 1 }
+	DIV_HQ = { x = 0 y = 0 }
+			recon = { x = 0 y = 1 }
+			engineer = { x = 0 y = 2 }
 	}
 }
 division_template = {
@@ -114,7 +119,8 @@ division_template = {
 		motorized = { x = 0 y = 2 }
 	}
 	support = {
-        artillery = { x = 0 y = 0 }			
+	DIV_HQ = { x = 0 y = 0 }
+        artillery = { x = 0 y = 1 }			
 	}
 	priority = 2
 }
@@ -128,7 +134,8 @@ division_template = {
         cavalry = { x = 0 y = 2 }
 	}
 	support = {
-	    recon = { x = 0 y = 0 }
+	DIV_HQ = { x = 0 y = 0 }
+	    recon = { x = 0 y = 1 }
 	}
 }
 division_template = {

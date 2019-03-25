@@ -15,9 +15,10 @@ division_template = {
 		infantry = { x = 2 y = 2 }
 	}
 	support = {
-		#recon = { x = 0 y = 0 } 		
-		#engineer = { x = 0 y = 1 } 		
-		artillery = { x = 0 y = 0 } 		# Heavy Arty Regiment had 1x 152mm bn + 2x 122mm bn
+	DIV_HQ = { x = 0 y = 0 }
+		#recon = { x = 0 y = 1 } 		
+		#engineer = { x = 0 y = 2 } 		
+		artillery = { x = 0 y = 1 } 		# Heavy Arty Regiment had 1x 152mm bn + 2x 122mm bn
 	}
 }
 division_template = {
@@ -39,8 +40,9 @@ division_template = {
 		mountaineers = { x = 3 y = 2 }	
 	}
 	support = {
-		engineer = { x = 0 y = 0 } 
-		artillery = { x = 0 y = 1 } 		# Heavy Arty Regiment had 2x 122mm bn
+	DIV_HQ = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 } 
+		artillery = { x = 0 y = 3 } 		# Heavy Arty Regiment had 2x 122mm bn
 	}
 }
 division_template = {
@@ -59,8 +61,9 @@ division_template = {
 		motorized = { x = 2 y = 2 }
 	}
 	support = {
-		#recon = { x = 0 y = 0 } 		
-		#engineer = { x = 0 y = 1 } 		
+	DIV_HQ = { x = 0 y = 0 }
+		#recon = { x = 0 y = 1 } 		
+		#engineer = { x = 0 y = 2 } 		
 	}
 }
 division_template = {
@@ -74,7 +77,8 @@ division_template = {
 		cavalry = { x = 1 y = 1 }
 	}
 	support = {
-		recon = { x = 0 y = 0 } 				# Recon bn had 16x L tanks, 45 ACs
+	DIV_HQ = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 } 				# Recon bn had 16x L tanks, 45 ACs
 	}
 }
 division_template = {
@@ -122,8 +126,9 @@ division_template = {
 		motorized = { x = 3 y = 1 }
 	}
 	support = {
-		recon = { x = 0 y = 0 } 		
-		engineer = { x = 0 y = 1 } 		
+	DIV_HQ = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 } 		
+		engineer = { x = 0 y = 2 } 		
 	}
 }
 division_template = {
@@ -140,7 +145,8 @@ division_template = {
 		motorized = { x = 2 y = 1 }	
 	}
 	support = {
-		engineer = { x = 0 y = 0 } 		
+	DIV_HQ = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 } 		
 	}
 }
 division_template = {
@@ -157,7 +163,8 @@ division_template = {
 		motorized = { x = 2 y = 1 }
 	}
 	support = {
-		engineer = { x = 0 y = 0 } 		
+	DIV_HQ = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 } 		
 	}
 }
 division_template = {
@@ -174,7 +181,8 @@ division_template = {
 		motorized = { x = 2 y = 1 }	
 	}
 	support = {
-		engineer = { x = 0 y = 0 } 		
+	DIV_HQ = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 } 		
 	}
 }
 

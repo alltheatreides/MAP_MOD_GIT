@@ -1,0 +1,46 @@
+sub_units = {
+
+	support_modern_armor = {
+		sprite = "medium_armor"
+		map_icon_category = armored
+		priority = 2510
+		ai_priority = 3510
+		active = yes
+		
+		type = {
+			armor
+			support
+		}
+		
+		group = support
+		
+		categories = {
+			category_support_battalions
+			category_army
+		}
+		
+		
+
+		combat_width = 0
+
+		need = {
+			modern_tank_equipment = 50
+		}
+
+		can_be_parachuted = no
+
+		manpower = 500
+		max_organisation = 10
+		max_strength = 2
+		default_morale = 0.3
+		training_time = 180
+		weight = 1.5
+		armor_value = -0.9
+		
+		supply_consumption = 0.25
+
+		#Tanks are awesome
+		# soft_attack = 0.5
+
+	}
+}

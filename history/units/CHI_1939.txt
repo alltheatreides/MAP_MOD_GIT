@@ -36,8 +36,9 @@ division_template = {
 		motorized = { x = 2 y = 1 }
 	}
 	support = {
-       	recon = { x = 0 y = 0 }		# Support represents light tanks and other vehicles assigned to 200th Division
-	 	engineer = { x = 0 y = 1 }
+	DIV_HQ = { x = 0 y = 0 }
+       	recon = { x = 0 y = 1 }		# Support represents light tanks and other vehicles assigned to 200th Division
+	 	engineer = { x = 0 y = 2 }
 	}
 }
 division_template = {

@@ -16,7 +16,8 @@ division_template = {
 		infantry = { x = 2 y = 2 }
 	}
 	support = {
-		artillery = { x = 0 y = 0 } 	# Heavy Arty Regiment had 2x 155mm battalions
+	DIV_HQ = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 } 	# Heavy Arty Regiment had 2x 155mm battalions
 	}
 }
 division_template = {
@@ -36,7 +37,8 @@ division_template = {
 		infantry = { x = 2 y = 2 }
 	}
 	support = {
-		artillery = { x = 0 y = 0 } 	# Heavy Arty Regiment had 2x 155mm battalions
+	DIV_HQ = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 } 	# Heavy Arty Regiment had 2x 155mm battalions
 	}
 }
 division_template = {
@@ -56,7 +58,8 @@ division_template = {
 		infantry = { x = 2 y = 2 }
 	}
 	support = {
-		artillery = { x = 0 y = 0 } 	# Heavy Arty Regiment had 2x 155mm battalions
+	DIV_HQ = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 } 	# Heavy Arty Regiment had 2x 155mm battalions
 	}
 	priority = 0
 }
@@ -78,7 +81,8 @@ division_template = {
 		mountaineers = { x = 2 y = 2 }
 	}
 	support = {
-		artillery = { x = 0 y = 0 } 	# Heavy Arty Regiment had 2x 155mm battalions
+	DIV_HQ = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 } 	# Heavy Arty Regiment had 2x 155mm battalions
 	}
 }
 division_template = {
@@ -97,8 +101,9 @@ division_template = {
 		motorized = { x = 2 y = 2 }
 	}
 	support = {
-		recon = { x = 0 y = 0 }      # Recon Group consisted of 26 ACs + motorcycles
-		artillery = { x = 0 y = 1 }  # Heavy Arty Regiment had 1x 155mm, 1x 105mm battalions
+	DIV_HQ = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }      # Recon Group consisted of 26 ACs + motorcycles
+		artillery = { x = 0 y = 3 }  # Heavy Arty Regiment had 1x 155mm, 1x 105mm battalions
 	}
 }
 division_template = {
@@ -113,7 +118,8 @@ division_template = {
 		cavalry = { x = 1 y = 1 }
 	}
 	support = {
-		recon = { x = 0 y = 0 }      # Recon Group consisted of 64 ACs/scout cars
+	DIV_HQ = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }      # Recon Group consisted of 64 ACs/scout cars
 	}
 }
 division_template = {
@@ -130,7 +136,8 @@ division_template = {
 		motorized = { x = 2 y = 2 }
 	}
 	support = {
-		recon = { x = 0 y = 0 }      		# Recon Group consisted of 42 ACs + motorcycles
+	DIV_HQ = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }      		# Recon Group consisted of 42 ACs + motorcycles
 	}
 }
 division_template = {
@@ -153,7 +160,8 @@ division_template = {
 		heavy_armor = { x = 0 y = 1 }
 	}
 	support = {
-		artillery = { x = 0 y = 0 }  
+	DIV_HQ = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 }  
 	}
 }
 division_template = {
