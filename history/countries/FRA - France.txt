@@ -80,6 +80,22 @@ if = {
 	}
 	add_ideas = MTG_naval_treaty_adherent
 }
+	set_autonomy = {
+		target = LEB
+		autonomous_state = autonomy_mandate
+	}
+	set_autonomy = {
+		target = SYR
+		autonomous_state = autonomy_mandate
+	}
+	set_autonomy = {
+		target = TUN
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = MOR
+		autonomous_state = autonomy_protectorate
+	}
 1939.1.1 = {
 
 	add_political_power = 899

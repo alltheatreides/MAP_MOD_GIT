@@ -130,6 +130,16 @@ if = {
 		freedom_level = 0.35
 	}
 	set_autonomy = {
+		target = PAL
+		autonomous_state = autonomy_mandate
+		#freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = JOR
+		autonomous_state = autonomy_mandate
+		#freedom_level = 0.35
+	}
+	set_autonomy = {
 		target = CAN
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.4

@@ -3,7 +3,7 @@ sub_units = {
 	support_modern_armor = {
 		sprite = "medium_armor"
 		map_icon_category = armored
-		priority = 2510
+		priority = 0
 		ai_priority = 3510
 		active = yes
 		

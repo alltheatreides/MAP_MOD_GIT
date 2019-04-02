@@ -277,4 +277,15 @@ spriteTypes = {
 		textureFile = "gfx//interface//big_unit_stats_template_tab_bg.dds"
 	}
 	
+	#DIPLOMACY
+	
+	spriteType = {
+		name = "GFX_autonomy_mandate_icon"
+		textureFile = "gfx/interface/autonomy/autonomy_mandate_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_autonomy_protectorate_icon"
+		textureFile = "gfx/interface/autonomy/autonomy_protectorate_icon.dds"
+	}
 }
