@@ -288,4 +288,21 @@ spriteTypes = {
 		name = "GFX_autonomy_protectorate_icon"
 		textureFile = "gfx/interface/autonomy/autonomy_protectorate_icon.dds"
 	}
+
+	#TECHNOLOGIES
+		#AMMUNITION
+	SpriteType = {
+		name = "GFX_small_arms_ammunition_0_medium"
+		texturefile = "gfx/interface/technologies/small_arms_ammunition_0.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_shells_ammunition_0_medium"
+		texturefile = "gfx/interface/technologies/shells_ammunition_0.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_gasoline_equipment_0_medium"
+		texturefile = "gfx/interface/technologies/gasoline_equipment_0.dds"
+	}
 }

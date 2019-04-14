@@ -22,7 +22,8 @@ tactic_uncoordinated_attack = {
 	base =  { factor = 4 }
 	picture = attack
 	
-	countered_by = tactic_counterattack
+	countered_by = tactic_basic_defend
+	countered_by = tactic_masterful_defense
 
 	attacker = -0.05
 }
@@ -66,6 +67,7 @@ tactic_masterful_attack = {
 	phase = breakthrough
 
 	attacker = 0.1
+	combat_breakthrough = 0.25
 }
 
 tactic_uncoordinated_defense = {
@@ -107,13 +109,13 @@ tactic_masterful_defense = {
 	
 	active = yes
 	
-	base =  { factor = 4 }
+	base =  { factor = 2 }
 	picture = defend
 	
 	defender = 0.1
 }
 
-tactic_uncoordinated_breakthrough = { 
+tactic_uncoordinated_breakthrough = {
 	is_attacker = yes
 	trigger = {
 		is_attacker = yes
@@ -131,7 +133,8 @@ tactic_uncoordinated_breakthrough = {
 	} #Revisit ideally this should be more common in urban terrain
 	
 	picture = assault
-	countered_by = tactic_counterattack
+	countered_by = tactic_basic_counterattack
+	countered_by = tactic_masterful_counterattack
 	
 	attacker = 0.1			#attacker gets a bonus to doing damage
 }
@@ -146,14 +149,14 @@ tactic_basic_breakthrough = {
 	active = yes
 	
 	base =  {
-		factor = 2
+		factor = 4
 		modifier = {
 			add = 2
 			has_trait = aggressive_assaulter
 		}
 	} #Revisit ideally this should be more common in urban terrain
 	
-	phase = exploitation
+	#phase = exploitation
 
 	picture = assault
 	countered_by = tactic_basic_counterattack
@@ -189,7 +192,6 @@ tactic_uncoordinated_counterattack = { #
 	is_attacker = no
 	trigger = {
 		is_attacker = no
-		skill_advantage > 0
 		phase = breakthrough
 	}
 	
@@ -211,7 +213,6 @@ tactic_basic_counterattack = { #
 	is_attacker = no
 	trigger = {
 		is_attacker = no
-		skill_advantage > 0
 		phase = breakthrough
 	}
 	
@@ -233,14 +234,13 @@ tactic_masterful_counterattack = { #
 	is_attacker = no
 	trigger = {
 		is_attacker = no
-		skill_advantage > 0
 		phase = breakthrough
 	}
 	
 	active = yes
 	
 	base =  {
-		factor = 4
+		factor = 2
 		modifier = {
 			add = 4
 			has_trait = unyielding_defender

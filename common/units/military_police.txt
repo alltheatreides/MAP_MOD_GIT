@@ -34,7 +34,7 @@ sub_units = {
 		can_be_parachuted = yes
 		
 		# Important Ability
-		suppression_factor = 0.20
+		suppression_factor = 0.5
 
 		essential = {
 			infantry_equipment

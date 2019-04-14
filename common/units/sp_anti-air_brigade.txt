@@ -23,6 +23,7 @@ sub_units = {
 
 		need = {
 			light_tank_aa_equipment = 15
+			shells_ammunition = 60
 		}
 		manpower = 500
 		max_organisation = 0
@@ -87,6 +88,7 @@ sub_units = {
 
 		need = {
 			medium_tank_aa_equipment = 12
+			shells_ammunition = 120
 		}
 		manpower = 500
 		max_organisation = 0
@@ -154,6 +156,7 @@ sub_units = {
 
 		need = {
 			heavy_tank_aa_equipment = 8
+			shells_ammunition = 120
 		}
 		manpower = 500
 		max_organisation = 0
@@ -218,6 +221,7 @@ sub_units = {
 
 		need = {
 			super_heavy_tank_aa_equipment = 4
+			shells_ammunition = 120
 		}
 		manpower = 500
 		max_organisation = 0
@@ -284,6 +288,7 @@ sub_units = {
 
 		need = {
 			modern_tank_aa_equipment = 12
+			shells_ammunition = 120
 		}
 		manpower = 500
 		max_organisation = 0

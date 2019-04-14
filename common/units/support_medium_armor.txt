@@ -20,9 +20,16 @@ sub_units = {
 		}
 
 		combat_width = 0
-
+		
+		transport = medium_tank_equipment
+		
+		essential = {
+			medium_tank_equipment
+		}
+		
 		need = {
 			medium_tank_equipment = 50
+			shells_ammunition = 120
 		}
 
 		can_be_parachuted = no
