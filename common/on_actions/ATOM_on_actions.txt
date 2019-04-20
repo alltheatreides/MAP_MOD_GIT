@@ -1,0 +1,12 @@
+on_actions = {
+	#Not run on a specific country.
+	on_startup = {
+		effect = {
+			FRA = {
+				country_event = {
+					id = ATOM.3
+				}
+			}
+		}
+	}
+}

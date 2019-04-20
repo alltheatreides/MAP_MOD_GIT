@@ -1,0 +1,71 @@
+﻿add_namespace = ATOM
+
+country_event = {
+	id = ATOM.1
+	title = ATOM.1.t
+	desc = ATOM.1.desc
+	
+	is_triggered_only = yes
+	hidden = yes
+
+	trigger = {
+		tag = FRA
+	}
+
+	immediate = {
+		set_variable = {
+			var = GDP
+			value = 365
+		}
+		set_variable = {
+			var = GDP_divided
+			value = GDP
+		}
+		multiply_variable = {
+			var = GDP_divided
+			value = 0.038
+		}
+	}
+
+}
+
+country_event = {
+	id = ATOM.2
+	title = ATOM.2.t
+	desc = ATOM.2.desc
+
+	is_triggered_only = yes
+	hidden = yes
+
+	trigger = {
+		tag = FRA
+	}
+
+	immediate = {
+		set_variable = {
+			var = budget
+			value = GDP_divided
+		}
+	}
+}
+
+country_event = {
+	id = ATOM.3
+	title = ATOM.3.t
+	desc = ATOM.3.desc
+
+	is_triggered_only = yes
+	hidden = yes
+
+	trigger = {
+		tag = FRA
+	}
+
+	immediate = {
+		set_variable = { var_name = num_of_civilian_factories }
+		set_variable = {
+			var = budget
+			value = num_of_civilian_factories
+		}
+	}
+}

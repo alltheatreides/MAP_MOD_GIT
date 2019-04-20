@@ -1,0 +1,115 @@
+buildings = {
+
+	# show_on_map:
+	#    if provincial = no, then show_on_map = X is amount per each province
+	#    if provincial = no, then show_on_map = X is amount per state
+
+	commercial_industries = {
+		show_on_map = 0
+		show_on_map_meshes = 0
+		base_cost = 3000
+		provincial = no
+		shares_slots = no
+		military_production = 0
+		general_production = 1
+		icon_frame = 3
+		has_destroyed_mesh = no
+		disabled_in_dmz = no
+		# local_resources_coal = -2
+		infrastructure = no
+		max_level = 1000000
+		value = 21
+		damage_factor = 21
+		infrastructure_construction_effect = yes
+	}
+	military_industries = {
+		show_on_map = 0
+		show_on_map_meshes = 0
+		base_cost = 3000
+		provincial = no
+		shares_slots = no
+		military_production = 5
+		general_production = 1
+		icon_frame = 3
+		has_destroyed_mesh = no
+		disabled_in_dmz = no
+		# local_resources_coal = -2
+		infrastructure = no
+		max_level = 1000000
+		value = 22
+		damage_factor = 22
+		infrastructure_construction_effect = yes
+	}
+	service_sector = {
+		show_on_map = 0
+		show_on_map_meshes = 0
+		base_cost = 3000
+		provincial = no
+		shares_slots = no
+		military_production = 0
+		general_production = 1
+		icon_frame = 3
+		has_destroyed_mesh = no
+		disabled_in_dmz = no
+		# local_resources_coal = -1
+		infrastructure = no
+		max_level = 1000000
+		value = 23
+		damage_factor = 23
+		infrastructure_construction_effect = yes
+	}
+	subsistance_agriculture = {
+		show_on_map = 0
+		show_on_map_meshes = 0
+		base_cost = 3000
+		provincial = no
+		shares_slots = yes
+		military_production = 0
+		general_production = 1
+		icon_frame = 3
+		has_destroyed_mesh = no
+		disabled_in_dmz = no
+		infrastructure = no
+		max_level = 1000000
+		value = 24
+		damage_factor = 24
+		infrastructure_construction_effect = yes
+	}
+	mechanical_agriculture = {
+		show_on_map = 0
+		show_on_map_meshes = 0
+		base_cost = 3000
+		provincial = no
+		shares_slots = yes
+		military_production = 0
+		general_production = 1
+		icon_frame = 3
+		has_destroyed_mesh = no
+		disabled_in_dmz = no
+		# local_resources_fuel = -1
+		infrastructure = no
+		max_level = 1000000
+		value = 25
+		damage_factor = 25
+		infrastructure_construction_effect = yes
+	}
+	industrial_agriculture = {
+		show_on_map = 0
+		show_on_map_meshes = 0
+		base_cost = 3000
+		provincial = no
+		shares_slots = no
+		military_production = 0
+		general_production = 1
+		icon_frame = 3
+		has_destroyed_mesh = no
+		disabled_in_dmz = no
+		# local_resources_fuel = -2
+		infrastructure = no
+		max_level = 1000000
+		value = 26
+		damage_factor = 26
+		infrastructure_construction_effect = yes
+	}
+}
+

@@ -1,0 +1,36 @@
+budget_decisions = {
+	
+	increase_military_budget = {
+		icon = generic_industry
+
+		allowed = {
+			always = yes
+		}
+
+		available = {
+			check_variable = {
+				var = budget
+				value = 1
+				compare = less_than
+			}
+		}
+
+		complete_effect = {
+			add_to_variable = {
+				var = budget
+				value = 1000
+			}
+		}
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+
+			}
+		}
+	}
+
+}
+
+
