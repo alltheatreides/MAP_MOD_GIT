@@ -1,5 +1,6 @@
 ﻿add_namespace = ATOM
 
+#setting up of the initial budget for majors
 country_event = {
 	id = ATOM.1
 	title = ATOM.1.t
@@ -8,27 +9,27 @@ country_event = {
 	is_triggered_only = yes
 	hidden = yes
 
-	trigger = {
-		tag = FRA
-	}
-
 	immediate = {
-		set_variable = {
-			var = GDP
-			value = 365
+		every_country = {
+            #country_event = { id = newyears.1 days = 359 }
+        }
+		FRA = {
+			set_variable = {
+				var = budget
+				value = 146
+			}
 		}
-		set_variable = {
-			var = GDP_divided
-			value = GDP
-		}
-		multiply_variable = {
-			var = GDP_divided
-			value = 0.038
+		GER = {
+			set_variable = {
+				var = budget
+				value = 246
+			}
 		}
 	}
 
 }
 
+#daily budget growth for majors
 country_event = {
 	id = ATOM.2
 	title = ATOM.2.t
@@ -38,17 +39,29 @@ country_event = {
 	hidden = yes
 
 	trigger = {
-		tag = FRA
+		#might add a trigger for the first year of growth ? So second year of growth is different ?
+		#best to do a monthly thing
 	}
 
 	immediate = {
-		set_variable = {
-			var = budget
-			value = GDP_divided
+		if = {
+			limit = { tag = FRA	}
+			add_to_variable = {
+				var = budget
+				value = 146
+			}
+		}
+		if = {
+			limit = { tag = GER	}
+			add_to_variable = {
+				var = budget
+				value = 246
+			}
 		}
 	}
 }
 
+#event to loop for each months/trimestrial
 country_event = {
 	id = ATOM.3
 	title = ATOM.3.t
@@ -58,14 +71,13 @@ country_event = {
 	hidden = yes
 
 	trigger = {
-		tag = FRA
+		
 	}
 
 	immediate = {
-		set_variable = { var_name = num_of_civilian_factories }
-		set_variable = {
-			var = budget
-			value = num_of_civilian_factories
+		every_country = {
+			country_event = { id = ATOM.4 days = 90 }
 		}
 	}
 }
+

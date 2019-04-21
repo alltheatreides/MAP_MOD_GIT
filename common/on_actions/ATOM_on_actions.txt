@@ -2,10 +2,17 @@ on_actions = {
 	#Not run on a specific country.
 	on_startup = {
 		effect = {
-			FRA = {
+			every_country = {
 				country_event = {
-					id = ATOM.3
+					id = ATOM.1
 				}
+			}
+		}
+	}
+	on_daily = {
+		effect = {
+			country_event = {
+				id = ATOM.2
 			}
 		}
 	}

@@ -1,0 +1,21 @@
+guiTypes = {
+
+
+
+	containerWindowType = {
+		name = "budget_window_main"
+		position = { x=100 y=100 }
+		size = { width=75 height=85 }
+		moveable = yes
+		clipping = no
+
+		background = {
+			quadTextureSprite ="GFX_tiled_window"
+		}
+
+
+	} 
+	
+
+
+}

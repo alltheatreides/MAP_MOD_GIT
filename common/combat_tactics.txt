@@ -67,7 +67,6 @@ tactic_masterful_attack = {
 	phase = breakthrough
 
 	attacker = 0.1
-	combat_breakthrough = 0.25
 }
 
 tactic_uncoordinated_defense = {

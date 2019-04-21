@@ -1,0 +1,29 @@
+scripted_gui = {
+
+
+
+	budget = {
+		context_type = player_context
+		
+		window_name = "budget_window_main"
+		
+		visible = {
+			always = no
+		}
+
+		effects = {
+		    
+		}
+
+	}
+    
+
+
+}
+
+
+
+
+
+
+ 

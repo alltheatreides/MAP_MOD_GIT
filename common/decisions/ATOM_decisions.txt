@@ -1,4 +1,13 @@
 budget_decisions = {
+
+	budget_value = {
+		icon = generic_industry
+
+		allowed = {
+			always = yes
+		}
+
+	}
 	
 	increase_military_budget = {
 		icon = generic_industry
@@ -8,11 +17,7 @@ budget_decisions = {
 		}
 
 		available = {
-			check_variable = {
-				var = budget
-				value = 1
-				compare = less_than
-			}
+			always = yes
 		}
 
 		complete_effect = {
