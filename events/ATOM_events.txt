@@ -1,6 +1,6 @@
 ﻿add_namespace = ATOM
 
-#setting up of the initial budget for majors
+#setting up of the initial budget
 country_event = {
 	id = ATOM.1
 	title = ATOM.1.t
@@ -16,7 +16,7 @@ country_event = {
 		FRA = {
 			set_variable = {
 				var = budget
-				value = 146
+				value = 146.1912329
 			}
 		}
 		GER = {
@@ -29,7 +29,7 @@ country_event = {
 
 }
 
-#daily budget growth for majors
+#daily budget growth
 country_event = {
 	id = ATOM.2
 	title = ATOM.2.t
@@ -45,23 +45,91 @@ country_event = {
 
 	immediate = {
 		if = {
-			limit = { tag = FRA	}
+			limit = { 
+				tag = FRA
+				has_idea = civilian_economy
+			}
 			add_to_variable = {
 				var = budget
-				value = 146
+				value = 147
 			}
 		}
 		if = {
-			limit = { tag = GER	}
+			limit = { 
+				tag = FRA
+				has_idea = partial_economic_mobilisation
+			}
 			add_to_variable = {
 				var = budget
-				value = 246
+				value = 220
 			}
 		}
+		if = {
+			limit = { 
+				tag = FRA
+				has_idea = war_economy
+			}
+			add_to_variable = {
+				var = budget
+				value = 244
+			}
+		}
+		if = {
+			limit = { 
+				tag = FRA
+				has_idea = tot_economic_mobilisation
+			}
+			add_to_variable = {
+				var = budget
+				value = 366
+			}
+		}
+
+		if = {
+			limit = { 
+				tag = GER
+				has_idea = civilian_economy
+			}
+			add_to_variable = {
+				var = budget
+				value = 247
+			}
+		}
+		if = {
+			limit = { 
+				tag = GER
+				has_idea = partial_economic_mobilisation
+			}
+			add_to_variable = {
+				var = budget
+				value = 370
+			}
+		}
+		if = {
+			limit = { 
+				tag = GER
+				has_idea = war_economy
+			}
+			add_to_variable = {
+				var = budget
+				value = 411
+			}
+		}
+		if = {
+			limit = { 
+				tag = GER
+				has_idea = tot_economic_mobilisation
+			}
+			add_to_variable = {
+				var = budget
+				value = 616
+			}
+		}
+		
 	}
 }
 
-#event to loop for each months/trimestrial
+#event to loop for each months/trimestrial starting 36 here alternative for budget increase instead of monthly IGNORED FOR NOW
 country_event = {
 	id = ATOM.3
 	title = ATOM.3.t
@@ -70,14 +138,100 @@ country_event = {
 	is_triggered_only = yes
 	hidden = yes
 
-	trigger = {
-		
-	}
-
 	immediate = {
 		every_country = {
 			country_event = { id = ATOM.4 days = 90 }
 		}
+		FRA = {
+			set_variable = {
+				var = budget
+				value = 146
+			}
+		}
+		GER = {
+			set_variable = {
+				var = budget
+				value = 246
+			}
+		}
 	}
 }
 
+#next event in the loop 1 january 1936 + 90 days
+country_event = {
+	id = ATOM.4
+	title = ATOM.4.t
+	desc = ATOM.3.desc
+
+	is_triggered_only = yes
+	hidden = yes
+
+	immediate = {
+		every_country = {
+			country_event = { id = ATOM.5 days = 90 }
+		}
+		FRA = {
+			set_variable = {
+				var = budget
+				value = 146
+			}
+		}
+		GER = {
+			set_variable = {
+				var = budget
+				value = 246
+			}
+		}
+	}
+}
+
+# Event to add some value to the budget according to certain conditions others than the economic laws
+country_event = {
+	id = ATOM.5
+	title = ATOM.5.t
+	desc = ATOM.5.desc
+
+	is_triggered_only = yes
+	hidden = yes
+
+	immediate = {
+		if = {
+			limit = {
+				any_country = {
+					OR = {
+						#has_idea = whatever_the_fuck_idea_you_want
+						#has_country_flag = flag_example_from_somewhere_else
+					}
+				}
+			}
+			add_to_variable = {
+				var = budget
+				value = 1000
+			}
+		}
+	}
+}
+
+#variant event test
+country_event = {
+	id = ATOM.18
+	title = ATOM.18.t
+	desc = ATOM.18.desc
+
+	is_triggered_only = yes
+	hidden = yes
+
+	immediate = {
+		FRA = {
+			create_equipment_variant = {
+				name = SOMUA 35
+				type = the_20_ton_tank_equipment_1
+				upgrades = {
+					tank_armor_upgrade = 37
+					tank_engine_upgrade = 120
+					tank_gun_upgrade = 46
+				}
+			}
+		}
+	}
+}

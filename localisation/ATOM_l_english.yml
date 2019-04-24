@@ -3,6 +3,6 @@
   autonomy_protectorate:0 "Protectorate"
  #Variable
  budget_decisions:0 "Budget Decisions"
- budget_value:0 "[?budget]"
+ budget_value:0 "[?budget] M"
  increase_military_budget:0 "Increase Budget by 1000"
  increase_military_budget_desc:0 "I want magic money plz"
