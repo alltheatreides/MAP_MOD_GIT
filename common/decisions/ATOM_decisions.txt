@@ -1,13 +1,4 @@
 budget_decisions = {
-
-	budget_value = {
-		icon = generic_industry
-
-		allowed = {
-			always = yes
-		}
-
-	}
 	
 	increase_military_budget = {
 		icon = generic_industry

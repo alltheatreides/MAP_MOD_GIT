@@ -305,4 +305,11 @@ spriteTypes = {
 		name = "GFX_gasoline_equipment_0_medium"
 		texturefile = "gfx/interface/technologies/gasoline_equipment_0.dds"
 	}
+
+	#BUDGET
+	spriteType = {
+		name = "GFX_money"
+		texturefile = "gfx/interface/icon_money_small.dds"
+		legacy_lazy_load = no
+	}
 }

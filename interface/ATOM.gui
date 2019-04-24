@@ -4,15 +4,36 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "budget_window_main"
-		position = { x=100 y=100 }
-		size = { width=75 height=85 }
-		moveable = yes
-		clipping = no
-
-		background = {
-			quadTextureSprite ="GFX_tiled_window"
+		position = { x = 1400 y = 4 } #990
+		iconType ={
+			name ="money_bg"
+			spriteType = "GFX_generic_box"
+			position = { x=0 y=0 }
 		}
-
+		
+		iconType = {
+			name ="money_icon"
+			spriteType = "GFX_money"
+			position = { x= 0 y = 6 }
+		}
+		#buttonType = {
+		#	name ="buy_icon"
+		#	spriteType = "GFX_in_stock_icon"
+		#	position = { x= 105 y = 1 }
+		#	shortcut = "ctrl+g"
+		#}
+		instantTextBoxType = {
+			name ="money_text"
+			position = { x= -22 y = 3 }
+			font = "hoi_18mbs"
+			text = "budget_value"
+			format = center
+			maxWidth = 150
+			maxHeight = 24
+			fixedsize = yes
+			
+			#pdx_tooltip = "MONEY_TOOLTIP" 
+		}
 
 	} 
 	

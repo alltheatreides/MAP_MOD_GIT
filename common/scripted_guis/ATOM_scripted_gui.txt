@@ -3,16 +3,12 @@ scripted_gui = {
 
 
 	budget = {
-		context_type = player_context
-		
 		window_name = "budget_window_main"
 		
+		context_type = player
+		parent_window_token = top_bar
 		visible = {
-			always = no
-		}
-
-		effects = {
-		    
+			always = yes
 		}
 
 	}

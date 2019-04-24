@@ -16,7 +16,7 @@ country_event = {
 		FRA = {
 			set_variable = {
 				var = budget
-				value = 146.1912329
+				value = 146
 			}
 		}
 		GER = {
@@ -207,30 +207,6 @@ country_event = {
 			add_to_variable = {
 				var = budget
 				value = 1000
-			}
-		}
-	}
-}
-
-#variant event test
-country_event = {
-	id = ATOM.18
-	title = ATOM.18.t
-	desc = ATOM.18.desc
-
-	is_triggered_only = yes
-	hidden = yes
-
-	immediate = {
-		FRA = {
-			create_equipment_variant = {
-				name = SOMUA 35
-				type = the_20_ton_tank_equipment_1
-				upgrades = {
-					tank_armor_upgrade = 37
-					tank_engine_upgrade = 120
-					tank_gun_upgrade = 46
-				}
 			}
 		}
 	}
