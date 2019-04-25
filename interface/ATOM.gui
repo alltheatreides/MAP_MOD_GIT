@@ -4,7 +4,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "budget_window_main"
-		position = { x = 1400 y = 4 } #990
+		position = { x = 1400 y = 5 } #990
 		iconType ={
 			name ="money_bg"
 			spriteType = "GFX_generic_box"
@@ -14,7 +14,7 @@ guiTypes = {
 		iconType = {
 			name ="money_icon"
 			spriteType = "GFX_money"
-			position = { x= 0 y = 6 }
+			position = { x= 0 y = 2 }
 		}
 		#buttonType = {
 		#	name ="buy_icon"
@@ -24,7 +24,7 @@ guiTypes = {
 		#}
 		instantTextBoxType = {
 			name ="money_text"
-			position = { x= -22 y = 3 }
+			position = { x= -22 y = 4 }
 			font = "hoi_18mbs"
 			text = "budget_value"
 			format = center
@@ -32,9 +32,8 @@ guiTypes = {
 			maxHeight = 24
 			fixedsize = yes
 			
-			#pdx_tooltip = "MONEY_TOOLTIP" 
+			pdx_tooltip = "MONEY_TOOLTIP" 
 		}
-
 	} 
 	
 

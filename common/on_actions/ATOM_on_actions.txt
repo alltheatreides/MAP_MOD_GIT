@@ -2,17 +2,59 @@ on_actions = {
 	#Not run on a specific country.
 	on_startup = {
 		effect = {
-			every_country = {
-				country_event = {
-					id = ATOM.1
+			ENG = {
+				set_variable = {
+					var = budget
+					value = 234
 				}
 			}
+			FRA = {
+				set_variable = {
+					var = budget
+					value = 147
+				}
+			}
+			GER = {
+				set_variable = {
+					var = budget
+					value = 247
+				}
+			}
+			ITA = {
+				set_variable = {
+					var = budget
+					value = 110
+				}
+			}
+			JAP = {
+				set_variable = {
+					var = budget
+					value = 65
+				}
+			}
+			USA = {
+				set_variable = {
+					var = budget
+					value = 357
+				}
+			}
+			SOV = {
+				set_variable = {
+					var = budget
+					value = 297
+				}
+			}
+	
 		}
 	}
+	#Make some scripted trigger for usa and the great depression prolly or any depression for any country
 	on_daily = {
 		effect = {
 			country_event = {
 				id = ATOM.2
+			}
+			country_event = {
+				id = ATOM.3
 			}
 		}
 	}

@@ -46,6 +46,46 @@ country_event = {
 	immediate = {
 		if = {
 			limit = { 
+				tag = ENG
+				has_idea = civilian_economy
+			}
+			add_to_variable = {
+				var = budget
+				value = 234
+			}
+		}
+		if = {
+			limit = { 
+				tag = ENG
+				has_idea = partial_economic_mobilisation
+			}
+			add_to_variable = {
+				var = budget
+				value = 351
+			}
+		}
+		if = {
+			limit = { 
+				tag = ENG
+				has_idea = war_economy
+			}
+			add_to_variable = {
+				var = budget
+				value = 390
+			}
+		}
+		if = {
+			limit = { 
+				tag = ENG
+				has_idea = tot_economic_mobilisation
+			}
+			add_to_variable = {
+				var = budget
+				value = 584
+			}
+		}
+		if = {
+			limit = { 
 				tag = FRA
 				has_idea = civilian_economy
 			}
@@ -129,7 +169,7 @@ country_event = {
 	}
 }
 
-#event to loop for each months/trimestrial starting 36 here alternative for budget increase instead of monthly IGNORED FOR NOW
+#daily budget expanses
 country_event = {
 	id = ATOM.3
 	title = ATOM.3.t
@@ -138,30 +178,101 @@ country_event = {
 	is_triggered_only = yes
 	hidden = yes
 
+	trigger = {
+		
+	}
+
 	immediate = {
-		every_country = {
-			country_event = { id = ATOM.4 days = 90 }
+		subtract_from_variable = {
+			var = budget
+			value = num_divisions
 		}
-		FRA = {
-			set_variable = {
+		subtract_from_variable = {
+			var = budget
+			value = num_of_military_factories
+		}
+		subtract_from_variable = {
+			var = budget
+			value = num_of_available_civilian_factories
+		}
+		set_variable = {
+			var = cost_of_research_slots
+			value = amount_research_slots
+		}
+		multiply_variable = {
+			var = cost_of_research_slots
+			value = 25
+		}
+		subtract_from_variable = {
+			var = budget
+			value = cost_of_research_slots
+		}
+		subtract_from_variable = {
+			var = budget
+			value = num_occupied_states
+		}
+		if = {
+			limit = { 
+				has_idea = volunteer_only
+			}
+			subtract_from_variable = {
 				var = budget
-				value = 146
+				value = 25
 			}
 		}
-		GER = {
-			set_variable = {
+		if = {
+			limit = { 
+				has_idea = limited_conscription
+			}
+			subtract_from_variable = {
 				var = budget
-				value = 246
+				value = 50
+			}
+		}
+		if = {
+			limit = { 
+				has_idea = extensive_conscription
+			}
+			subtract_from_variable = {
+				var = budget
+				value = 75
+			}
+		}
+		if = {
+			limit = { 
+				has_idea = extensive_conscription
+			}
+			subtract_from_variable = {
+				var = budget
+				value = 100
+			}
+		}
+		if = {
+			limit = { 
+				has_idea = all_adults_serve
+			}
+			subtract_from_variable = {
+				var = budget
+				value = 125
+			}
+		}
+		if = {
+			limit = {
+				amount_of_planes_100 = yes
+			}
+			subtract_from_variable = {
+				var = budget
+				value = 50
 			}
 		}
 	}
 }
 
-#next event in the loop 1 january 1936 + 90 days
+#event to loop for each months/trimestrial starting 36 here alternative for budget increase instead of monthly IGNORED FOR NOW
 country_event = {
 	id = ATOM.4
 	title = ATOM.4.t
-	desc = ATOM.3.desc
+	desc = ATOM.4.desc
 
 	is_triggered_only = yes
 	hidden = yes
@@ -185,11 +296,41 @@ country_event = {
 	}
 }
 
-# Event to add some value to the budget according to certain conditions others than the economic laws
+#next event in the loop 1 january 1936 + 90 days
 country_event = {
 	id = ATOM.5
 	title = ATOM.5.t
 	desc = ATOM.5.desc
+
+	is_triggered_only = yes
+	hidden = yes
+
+	immediate = {
+		every_country = {
+			country_event = { id = ATOM.6 days = 90 }
+		}
+		FRA = {
+			set_variable = {
+				var = budget
+				value = 146
+			}
+		}
+		GER = {
+			set_variable = {
+				var = budget
+				value = 246
+			}
+		}
+	}
+}
+
+#Event for bad things happening when no more budget
+
+# Event to add some value to the budget according to certain conditions others than the economic laws
+country_event = {
+	id = ATOM.6
+	title = ATOM.6.t
+	desc = ATOM.6.desc
 
 	is_triggered_only = yes
 	hidden = yes

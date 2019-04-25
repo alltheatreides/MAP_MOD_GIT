@@ -1,0 +1,20 @@
+#	Example:
+# 
+#	example_trigger = {
+#		tag = GER
+#		is_ai = no
+#	}
+#
+#
+#	In a script file:
+#
+#	trigger = {
+#		exampel_trigger = yes
+#	}
+#
+amount_of_planes_100 = {
+	has_deployed_air_force_size = {
+		type = fighter
+		size = 100
+	}
+}
