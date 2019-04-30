@@ -2,7 +2,7 @@
   autonomy_mandate:0 "Mandate"
   autonomy_protectorate:0 "Protectorate"
  #Variable
- MONEY_TOOLTIP_BASE:0 "Your budget is [?budget]"
+ MONEY_TOOLTIP_BASE:0 "Your budget is [?budget] Millions Dollars"
  MONEY_TOOLTIP:0 "[Root.GetMoneyTooltip]"
  MARK_TOOLTIP:0 "[?budget] Millions Marks"
  RUBLE_TOOLTIP:0 "[?budget] Millions Rubles"
@@ -15,3 +15,5 @@
  budget_value:0 "[?budget] M"
  increase_military_budget:0 "Increase Budget by 1000"
  increase_military_budget_desc:0 "I want magic money plz"
+ unlock_some_funds_for_state_construction:0 "Unlock Funds for state-sponsored construction projects. Will cost 50M"
+ spending_value:0 "[?num_divisions]"

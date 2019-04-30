@@ -312,4 +312,22 @@ spriteTypes = {
 		texturefile = "gfx/interface/icon_money_small.dds"
 		legacy_lazy_load = no
 	}
+
+	spriteType = {
+		name = "GFX_generic_box_money"
+		texturefile = "gfx/interface/generic_box_money.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_generic_box_money"
+		texturefile = "gfx/interface/generic_box_money.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_budget_tab_main_background"
+		texturefile = "gfx/interface/budget_tab_main_background.dds"
+		legacy_lazy_load = no
+	}
 }

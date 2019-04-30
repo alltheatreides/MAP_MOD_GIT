@@ -18,3 +18,4004 @@ amount_of_planes_100 = {
 		size = 100
 	}
 }
+
+forts_number_1 = {
+	bunker > 0
+	bunker < 2
+}
+forts_number_2 = {
+	bunker > 1
+	bunker < 3
+}
+forts_number_3 = {
+	bunker > 2
+	bunker < 4
+}
+forts_number_4 = {
+	bunker > 3
+	bunker < 5
+}
+forts_number_5 = {
+	bunker > 4
+	bunker < 6
+}
+forts_number_6 = {
+	bunker > 5
+	bunker < 7
+}
+forts_number_7 = {
+	bunker > 6
+	bunker < 8
+}
+forts_number_8 = {
+	bunker > 7
+	bunker < 9
+}
+forts_number_9 = {
+	bunker > 8
+	bunker < 10
+}
+forts_number_10 = {
+	bunker > 9
+	bunker < 11
+}
+forts_number_11 = {
+	bunker > 10
+	bunker < 12
+}
+forts_number_12 = {
+	bunker > 11
+	bunker < 13
+}
+forts_number_13 = {
+	bunker > 12
+	bunker < 14
+}
+forts_number_14 = {
+	bunker > 13
+	bunker < 15
+}
+forts_number_15 = {
+	bunker > 14
+	bunker < 16
+}
+forts_number_16 = {
+	bunker > 15
+	bunker < 17
+}
+forts_number_17 = {
+	bunker > 16
+	bunker < 18
+}
+forts_number_18 = {
+	bunker > 17
+	bunker < 19
+}
+forts_number_19 = {
+	bunker > 18
+	bunker < 20
+}
+forts_number_20 = {
+	bunker > 19
+	bunker < 21
+}
+forts_number_21 = {
+	bunker > 20
+	bunker < 22
+}
+forts_number_22 = {
+	bunker > 21
+	bunker < 23
+}
+forts_number_23 = {
+	bunker > 22
+	bunker < 24
+}
+forts_number_24 = {
+	bunker > 23
+	bunker < 25
+}
+forts_number_25 = {
+	bunker > 24
+	bunker < 26
+}
+forts_number_26 = {
+	bunker > 25
+	bunker < 27
+}
+forts_number_27 = {
+	bunker > 26
+	bunker < 28
+}
+forts_number_28 = {
+	bunker > 27
+	bunker < 29
+}
+forts_number_29 = {
+	bunker > 28
+	bunker < 30
+}
+forts_number_30 = {
+	bunker > 29
+	bunker < 31
+}
+forts_number_31 = {
+	bunker > 30
+	bunker < 32
+}
+forts_number_32 = {
+	bunker > 31
+	bunker < 33
+}
+forts_number_33 = {
+	bunker > 32
+	bunker < 34
+}
+forts_number_34 = {
+	bunker > 33
+	bunker < 35
+}
+forts_number_35 = {
+	bunker > 34
+	bunker < 36
+}
+forts_number_36 = {
+	bunker > 35
+	bunker < 37
+}
+forts_number_37 = {
+	bunker > 36
+	bunker < 38
+}
+forts_number_38 = {
+	bunker > 37
+	bunker < 39
+}
+forts_number_39 = {
+	bunker > 38
+	bunker < 40
+}
+forts_number_40 = {
+	bunker > 39
+	bunker < 41
+}
+forts_number_41 = {
+	bunker > 40
+	bunker < 42
+}
+forts_number_42 = {
+	bunker > 41
+	bunker < 43
+}
+forts_number_43 = {
+	bunker > 42
+	bunker < 44
+}
+forts_number_44 = {
+	bunker > 43
+	bunker < 45
+}
+forts_number_45 = {
+	bunker > 44
+	bunker < 46
+}
+forts_number_46 = {
+	bunker > 45
+	bunker < 47
+}
+forts_number_47 = {
+	bunker > 46
+	bunker < 48
+}
+forts_number_48 = {
+	bunker > 47
+	bunker < 49
+}
+forts_number_49 = {
+	bunker > 48
+	bunker < 50
+}
+forts_number_50 = {
+	bunker > 49
+	bunker < 51
+}
+forts_number_51 = {
+	bunker > 50
+	bunker < 52
+}
+forts_number_52 = {
+	bunker > 51
+	bunker < 53
+}
+forts_number_53 = {
+	bunker > 52
+	bunker < 54
+}
+forts_number_54 = {
+	bunker > 53
+	bunker < 55
+}
+forts_number_55 = {
+	bunker > 54
+	bunker < 56
+}
+forts_number_56 = {
+	bunker > 55
+	bunker < 57
+}
+forts_number_57 = {
+	bunker > 56
+	bunker < 58
+}
+forts_number_58 = {
+	bunker > 57
+	bunker < 59
+}
+forts_number_59 = {
+	bunker > 58
+	bunker < 60
+}
+forts_number_60 = {
+	bunker > 59
+	bunker < 61
+}
+forts_number_61 = {
+	bunker > 60
+	bunker < 62
+}
+forts_number_62 = {
+	bunker > 61
+	bunker < 63
+}
+forts_number_63 = {
+	bunker > 62
+	bunker < 64
+}
+forts_number_64 = {
+	bunker > 63
+	bunker < 65
+}
+forts_number_65 = {
+	bunker > 64
+	bunker < 66
+}
+forts_number_66 = {
+	bunker > 65
+	bunker < 67
+}
+forts_number_67 = {
+	bunker > 66
+	bunker < 68
+}
+forts_number_68 = {
+	bunker > 67
+	bunker < 69
+}
+forts_number_69 = {
+	bunker > 68
+	bunker < 70
+}
+forts_number_70 = {
+	bunker > 69
+	bunker < 71
+}
+forts_number_71 = {
+	bunker > 70
+	bunker < 72
+}
+forts_number_72 = {
+	bunker > 71
+	bunker < 73
+}
+forts_number_73 = {
+	bunker > 72
+	bunker < 74
+}
+forts_number_74 = {
+	bunker > 73
+	bunker < 75
+}
+forts_number_75 = {
+	bunker > 74
+	bunker < 76
+}
+forts_number_76 = {
+	bunker > 75
+	bunker < 77
+}
+forts_number_77 = {
+	bunker > 76
+	bunker < 78
+}
+forts_number_78 = {
+	bunker > 77
+	bunker < 79
+}
+forts_number_79 = {
+	bunker > 78
+	bunker < 80
+}
+forts_number_80 = {
+	bunker > 79
+	bunker < 81
+}
+forts_number_81 = {
+	bunker > 80
+	bunker < 82
+}
+forts_number_82 = {
+	bunker > 81
+	bunker < 83
+}
+forts_number_83 = {
+	bunker > 82
+	bunker < 84
+}
+forts_number_84 = {
+	bunker > 83
+	bunker < 85
+}
+forts_number_85 = {
+	bunker > 84
+	bunker < 86
+}
+forts_number_86 = {
+	bunker > 85
+	bunker < 87
+}
+forts_number_87 = {
+	bunker > 86
+	bunker < 88
+}
+forts_number_88 = {
+	bunker > 87
+	bunker < 89
+}
+forts_number_89 = {
+	bunker > 88
+	bunker < 90
+}
+forts_number_90 = {
+	bunker > 89
+	bunker < 91
+}
+forts_number_91 = {
+	bunker > 90
+	bunker < 92
+}
+forts_number_92 = {
+	bunker > 91
+	bunker < 93
+}
+forts_number_93 = {
+	bunker > 92
+	bunker < 94
+}
+forts_number_94 = {
+	bunker > 93
+	bunker < 95
+}
+forts_number_95 = {
+	bunker > 94
+	bunker < 96
+}
+forts_number_96 = {
+	bunker > 95
+	bunker < 97
+}
+forts_number_97 = {
+	bunker > 96
+	bunker < 98
+}
+forts_number_98 = {
+	bunker > 97
+	bunker < 99
+}
+forts_number_99 = {
+	bunker > 98
+	bunker < 100
+}
+forts_number_100 = {
+	bunker > 99
+	bunker < 101
+}
+forts_number_101 = {
+	bunker > 100
+	bunker < 102
+}
+forts_number_102 = {
+	bunker > 101
+	bunker < 103
+}
+forts_number_103 = {
+	bunker > 102
+	bunker < 104
+}
+forts_number_104 = {
+	bunker > 103
+	bunker < 105
+}
+forts_number_105 = {
+	bunker > 104
+	bunker < 106
+}
+forts_number_106 = {
+	bunker > 105
+	bunker < 107
+}
+forts_number_107 = {
+	bunker > 106
+	bunker < 108
+}
+forts_number_108 = {
+	bunker > 107
+	bunker < 109
+}
+forts_number_109 = {
+	bunker > 108
+	bunker < 110
+}
+forts_number_110 = {
+	bunker > 109
+	bunker < 111
+}
+forts_number_111 = {
+	bunker > 110
+	bunker < 112
+}
+forts_number_112 = {
+	bunker > 111
+	bunker < 113
+}
+forts_number_113 = {
+	bunker > 112
+	bunker < 114
+}
+forts_number_114 = {
+	bunker > 113
+	bunker < 115
+}
+forts_number_115 = {
+	bunker > 114
+	bunker < 116
+}
+forts_number_116 = {
+	bunker > 115
+	bunker < 117
+}
+forts_number_117 = {
+	bunker > 116
+	bunker < 118
+}
+forts_number_118 = {
+	bunker > 117
+	bunker < 119
+}
+forts_number_119 = {
+	bunker > 118
+	bunker < 120
+}
+forts_number_120 = {
+	bunker > 119
+	bunker < 121
+}
+forts_number_121 = {
+	bunker > 120
+	bunker < 122
+}
+forts_number_122 = {
+	bunker > 121
+	bunker < 123
+}
+forts_number_123 = {
+	bunker > 122
+	bunker < 124
+}
+forts_number_124 = {
+	bunker > 123
+	bunker < 125
+}
+forts_number_125 = {
+	bunker > 124
+	bunker < 126
+}
+forts_number_126 = {
+	bunker > 125
+	bunker < 127
+}
+forts_number_127 = {
+	bunker > 126
+	bunker < 128
+}
+forts_number_128 = {
+	bunker > 127
+	bunker < 129
+}
+forts_number_129 = {
+	bunker > 128
+	bunker < 130
+}
+forts_number_130 = {
+	bunker > 129
+	bunker < 131
+}
+forts_number_131 = {
+	bunker > 130
+	bunker < 132
+}
+forts_number_132 = {
+	bunker > 131
+	bunker < 133
+}
+forts_number_133 = {
+	bunker > 132
+	bunker < 134
+}
+forts_number_134 = {
+	bunker > 133
+	bunker < 135
+}
+forts_number_135 = {
+	bunker > 134
+	bunker < 136
+}
+forts_number_136 = {
+	bunker > 135
+	bunker < 137
+}
+forts_number_137 = {
+	bunker > 136
+	bunker < 138
+}
+forts_number_138 = {
+	bunker > 137
+	bunker < 139
+}
+forts_number_139 = {
+	bunker > 138
+	bunker < 140
+}
+forts_number_140 = {
+	bunker > 139
+	bunker < 141
+}
+forts_number_141 = {
+	bunker > 140
+	bunker < 142
+}
+forts_number_142 = {
+	bunker > 141
+	bunker < 143
+}
+forts_number_143 = {
+	bunker > 142
+	bunker < 144
+}
+forts_number_144 = {
+	bunker > 143
+	bunker < 145
+}
+forts_number_145 = {
+	bunker > 144
+	bunker < 146
+}
+forts_number_146 = {
+	bunker > 145
+	bunker < 147
+}
+forts_number_147 = {
+	bunker > 146
+	bunker < 148
+}
+forts_number_148 = {
+	bunker > 147
+	bunker < 149
+}
+forts_number_149 = {
+	bunker > 148
+	bunker < 150
+}
+forts_number_150 = {
+	bunker > 149
+	bunker < 151
+}
+forts_number_151 = {
+	bunker > 150
+	bunker < 152
+}
+forts_number_152 = {
+	bunker > 151
+	bunker < 153
+}
+forts_number_153 = {
+	bunker > 152
+	bunker < 154
+}
+forts_number_154 = {
+	bunker > 153
+	bunker < 155
+}
+forts_number_155 = {
+	bunker > 154
+	bunker < 156
+}
+forts_number_156 = {
+	bunker > 155
+	bunker < 157
+}
+forts_number_157 = {
+	bunker > 156
+	bunker < 158
+}
+forts_number_158 = {
+	bunker > 157
+	bunker < 159
+}
+forts_number_159 = {
+	bunker > 158
+	bunker < 160
+}
+forts_number_160 = {
+	bunker > 159
+	bunker < 161
+}
+forts_number_161 = {
+	bunker > 160
+	bunker < 162
+}
+forts_number_162 = {
+	bunker > 161
+	bunker < 163
+}
+forts_number_163 = {
+	bunker > 162
+	bunker < 164
+}
+forts_number_164 = {
+	bunker > 163
+	bunker < 165
+}
+forts_number_165 = {
+	bunker > 164
+	bunker < 166
+}
+forts_number_166 = {
+	bunker > 165
+	bunker < 167
+}
+forts_number_167 = {
+	bunker > 166
+	bunker < 168
+}
+forts_number_168 = {
+	bunker > 167
+	bunker < 169
+}
+forts_number_169 = {
+	bunker > 168
+	bunker < 170
+}
+forts_number_170 = {
+	bunker > 169
+	bunker < 171
+}
+forts_number_171 = {
+	bunker > 170
+	bunker < 172
+}
+forts_number_172 = {
+	bunker > 171
+	bunker < 173
+}
+forts_number_173 = {
+	bunker > 172
+	bunker < 174
+}
+forts_number_174 = {
+	bunker > 173
+	bunker < 175
+}
+forts_number_175 = {
+	bunker > 174
+	bunker < 176
+}
+forts_number_176 = {
+	bunker > 175
+	bunker < 177
+}
+forts_number_177 = {
+	bunker > 176
+	bunker < 178
+}
+forts_number_178 = {
+	bunker > 177
+	bunker < 179
+}
+forts_number_179 = {
+	bunker > 178
+	bunker < 180
+}
+forts_number_180 = {
+	bunker > 179
+	bunker < 181
+}
+forts_number_181 = {
+	bunker > 180
+	bunker < 182
+}
+forts_number_182 = {
+	bunker > 181
+	bunker < 183
+}
+forts_number_183 = {
+	bunker > 182
+	bunker < 184
+}
+forts_number_184 = {
+	bunker > 183
+	bunker < 185
+}
+forts_number_185 = {
+	bunker > 184
+	bunker < 186
+}
+forts_number_186 = {
+	bunker > 185
+	bunker < 187
+}
+forts_number_187 = {
+	bunker > 186
+	bunker < 188
+}
+forts_number_188 = {
+	bunker > 187
+	bunker < 189
+}
+forts_number_189 = {
+	bunker > 188
+	bunker < 190
+}
+forts_number_190 = {
+	bunker > 189
+	bunker < 191
+}
+forts_number_191 = {
+	bunker > 190
+	bunker < 192
+}
+forts_number_192 = {
+	bunker > 191
+	bunker < 193
+}
+forts_number_193 = {
+	bunker > 192
+	bunker < 194
+}
+forts_number_194 = {
+	bunker > 193
+	bunker < 195
+}
+forts_number_195 = {
+	bunker > 194
+	bunker < 196
+}
+forts_number_196 = {
+	bunker > 195
+	bunker < 197
+}
+forts_number_197 = {
+	bunker > 196
+	bunker < 198
+}
+forts_number_198 = {
+	bunker > 197
+	bunker < 199
+}
+forts_number_199 = {
+	bunker > 198
+	bunker < 200
+}
+forts_number_200 = {
+	bunker > 199
+	bunker < 201
+}
+forts_number_201 = {
+	bunker > 200
+	bunker < 202
+}
+forts_number_202 = {
+	bunker > 201
+	bunker < 203
+}
+forts_number_203 = {
+	bunker > 202
+	bunker < 204
+}
+forts_number_204 = {
+	bunker > 203
+	bunker < 205
+}
+forts_number_205 = {
+	bunker > 204
+	bunker < 206
+}
+forts_number_206 = {
+	bunker > 205
+	bunker < 207
+}
+forts_number_207 = {
+	bunker > 206
+	bunker < 208
+}
+forts_number_208 = {
+	bunker > 207
+	bunker < 209
+}
+forts_number_209 = {
+	bunker > 208
+	bunker < 210
+}
+forts_number_210 = {
+	bunker > 209
+	bunker < 211
+}
+forts_number_211 = {
+	bunker > 210
+	bunker < 212
+}
+forts_number_212 = {
+	bunker > 211
+	bunker < 213
+}
+forts_number_213 = {
+	bunker > 212
+	bunker < 214
+}
+forts_number_214 = {
+	bunker > 213
+	bunker < 215
+}
+forts_number_215 = {
+	bunker > 214
+	bunker < 216
+}
+forts_number_216 = {
+	bunker > 215
+	bunker < 217
+}
+forts_number_217 = {
+	bunker > 216
+	bunker < 218
+}
+forts_number_218 = {
+	bunker > 217
+	bunker < 219
+}
+forts_number_219 = {
+	bunker > 218
+	bunker < 220
+}
+forts_number_220 = {
+	bunker > 219
+	bunker < 221
+}
+forts_number_221 = {
+	bunker > 220
+	bunker < 222
+}
+forts_number_222 = {
+	bunker > 221
+	bunker < 223
+}
+forts_number_223 = {
+	bunker > 222
+	bunker < 224
+}
+forts_number_224 = {
+	bunker > 223
+	bunker < 225
+}
+forts_number_225 = {
+	bunker > 224
+	bunker < 226
+}
+forts_number_226 = {
+	bunker > 225
+	bunker < 227
+}
+forts_number_227 = {
+	bunker > 226
+	bunker < 228
+}
+forts_number_228 = {
+	bunker > 227
+	bunker < 229
+}
+forts_number_229 = {
+	bunker > 228
+	bunker < 230
+}
+forts_number_230 = {
+	bunker > 229
+	bunker < 231
+}
+forts_number_231 = {
+	bunker > 230
+	bunker < 232
+}
+forts_number_232 = {
+	bunker > 231
+	bunker < 233
+}
+forts_number_233 = {
+	bunker > 232
+	bunker < 234
+}
+forts_number_234 = {
+	bunker > 233
+	bunker < 235
+}
+forts_number_235 = {
+	bunker > 234
+	bunker < 236
+}
+forts_number_236 = {
+	bunker > 235
+	bunker < 237
+}
+forts_number_237 = {
+	bunker > 236
+	bunker < 238
+}
+forts_number_238 = {
+	bunker > 237
+	bunker < 239
+}
+forts_number_239 = {
+	bunker > 238
+	bunker < 240
+}
+forts_number_240 = {
+	bunker > 239
+	bunker < 241
+}
+forts_number_241 = {
+	bunker > 240
+	bunker < 242
+}
+forts_number_242 = {
+	bunker > 241
+	bunker < 243
+}
+forts_number_243 = {
+	bunker > 242
+	bunker < 244
+}
+forts_number_244 = {
+	bunker > 243
+	bunker < 245
+}
+forts_number_245 = {
+	bunker > 244
+	bunker < 246
+}
+forts_number_246 = {
+	bunker > 245
+	bunker < 247
+}
+forts_number_247 = {
+	bunker > 246
+	bunker < 248
+}
+forts_number_248 = {
+	bunker > 247
+	bunker < 249
+}
+forts_number_249 = {
+	bunker > 248
+	bunker < 250
+}
+forts_number_250 = {
+	bunker > 249
+	bunker < 251
+}
+forts_number_251 = {
+	bunker > 250
+	bunker < 252
+}
+forts_number_252 = {
+	bunker > 251
+	bunker < 253
+}
+forts_number_253 = {
+	bunker > 252
+	bunker < 254
+}
+forts_number_254 = {
+	bunker > 253
+	bunker < 255
+}
+forts_number_255 = {
+	bunker > 254
+	bunker < 256
+}
+forts_number_256 = {
+	bunker > 255
+	bunker < 257
+}
+forts_number_257 = {
+	bunker > 256
+	bunker < 258
+}
+forts_number_258 = {
+	bunker > 257
+	bunker < 259
+}
+forts_number_259 = {
+	bunker > 258
+	bunker < 260
+}
+forts_number_260 = {
+	bunker > 259
+	bunker < 261
+}
+forts_number_261 = {
+	bunker > 260
+	bunker < 262
+}
+forts_number_262 = {
+	bunker > 261
+	bunker < 263
+}
+forts_number_263 = {
+	bunker > 262
+	bunker < 264
+}
+forts_number_264 = {
+	bunker > 263
+	bunker < 265
+}
+forts_number_265 = {
+	bunker > 264
+	bunker < 266
+}
+forts_number_266 = {
+	bunker > 265
+	bunker < 267
+}
+forts_number_267 = {
+	bunker > 266
+	bunker < 268
+}
+forts_number_268 = {
+	bunker > 267
+	bunker < 269
+}
+forts_number_269 = {
+	bunker > 268
+	bunker < 270
+}
+forts_number_270 = {
+	bunker > 269
+	bunker < 271
+}
+forts_number_271 = {
+	bunker > 270
+	bunker < 272
+}
+forts_number_272 = {
+	bunker > 271
+	bunker < 273
+}
+forts_number_273 = {
+	bunker > 272
+	bunker < 274
+}
+forts_number_274 = {
+	bunker > 273
+	bunker < 275
+}
+forts_number_275 = {
+	bunker > 274
+	bunker < 276
+}
+forts_number_276 = {
+	bunker > 275
+	bunker < 277
+}
+forts_number_277 = {
+	bunker > 276
+	bunker < 278
+}
+forts_number_278 = {
+	bunker > 277
+	bunker < 279
+}
+forts_number_279 = {
+	bunker > 278
+	bunker < 280
+}
+forts_number_280 = {
+	bunker > 279
+	bunker < 281
+}
+forts_number_281 = {
+	bunker > 280
+	bunker < 282
+}
+forts_number_282 = {
+	bunker > 281
+	bunker < 283
+}
+forts_number_283 = {
+	bunker > 282
+	bunker < 284
+}
+forts_number_284 = {
+	bunker > 283
+	bunker < 285
+}
+forts_number_285 = {
+	bunker > 284
+	bunker < 286
+}
+forts_number_286 = {
+	bunker > 285
+	bunker < 287
+}
+forts_number_287 = {
+	bunker > 286
+	bunker < 288
+}
+forts_number_288 = {
+	bunker > 287
+	bunker < 289
+}
+forts_number_289 = {
+	bunker > 288
+	bunker < 290
+}
+forts_number_290 = {
+	bunker > 289
+	bunker < 291
+}
+forts_number_291 = {
+	bunker > 290
+	bunker < 292
+}
+forts_number_292 = {
+	bunker > 291
+	bunker < 293
+}
+forts_number_293 = {
+	bunker > 292
+	bunker < 294
+}
+forts_number_294 = {
+	bunker > 293
+	bunker < 295
+}
+forts_number_295 = {
+	bunker > 294
+	bunker < 296
+}
+forts_number_296 = {
+	bunker > 295
+	bunker < 297
+}
+forts_number_297 = {
+	bunker > 296
+	bunker < 298
+}
+forts_number_298 = {
+	bunker > 297
+	bunker < 299
+}
+forts_number_299 = {
+	bunker > 298
+	bunker < 300
+}
+forts_number_300 = {
+	bunker > 299
+	bunker < 301
+}
+forts_number_301 = {
+	bunker > 300
+	bunker < 302
+}
+forts_number_302 = {
+	bunker > 301
+	bunker < 303
+}
+forts_number_303 = {
+	bunker > 302
+	bunker < 304
+}
+forts_number_304 = {
+	bunker > 303
+	bunker < 305
+}
+forts_number_305 = {
+	bunker > 304
+	bunker < 306
+}
+forts_number_306 = {
+	bunker > 305
+	bunker < 307
+}
+forts_number_307 = {
+	bunker > 306
+	bunker < 308
+}
+forts_number_308 = {
+	bunker > 307
+	bunker < 309
+}
+forts_number_309 = {
+	bunker > 308
+	bunker < 310
+}
+forts_number_310 = {
+	bunker > 309
+	bunker < 311
+}
+forts_number_311 = {
+	bunker > 310
+	bunker < 312
+}
+forts_number_312 = {
+	bunker > 311
+	bunker < 313
+}
+forts_number_313 = {
+	bunker > 312
+	bunker < 314
+}
+forts_number_314 = {
+	bunker > 313
+	bunker < 315
+}
+forts_number_315 = {
+	bunker > 314
+	bunker < 316
+}
+forts_number_316 = {
+	bunker > 315
+	bunker < 317
+}
+forts_number_317 = {
+	bunker > 316
+	bunker < 318
+}
+forts_number_318 = {
+	bunker > 317
+	bunker < 319
+}
+forts_number_319 = {
+	bunker > 318
+	bunker < 320
+}
+forts_number_320 = {
+	bunker > 319
+	bunker < 321
+}
+forts_number_321 = {
+	bunker > 320
+	bunker < 322
+}
+forts_number_322 = {
+	bunker > 321
+	bunker < 323
+}
+forts_number_323 = {
+	bunker > 322
+	bunker < 324
+}
+forts_number_324 = {
+	bunker > 323
+	bunker < 325
+}
+forts_number_325 = {
+	bunker > 324
+	bunker < 326
+}
+forts_number_326 = {
+	bunker > 325
+	bunker < 327
+}
+forts_number_327 = {
+	bunker > 326
+	bunker < 328
+}
+forts_number_328 = {
+	bunker > 327
+	bunker < 329
+}
+forts_number_329 = {
+	bunker > 328
+	bunker < 330
+}
+forts_number_330 = {
+	bunker > 329
+	bunker < 331
+}
+forts_number_331 = {
+	bunker > 330
+	bunker < 332
+}
+forts_number_332 = {
+	bunker > 331
+	bunker < 333
+}
+forts_number_333 = {
+	bunker > 332
+	bunker < 334
+}
+forts_number_334 = {
+	bunker > 333
+	bunker < 335
+}
+forts_number_335 = {
+	bunker > 334
+	bunker < 336
+}
+forts_number_336 = {
+	bunker > 335
+	bunker < 337
+}
+forts_number_337 = {
+	bunker > 336
+	bunker < 338
+}
+forts_number_338 = {
+	bunker > 337
+	bunker < 339
+}
+forts_number_339 = {
+	bunker > 338
+	bunker < 340
+}
+forts_number_340 = {
+	bunker > 339
+	bunker < 341
+}
+forts_number_341 = {
+	bunker > 340
+	bunker < 342
+}
+forts_number_342 = {
+	bunker > 341
+	bunker < 343
+}
+forts_number_343 = {
+	bunker > 342
+	bunker < 344
+}
+forts_number_344 = {
+	bunker > 343
+	bunker < 345
+}
+forts_number_345 = {
+	bunker > 344
+	bunker < 346
+}
+forts_number_346 = {
+	bunker > 345
+	bunker < 347
+}
+forts_number_347 = {
+	bunker > 346
+	bunker < 348
+}
+forts_number_348 = {
+	bunker > 347
+	bunker < 349
+}
+forts_number_349 = {
+	bunker > 348
+	bunker < 350
+}
+forts_number_350 = {
+	bunker > 349
+	bunker < 351
+}
+forts_number_351 = {
+	bunker > 350
+	bunker < 352
+}
+forts_number_352 = {
+	bunker > 351
+	bunker < 353
+}
+forts_number_353 = {
+	bunker > 352
+	bunker < 354
+}
+forts_number_354 = {
+	bunker > 353
+	bunker < 355
+}
+forts_number_355 = {
+	bunker > 354
+	bunker < 356
+}
+forts_number_356 = {
+	bunker > 355
+	bunker < 357
+}
+forts_number_357 = {
+	bunker > 356
+	bunker < 358
+}
+forts_number_358 = {
+	bunker > 357
+	bunker < 359
+}
+forts_number_359 = {
+	bunker > 358
+	bunker < 360
+}
+forts_number_360 = {
+	bunker > 359
+	bunker < 361
+}
+forts_number_361 = {
+	bunker > 360
+	bunker < 362
+}
+forts_number_362 = {
+	bunker > 361
+	bunker < 363
+}
+forts_number_363 = {
+	bunker > 362
+	bunker < 364
+}
+forts_number_364 = {
+	bunker > 363
+	bunker < 365
+}
+forts_number_365 = {
+	bunker > 364
+	bunker < 366
+}
+forts_number_366 = {
+	bunker > 365
+	bunker < 367
+}
+forts_number_367 = {
+	bunker > 366
+	bunker < 368
+}
+forts_number_368 = {
+	bunker > 367
+	bunker < 369
+}
+forts_number_369 = {
+	bunker > 368
+	bunker < 370
+}
+forts_number_370 = {
+	bunker > 369
+	bunker < 371
+}
+forts_number_371 = {
+	bunker > 370
+	bunker < 372
+}
+forts_number_372 = {
+	bunker > 371
+	bunker < 373
+}
+forts_number_373 = {
+	bunker > 372
+	bunker < 374
+}
+forts_number_374 = {
+	bunker > 373
+	bunker < 375
+}
+forts_number_375 = {
+	bunker > 374
+	bunker < 376
+}
+forts_number_376 = {
+	bunker > 375
+	bunker < 377
+}
+forts_number_377 = {
+	bunker > 376
+	bunker < 378
+}
+forts_number_378 = {
+	bunker > 377
+	bunker < 379
+}
+forts_number_379 = {
+	bunker > 378
+	bunker < 380
+}
+forts_number_380 = {
+	bunker > 379
+	bunker < 381
+}
+forts_number_381 = {
+	bunker > 380
+	bunker < 382
+}
+forts_number_382 = {
+	bunker > 381
+	bunker < 383
+}
+forts_number_383 = {
+	bunker > 382
+	bunker < 384
+}
+forts_number_384 = {
+	bunker > 383
+	bunker < 385
+}
+forts_number_385 = {
+	bunker > 384
+	bunker < 386
+}
+forts_number_386 = {
+	bunker > 385
+	bunker < 387
+}
+forts_number_387 = {
+	bunker > 386
+	bunker < 388
+}
+forts_number_388 = {
+	bunker > 387
+	bunker < 389
+}
+forts_number_389 = {
+	bunker > 388
+	bunker < 390
+}
+forts_number_390 = {
+	bunker > 389
+	bunker < 391
+}
+forts_number_391 = {
+	bunker > 390
+	bunker < 392
+}
+forts_number_392 = {
+	bunker > 391
+	bunker < 393
+}
+forts_number_393 = {
+	bunker > 392
+	bunker < 394
+}
+forts_number_394 = {
+	bunker > 393
+	bunker < 395
+}
+forts_number_395 = {
+	bunker > 394
+	bunker < 396
+}
+forts_number_396 = {
+	bunker > 395
+	bunker < 397
+}
+forts_number_397 = {
+	bunker > 396
+	bunker < 398
+}
+forts_number_398 = {
+	bunker > 397
+	bunker < 399
+}
+forts_number_399 = {
+	bunker > 398
+	bunker < 400
+}
+forts_number_400 = {
+	bunker > 399
+	bunker < 401
+}
+forts_number_401 = {
+	bunker > 400
+	bunker < 402
+}
+forts_number_402 = {
+	bunker > 401
+	bunker < 403
+}
+forts_number_403 = {
+	bunker > 402
+	bunker < 404
+}
+forts_number_404 = {
+	bunker > 403
+	bunker < 405
+}
+forts_number_405 = {
+	bunker > 404
+	bunker < 406
+}
+forts_number_406 = {
+	bunker > 405
+	bunker < 407
+}
+forts_number_407 = {
+	bunker > 406
+	bunker < 408
+}
+forts_number_408 = {
+	bunker > 407
+	bunker < 409
+}
+forts_number_409 = {
+	bunker > 408
+	bunker < 410
+}
+forts_number_410 = {
+	bunker > 409
+	bunker < 411
+}
+forts_number_411 = {
+	bunker > 410
+	bunker < 412
+}
+forts_number_412 = {
+	bunker > 411
+	bunker < 413
+}
+forts_number_413 = {
+	bunker > 412
+	bunker < 414
+}
+forts_number_414 = {
+	bunker > 413
+	bunker < 415
+}
+forts_number_415 = {
+	bunker > 414
+	bunker < 416
+}
+forts_number_416 = {
+	bunker > 415
+	bunker < 417
+}
+forts_number_417 = {
+	bunker > 416
+	bunker < 418
+}
+forts_number_418 = {
+	bunker > 417
+	bunker < 419
+}
+forts_number_419 = {
+	bunker > 418
+	bunker < 420
+}
+forts_number_420 = {
+	bunker > 419
+	bunker < 421
+}
+forts_number_421 = {
+	bunker > 420
+	bunker < 422
+}
+forts_number_422 = {
+	bunker > 421
+	bunker < 423
+}
+forts_number_423 = {
+	bunker > 422
+	bunker < 424
+}
+forts_number_424 = {
+	bunker > 423
+	bunker < 425
+}
+forts_number_425 = {
+	bunker > 424
+	bunker < 426
+}
+forts_number_426 = {
+	bunker > 425
+	bunker < 427
+}
+forts_number_427 = {
+	bunker > 426
+	bunker < 428
+}
+forts_number_428 = {
+	bunker > 427
+	bunker < 429
+}
+forts_number_429 = {
+	bunker > 428
+	bunker < 430
+}
+forts_number_430 = {
+	bunker > 429
+	bunker < 431
+}
+forts_number_431 = {
+	bunker > 430
+	bunker < 432
+}
+forts_number_432 = {
+	bunker > 431
+	bunker < 433
+}
+forts_number_433 = {
+	bunker > 432
+	bunker < 434
+}
+forts_number_434 = {
+	bunker > 433
+	bunker < 435
+}
+forts_number_435 = {
+	bunker > 434
+	bunker < 436
+}
+forts_number_436 = {
+	bunker > 435
+	bunker < 437
+}
+forts_number_437 = {
+	bunker > 436
+	bunker < 438
+}
+forts_number_438 = {
+	bunker > 437
+	bunker < 439
+}
+forts_number_439 = {
+	bunker > 438
+	bunker < 440
+}
+forts_number_440 = {
+	bunker > 439
+	bunker < 441
+}
+forts_number_441 = {
+	bunker > 440
+	bunker < 442
+}
+forts_number_442 = {
+	bunker > 441
+	bunker < 443
+}
+forts_number_443 = {
+	bunker > 442
+	bunker < 444
+}
+forts_number_444 = {
+	bunker > 443
+	bunker < 445
+}
+forts_number_445 = {
+	bunker > 444
+	bunker < 446
+}
+forts_number_446 = {
+	bunker > 445
+	bunker < 447
+}
+forts_number_447 = {
+	bunker > 446
+	bunker < 448
+}
+forts_number_448 = {
+	bunker > 447
+	bunker < 449
+}
+forts_number_449 = {
+	bunker > 448
+	bunker < 450
+}
+forts_number_450 = {
+	bunker > 449
+	bunker < 451
+}
+forts_number_451 = {
+	bunker > 450
+	bunker < 452
+}
+forts_number_452 = {
+	bunker > 451
+	bunker < 453
+}
+forts_number_453 = {
+	bunker > 452
+	bunker < 454
+}
+forts_number_454 = {
+	bunker > 453
+	bunker < 455
+}
+forts_number_455 = {
+	bunker > 454
+	bunker < 456
+}
+forts_number_456 = {
+	bunker > 455
+	bunker < 457
+}
+forts_number_457 = {
+	bunker > 456
+	bunker < 458
+}
+forts_number_458 = {
+	bunker > 457
+	bunker < 459
+}
+forts_number_459 = {
+	bunker > 458
+	bunker < 460
+}
+forts_number_460 = {
+	bunker > 459
+	bunker < 461
+}
+forts_number_461 = {
+	bunker > 460
+	bunker < 462
+}
+forts_number_462 = {
+	bunker > 461
+	bunker < 463
+}
+forts_number_463 = {
+	bunker > 462
+	bunker < 464
+}
+forts_number_464 = {
+	bunker > 463
+	bunker < 465
+}
+forts_number_465 = {
+	bunker > 464
+	bunker < 466
+}
+forts_number_466 = {
+	bunker > 465
+	bunker < 467
+}
+forts_number_467 = {
+	bunker > 466
+	bunker < 468
+}
+forts_number_468 = {
+	bunker > 467
+	bunker < 469
+}
+forts_number_469 = {
+	bunker > 468
+	bunker < 470
+}
+forts_number_470 = {
+	bunker > 469
+	bunker < 471
+}
+forts_number_471 = {
+	bunker > 470
+	bunker < 472
+}
+forts_number_472 = {
+	bunker > 471
+	bunker < 473
+}
+forts_number_473 = {
+	bunker > 472
+	bunker < 474
+}
+forts_number_474 = {
+	bunker > 473
+	bunker < 475
+}
+forts_number_475 = {
+	bunker > 474
+	bunker < 476
+}
+forts_number_476 = {
+	bunker > 475
+	bunker < 477
+}
+forts_number_477 = {
+	bunker > 476
+	bunker < 478
+}
+forts_number_478 = {
+	bunker > 477
+	bunker < 479
+}
+forts_number_479 = {
+	bunker > 478
+	bunker < 480
+}
+forts_number_480 = {
+	bunker > 479
+	bunker < 481
+}
+forts_number_481 = {
+	bunker > 480
+	bunker < 482
+}
+forts_number_482 = {
+	bunker > 481
+	bunker < 483
+}
+forts_number_483 = {
+	bunker > 482
+	bunker < 484
+}
+forts_number_484 = {
+	bunker > 483
+	bunker < 485
+}
+forts_number_485 = {
+	bunker > 484
+	bunker < 486
+}
+forts_number_486 = {
+	bunker > 485
+	bunker < 487
+}
+forts_number_487 = {
+	bunker > 486
+	bunker < 488
+}
+forts_number_488 = {
+	bunker > 487
+	bunker < 489
+}
+forts_number_489 = {
+	bunker > 488
+	bunker < 490
+}
+forts_number_490 = {
+	bunker > 489
+	bunker < 491
+}
+forts_number_491 = {
+	bunker > 490
+	bunker < 492
+}
+forts_number_492 = {
+	bunker > 491
+	bunker < 493
+}
+forts_number_493 = {
+	bunker > 492
+	bunker < 494
+}
+forts_number_494 = {
+	bunker > 493
+	bunker < 495
+}
+forts_number_495 = {
+	bunker > 494
+	bunker < 496
+}
+forts_number_496 = {
+	bunker > 495
+	bunker < 497
+}
+forts_number_497 = {
+	bunker > 496
+	bunker < 498
+}
+forts_number_498 = {
+	bunker > 497
+	bunker < 499
+}
+forts_number_499 = {
+	bunker > 498
+	bunker < 500
+}
+forts_number_500 = {
+	bunker > 499
+	bunker < 501
+}
+forts_number_501 = {
+	bunker > 500
+	bunker < 502
+}
+forts_number_502 = {
+	bunker > 501
+	bunker < 503
+}
+forts_number_503 = {
+	bunker > 502
+	bunker < 504
+}
+forts_number_504 = {
+	bunker > 503
+	bunker < 505
+}
+forts_number_505 = {
+	bunker > 504
+	bunker < 506
+}
+forts_number_506 = {
+	bunker > 505
+	bunker < 507
+}
+forts_number_507 = {
+	bunker > 506
+	bunker < 508
+}
+forts_number_508 = {
+	bunker > 507
+	bunker < 509
+}
+forts_number_509 = {
+	bunker > 508
+	bunker < 510
+}
+forts_number_510 = {
+	bunker > 509
+	bunker < 511
+}
+forts_number_511 = {
+	bunker > 510
+	bunker < 512
+}
+forts_number_512 = {
+	bunker > 511
+	bunker < 513
+}
+forts_number_513 = {
+	bunker > 512
+	bunker < 514
+}
+forts_number_514 = {
+	bunker > 513
+	bunker < 515
+}
+forts_number_515 = {
+	bunker > 514
+	bunker < 516
+}
+forts_number_516 = {
+	bunker > 515
+	bunker < 517
+}
+forts_number_517 = {
+	bunker > 516
+	bunker < 518
+}
+forts_number_518 = {
+	bunker > 517
+	bunker < 519
+}
+forts_number_519 = {
+	bunker > 518
+	bunker < 520
+}
+forts_number_520 = {
+	bunker > 519
+	bunker < 521
+}
+forts_number_521 = {
+	bunker > 520
+	bunker < 522
+}
+forts_number_522 = {
+	bunker > 521
+	bunker < 523
+}
+forts_number_523 = {
+	bunker > 522
+	bunker < 524
+}
+forts_number_524 = {
+	bunker > 523
+	bunker < 525
+}
+forts_number_525 = {
+	bunker > 524
+	bunker < 526
+}
+forts_number_526 = {
+	bunker > 525
+	bunker < 527
+}
+forts_number_527 = {
+	bunker > 526
+	bunker < 528
+}
+forts_number_528 = {
+	bunker > 527
+	bunker < 529
+}
+forts_number_529 = {
+	bunker > 528
+	bunker < 530
+}
+forts_number_530 = {
+	bunker > 529
+	bunker < 531
+}
+forts_number_531 = {
+	bunker > 530
+	bunker < 532
+}
+forts_number_532 = {
+	bunker > 531
+	bunker < 533
+}
+forts_number_533 = {
+	bunker > 532
+	bunker < 534
+}
+forts_number_534 = {
+	bunker > 533
+	bunker < 535
+}
+forts_number_535 = {
+	bunker > 534
+	bunker < 536
+}
+forts_number_536 = {
+	bunker > 535
+	bunker < 537
+}
+forts_number_537 = {
+	bunker > 536
+	bunker < 538
+}
+forts_number_538 = {
+	bunker > 537
+	bunker < 539
+}
+forts_number_539 = {
+	bunker > 538
+	bunker < 540
+}
+forts_number_540 = {
+	bunker > 539
+	bunker < 541
+}
+forts_number_541 = {
+	bunker > 540
+	bunker < 542
+}
+forts_number_542 = {
+	bunker > 541
+	bunker < 543
+}
+forts_number_543 = {
+	bunker > 542
+	bunker < 544
+}
+forts_number_544 = {
+	bunker > 543
+	bunker < 545
+}
+forts_number_545 = {
+	bunker > 544
+	bunker < 546
+}
+forts_number_546 = {
+	bunker > 545
+	bunker < 547
+}
+forts_number_547 = {
+	bunker > 546
+	bunker < 548
+}
+forts_number_548 = {
+	bunker > 547
+	bunker < 549
+}
+forts_number_549 = {
+	bunker > 548
+	bunker < 550
+}
+forts_number_550 = {
+	bunker > 549
+	bunker < 551
+}
+forts_number_551 = {
+	bunker > 550
+	bunker < 552
+}
+forts_number_552 = {
+	bunker > 551
+	bunker < 553
+}
+forts_number_553 = {
+	bunker > 552
+	bunker < 554
+}
+forts_number_554 = {
+	bunker > 553
+	bunker < 555
+}
+forts_number_555 = {
+	bunker > 554
+	bunker < 556
+}
+forts_number_556 = {
+	bunker > 555
+	bunker < 557
+}
+forts_number_557 = {
+	bunker > 556
+	bunker < 558
+}
+forts_number_558 = {
+	bunker > 557
+	bunker < 559
+}
+forts_number_559 = {
+	bunker > 558
+	bunker < 560
+}
+forts_number_560 = {
+	bunker > 559
+	bunker < 561
+}
+forts_number_561 = {
+	bunker > 560
+	bunker < 562
+}
+forts_number_562 = {
+	bunker > 561
+	bunker < 563
+}
+forts_number_563 = {
+	bunker > 562
+	bunker < 564
+}
+forts_number_564 = {
+	bunker > 563
+	bunker < 565
+}
+forts_number_565 = {
+	bunker > 564
+	bunker < 566
+}
+forts_number_566 = {
+	bunker > 565
+	bunker < 567
+}
+forts_number_567 = {
+	bunker > 566
+	bunker < 568
+}
+forts_number_568 = {
+	bunker > 567
+	bunker < 569
+}
+forts_number_569 = {
+	bunker > 568
+	bunker < 570
+}
+forts_number_570 = {
+	bunker > 569
+	bunker < 571
+}
+forts_number_571 = {
+	bunker > 570
+	bunker < 572
+}
+forts_number_572 = {
+	bunker > 571
+	bunker < 573
+}
+forts_number_573 = {
+	bunker > 572
+	bunker < 574
+}
+forts_number_574 = {
+	bunker > 573
+	bunker < 575
+}
+forts_number_575 = {
+	bunker > 574
+	bunker < 576
+}
+forts_number_576 = {
+	bunker > 575
+	bunker < 577
+}
+forts_number_577 = {
+	bunker > 576
+	bunker < 578
+}
+forts_number_578 = {
+	bunker > 577
+	bunker < 579
+}
+forts_number_579 = {
+	bunker > 578
+	bunker < 580
+}
+forts_number_580 = {
+	bunker > 579
+	bunker < 581
+}
+forts_number_581 = {
+	bunker > 580
+	bunker < 582
+}
+forts_number_582 = {
+	bunker > 581
+	bunker < 583
+}
+forts_number_583 = {
+	bunker > 582
+	bunker < 584
+}
+forts_number_584 = {
+	bunker > 583
+	bunker < 585
+}
+forts_number_585 = {
+	bunker > 584
+	bunker < 586
+}
+forts_number_586 = {
+	bunker > 585
+	bunker < 587
+}
+forts_number_587 = {
+	bunker > 586
+	bunker < 588
+}
+forts_number_588 = {
+	bunker > 587
+	bunker < 589
+}
+forts_number_589 = {
+	bunker > 588
+	bunker < 590
+}
+forts_number_590 = {
+	bunker > 589
+	bunker < 591
+}
+forts_number_591 = {
+	bunker > 590
+	bunker < 592
+}
+forts_number_592 = {
+	bunker > 591
+	bunker < 593
+}
+forts_number_593 = {
+	bunker > 592
+	bunker < 594
+}
+forts_number_594 = {
+	bunker > 593
+	bunker < 595
+}
+forts_number_595 = {
+	bunker > 594
+	bunker < 596
+}
+forts_number_596 = {
+	bunker > 595
+	bunker < 597
+}
+forts_number_597 = {
+	bunker > 596
+	bunker < 598
+}
+forts_number_598 = {
+	bunker > 597
+	bunker < 599
+}
+forts_number_599 = {
+	bunker > 598
+	bunker < 600
+}
+forts_number_600 = {
+	bunker > 599
+	bunker < 601
+}
+forts_number_601 = {
+	bunker > 600
+	bunker < 602
+}
+forts_number_602 = {
+	bunker > 601
+	bunker < 603
+}
+forts_number_603 = {
+	bunker > 602
+	bunker < 604
+}
+forts_number_604 = {
+	bunker > 603
+	bunker < 605
+}
+forts_number_605 = {
+	bunker > 604
+	bunker < 606
+}
+forts_number_606 = {
+	bunker > 605
+	bunker < 607
+}
+forts_number_607 = {
+	bunker > 606
+	bunker < 608
+}
+forts_number_608 = {
+	bunker > 607
+	bunker < 609
+}
+forts_number_609 = {
+	bunker > 608
+	bunker < 610
+}
+forts_number_610 = {
+	bunker > 609
+	bunker < 611
+}
+forts_number_611 = {
+	bunker > 610
+	bunker < 612
+}
+forts_number_612 = {
+	bunker > 611
+	bunker < 613
+}
+forts_number_613 = {
+	bunker > 612
+	bunker < 614
+}
+forts_number_614 = {
+	bunker > 613
+	bunker < 615
+}
+forts_number_615 = {
+	bunker > 614
+	bunker < 616
+}
+forts_number_616 = {
+	bunker > 615
+	bunker < 617
+}
+forts_number_617 = {
+	bunker > 616
+	bunker < 618
+}
+forts_number_618 = {
+	bunker > 617
+	bunker < 619
+}
+forts_number_619 = {
+	bunker > 618
+	bunker < 620
+}
+forts_number_620 = {
+	bunker > 619
+	bunker < 621
+}
+forts_number_621 = {
+	bunker > 620
+	bunker < 622
+}
+forts_number_622 = {
+	bunker > 621
+	bunker < 623
+}
+forts_number_623 = {
+	bunker > 622
+	bunker < 624
+}
+forts_number_624 = {
+	bunker > 623
+	bunker < 625
+}
+forts_number_625 = {
+	bunker > 624
+	bunker < 626
+}
+forts_number_626 = {
+	bunker > 625
+	bunker < 627
+}
+forts_number_627 = {
+	bunker > 626
+	bunker < 628
+}
+forts_number_628 = {
+	bunker > 627
+	bunker < 629
+}
+forts_number_629 = {
+	bunker > 628
+	bunker < 630
+}
+forts_number_630 = {
+	bunker > 629
+	bunker < 631
+}
+forts_number_631 = {
+	bunker > 630
+	bunker < 632
+}
+forts_number_632 = {
+	bunker > 631
+	bunker < 633
+}
+forts_number_633 = {
+	bunker > 632
+	bunker < 634
+}
+forts_number_634 = {
+	bunker > 633
+	bunker < 635
+}
+forts_number_635 = {
+	bunker > 634
+	bunker < 636
+}
+forts_number_636 = {
+	bunker > 635
+	bunker < 637
+}
+forts_number_637 = {
+	bunker > 636
+	bunker < 638
+}
+forts_number_638 = {
+	bunker > 637
+	bunker < 639
+}
+forts_number_639 = {
+	bunker > 638
+	bunker < 640
+}
+forts_number_640 = {
+	bunker > 639
+	bunker < 641
+}
+forts_number_641 = {
+	bunker > 640
+	bunker < 642
+}
+forts_number_642 = {
+	bunker > 641
+	bunker < 643
+}
+forts_number_643 = {
+	bunker > 642
+	bunker < 644
+}
+forts_number_644 = {
+	bunker > 643
+	bunker < 645
+}
+forts_number_645 = {
+	bunker > 644
+	bunker < 646
+}
+forts_number_646 = {
+	bunker > 645
+	bunker < 647
+}
+forts_number_647 = {
+	bunker > 646
+	bunker < 648
+}
+forts_number_648 = {
+	bunker > 647
+	bunker < 649
+}
+forts_number_649 = {
+	bunker > 648
+	bunker < 650
+}
+forts_number_650 = {
+	bunker > 649
+	bunker < 651
+}
+forts_number_651 = {
+	bunker > 650
+	bunker < 652
+}
+forts_number_652 = {
+	bunker > 651
+	bunker < 653
+}
+forts_number_653 = {
+	bunker > 652
+	bunker < 654
+}
+forts_number_654 = {
+	bunker > 653
+	bunker < 655
+}
+forts_number_655 = {
+	bunker > 654
+	bunker < 656
+}
+forts_number_656 = {
+	bunker > 655
+	bunker < 657
+}
+forts_number_657 = {
+	bunker > 656
+	bunker < 658
+}
+forts_number_658 = {
+	bunker > 657
+	bunker < 659
+}
+forts_number_659 = {
+	bunker > 658
+	bunker < 660
+}
+forts_number_660 = {
+	bunker > 659
+	bunker < 661
+}
+forts_number_661 = {
+	bunker > 660
+	bunker < 662
+}
+forts_number_662 = {
+	bunker > 661
+	bunker < 663
+}
+forts_number_663 = {
+	bunker > 662
+	bunker < 664
+}
+forts_number_664 = {
+	bunker > 663
+	bunker < 665
+}
+forts_number_665 = {
+	bunker > 664
+	bunker < 666
+}
+forts_number_666 = {
+	bunker > 665
+	bunker < 667
+}
+forts_number_667 = {
+	bunker > 666
+	bunker < 668
+}
+forts_number_668 = {
+	bunker > 667
+	bunker < 669
+}
+forts_number_669 = {
+	bunker > 668
+	bunker < 670
+}
+forts_number_670 = {
+	bunker > 669
+	bunker < 671
+}
+forts_number_671 = {
+	bunker > 670
+	bunker < 672
+}
+forts_number_672 = {
+	bunker > 671
+	bunker < 673
+}
+forts_number_673 = {
+	bunker > 672
+	bunker < 674
+}
+forts_number_674 = {
+	bunker > 673
+	bunker < 675
+}
+forts_number_675 = {
+	bunker > 674
+	bunker < 676
+}
+forts_number_676 = {
+	bunker > 675
+	bunker < 677
+}
+forts_number_677 = {
+	bunker > 676
+	bunker < 678
+}
+forts_number_678 = {
+	bunker > 677
+	bunker < 679
+}
+forts_number_679 = {
+	bunker > 678
+	bunker < 680
+}
+forts_number_680 = {
+	bunker > 679
+	bunker < 681
+}
+forts_number_681 = {
+	bunker > 680
+	bunker < 682
+}
+forts_number_682 = {
+	bunker > 681
+	bunker < 683
+}
+forts_number_683 = {
+	bunker > 682
+	bunker < 684
+}
+forts_number_684 = {
+	bunker > 683
+	bunker < 685
+}
+forts_number_685 = {
+	bunker > 684
+	bunker < 686
+}
+forts_number_686 = {
+	bunker > 685
+	bunker < 687
+}
+forts_number_687 = {
+	bunker > 686
+	bunker < 688
+}
+forts_number_688 = {
+	bunker > 687
+	bunker < 689
+}
+forts_number_689 = {
+	bunker > 688
+	bunker < 690
+}
+forts_number_690 = {
+	bunker > 689
+	bunker < 691
+}
+forts_number_691 = {
+	bunker > 690
+	bunker < 692
+}
+forts_number_692 = {
+	bunker > 691
+	bunker < 693
+}
+forts_number_693 = {
+	bunker > 692
+	bunker < 694
+}
+forts_number_694 = {
+	bunker > 693
+	bunker < 695
+}
+forts_number_695 = {
+	bunker > 694
+	bunker < 696
+}
+forts_number_696 = {
+	bunker > 695
+	bunker < 697
+}
+forts_number_697 = {
+	bunker > 696
+	bunker < 698
+}
+forts_number_698 = {
+	bunker > 697
+	bunker < 699
+}
+forts_number_699 = {
+	bunker > 698
+	bunker < 700
+}
+forts_number_700 = {
+	bunker > 699
+	bunker < 701
+}
+forts_number_701 = {
+	bunker > 700
+	bunker < 702
+}
+forts_number_702 = {
+	bunker > 701
+	bunker < 703
+}
+forts_number_703 = {
+	bunker > 702
+	bunker < 704
+}
+forts_number_704 = {
+	bunker > 703
+	bunker < 705
+}
+forts_number_705 = {
+	bunker > 704
+	bunker < 706
+}
+forts_number_706 = {
+	bunker > 705
+	bunker < 707
+}
+forts_number_707 = {
+	bunker > 706
+	bunker < 708
+}
+forts_number_708 = {
+	bunker > 707
+	bunker < 709
+}
+forts_number_709 = {
+	bunker > 708
+	bunker < 710
+}
+forts_number_710 = {
+	bunker > 709
+	bunker < 711
+}
+forts_number_711 = {
+	bunker > 710
+	bunker < 712
+}
+forts_number_712 = {
+	bunker > 711
+	bunker < 713
+}
+forts_number_713 = {
+	bunker > 712
+	bunker < 714
+}
+forts_number_714 = {
+	bunker > 713
+	bunker < 715
+}
+forts_number_715 = {
+	bunker > 714
+	bunker < 716
+}
+forts_number_716 = {
+	bunker > 715
+	bunker < 717
+}
+forts_number_717 = {
+	bunker > 716
+	bunker < 718
+}
+forts_number_718 = {
+	bunker > 717
+	bunker < 719
+}
+forts_number_719 = {
+	bunker > 718
+	bunker < 720
+}
+forts_number_720 = {
+	bunker > 719
+	bunker < 721
+}
+forts_number_721 = {
+	bunker > 720
+	bunker < 722
+}
+forts_number_722 = {
+	bunker > 721
+	bunker < 723
+}
+forts_number_723 = {
+	bunker > 722
+	bunker < 724
+}
+forts_number_724 = {
+	bunker > 723
+	bunker < 725
+}
+forts_number_725 = {
+	bunker > 724
+	bunker < 726
+}
+forts_number_726 = {
+	bunker > 725
+	bunker < 727
+}
+forts_number_727 = {
+	bunker > 726
+	bunker < 728
+}
+forts_number_728 = {
+	bunker > 727
+	bunker < 729
+}
+forts_number_729 = {
+	bunker > 728
+	bunker < 730
+}
+forts_number_730 = {
+	bunker > 729
+	bunker < 731
+}
+forts_number_731 = {
+	bunker > 730
+	bunker < 732
+}
+forts_number_732 = {
+	bunker > 731
+	bunker < 733
+}
+forts_number_733 = {
+	bunker > 732
+	bunker < 734
+}
+forts_number_734 = {
+	bunker > 733
+	bunker < 735
+}
+forts_number_735 = {
+	bunker > 734
+	bunker < 736
+}
+forts_number_736 = {
+	bunker > 735
+	bunker < 737
+}
+forts_number_737 = {
+	bunker > 736
+	bunker < 738
+}
+forts_number_738 = {
+	bunker > 737
+	bunker < 739
+}
+forts_number_739 = {
+	bunker > 738
+	bunker < 740
+}
+forts_number_740 = {
+	bunker > 739
+	bunker < 741
+}
+forts_number_741 = {
+	bunker > 740
+	bunker < 742
+}
+forts_number_742 = {
+	bunker > 741
+	bunker < 743
+}
+forts_number_743 = {
+	bunker > 742
+	bunker < 744
+}
+forts_number_744 = {
+	bunker > 743
+	bunker < 745
+}
+forts_number_745 = {
+	bunker > 744
+	bunker < 746
+}
+forts_number_746 = {
+	bunker > 745
+	bunker < 747
+}
+forts_number_747 = {
+	bunker > 746
+	bunker < 748
+}
+forts_number_748 = {
+	bunker > 747
+	bunker < 749
+}
+forts_number_749 = {
+	bunker > 748
+	bunker < 750
+}
+forts_number_750 = {
+	bunker > 749
+	bunker < 751
+}
+forts_number_751 = {
+	bunker > 750
+	bunker < 752
+}
+forts_number_752 = {
+	bunker > 751
+	bunker < 753
+}
+forts_number_753 = {
+	bunker > 752
+	bunker < 754
+}
+forts_number_754 = {
+	bunker > 753
+	bunker < 755
+}
+forts_number_755 = {
+	bunker > 754
+	bunker < 756
+}
+forts_number_756 = {
+	bunker > 755
+	bunker < 757
+}
+forts_number_757 = {
+	bunker > 756
+	bunker < 758
+}
+forts_number_758 = {
+	bunker > 757
+	bunker < 759
+}
+forts_number_759 = {
+	bunker > 758
+	bunker < 760
+}
+forts_number_760 = {
+	bunker > 759
+	bunker < 761
+}
+forts_number_761 = {
+	bunker > 760
+	bunker < 762
+}
+forts_number_762 = {
+	bunker > 761
+	bunker < 763
+}
+forts_number_763 = {
+	bunker > 762
+	bunker < 764
+}
+forts_number_764 = {
+	bunker > 763
+	bunker < 765
+}
+forts_number_765 = {
+	bunker > 764
+	bunker < 766
+}
+forts_number_766 = {
+	bunker > 765
+	bunker < 767
+}
+forts_number_767 = {
+	bunker > 766
+	bunker < 768
+}
+forts_number_768 = {
+	bunker > 767
+	bunker < 769
+}
+forts_number_769 = {
+	bunker > 768
+	bunker < 770
+}
+forts_number_770 = {
+	bunker > 769
+	bunker < 771
+}
+forts_number_771 = {
+	bunker > 770
+	bunker < 772
+}
+forts_number_772 = {
+	bunker > 771
+	bunker < 773
+}
+forts_number_773 = {
+	bunker > 772
+	bunker < 774
+}
+forts_number_774 = {
+	bunker > 773
+	bunker < 775
+}
+forts_number_775 = {
+	bunker > 774
+	bunker < 776
+}
+forts_number_776 = {
+	bunker > 775
+	bunker < 777
+}
+forts_number_777 = {
+	bunker > 776
+	bunker < 778
+}
+forts_number_778 = {
+	bunker > 777
+	bunker < 779
+}
+forts_number_779 = {
+	bunker > 778
+	bunker < 780
+}
+forts_number_780 = {
+	bunker > 779
+	bunker < 781
+}
+forts_number_781 = {
+	bunker > 780
+	bunker < 782
+}
+forts_number_782 = {
+	bunker > 781
+	bunker < 783
+}
+forts_number_783 = {
+	bunker > 782
+	bunker < 784
+}
+forts_number_784 = {
+	bunker > 783
+	bunker < 785
+}
+forts_number_785 = {
+	bunker > 784
+	bunker < 786
+}
+forts_number_786 = {
+	bunker > 785
+	bunker < 787
+}
+forts_number_787 = {
+	bunker > 786
+	bunker < 788
+}
+forts_number_788 = {
+	bunker > 787
+	bunker < 789
+}
+forts_number_789 = {
+	bunker > 788
+	bunker < 790
+}
+forts_number_790 = {
+	bunker > 789
+	bunker < 791
+}
+forts_number_791 = {
+	bunker > 790
+	bunker < 792
+}
+forts_number_792 = {
+	bunker > 791
+	bunker < 793
+}
+forts_number_793 = {
+	bunker > 792
+	bunker < 794
+}
+forts_number_794 = {
+	bunker > 793
+	bunker < 795
+}
+forts_number_795 = {
+	bunker > 794
+	bunker < 796
+}
+forts_number_796 = {
+	bunker > 795
+	bunker < 797
+}
+forts_number_797 = {
+	bunker > 796
+	bunker < 798
+}
+forts_number_798 = {
+	bunker > 797
+	bunker < 799
+}
+forts_number_799 = {
+	bunker > 798
+	bunker < 800
+}
+forts_number_800 = {
+	bunker > 799
+	bunker < 801
+}
+forts_number_801 = {
+	bunker > 800
+	bunker < 802
+}
+forts_number_802 = {
+	bunker > 801
+	bunker < 803
+}
+forts_number_803 = {
+	bunker > 802
+	bunker < 804
+}
+forts_number_804 = {
+	bunker > 803
+	bunker < 805
+}
+forts_number_805 = {
+	bunker > 804
+	bunker < 806
+}
+forts_number_806 = {
+	bunker > 805
+	bunker < 807
+}
+forts_number_807 = {
+	bunker > 806
+	bunker < 808
+}
+forts_number_808 = {
+	bunker > 807
+	bunker < 809
+}
+forts_number_809 = {
+	bunker > 808
+	bunker < 810
+}
+forts_number_810 = {
+	bunker > 809
+	bunker < 811
+}
+forts_number_811 = {
+	bunker > 810
+	bunker < 812
+}
+forts_number_812 = {
+	bunker > 811
+	bunker < 813
+}
+forts_number_813 = {
+	bunker > 812
+	bunker < 814
+}
+forts_number_814 = {
+	bunker > 813
+	bunker < 815
+}
+forts_number_815 = {
+	bunker > 814
+	bunker < 816
+}
+forts_number_816 = {
+	bunker > 815
+	bunker < 817
+}
+forts_number_817 = {
+	bunker > 816
+	bunker < 818
+}
+forts_number_818 = {
+	bunker > 817
+	bunker < 819
+}
+forts_number_819 = {
+	bunker > 818
+	bunker < 820
+}
+forts_number_820 = {
+	bunker > 819
+	bunker < 821
+}
+forts_number_821 = {
+	bunker > 820
+	bunker < 822
+}
+forts_number_822 = {
+	bunker > 821
+	bunker < 823
+}
+forts_number_823 = {
+	bunker > 822
+	bunker < 824
+}
+forts_number_824 = {
+	bunker > 823
+	bunker < 825
+}
+forts_number_825 = {
+	bunker > 824
+	bunker < 826
+}
+forts_number_826 = {
+	bunker > 825
+	bunker < 827
+}
+forts_number_827 = {
+	bunker > 826
+	bunker < 828
+}
+forts_number_828 = {
+	bunker > 827
+	bunker < 829
+}
+forts_number_829 = {
+	bunker > 828
+	bunker < 830
+}
+forts_number_830 = {
+	bunker > 829
+	bunker < 831
+}
+forts_number_831 = {
+	bunker > 830
+	bunker < 832
+}
+forts_number_832 = {
+	bunker > 831
+	bunker < 833
+}
+forts_number_833 = {
+	bunker > 832
+	bunker < 834
+}
+forts_number_834 = {
+	bunker > 833
+	bunker < 835
+}
+forts_number_835 = {
+	bunker > 834
+	bunker < 836
+}
+forts_number_836 = {
+	bunker > 835
+	bunker < 837
+}
+forts_number_837 = {
+	bunker > 836
+	bunker < 838
+}
+forts_number_838 = {
+	bunker > 837
+	bunker < 839
+}
+forts_number_839 = {
+	bunker > 838
+	bunker < 840
+}
+forts_number_840 = {
+	bunker > 839
+	bunker < 841
+}
+forts_number_841 = {
+	bunker > 840
+	bunker < 842
+}
+forts_number_842 = {
+	bunker > 841
+	bunker < 843
+}
+forts_number_843 = {
+	bunker > 842
+	bunker < 844
+}
+forts_number_844 = {
+	bunker > 843
+	bunker < 845
+}
+forts_number_845 = {
+	bunker > 844
+	bunker < 846
+}
+forts_number_846 = {
+	bunker > 845
+	bunker < 847
+}
+forts_number_847 = {
+	bunker > 846
+	bunker < 848
+}
+forts_number_848 = {
+	bunker > 847
+	bunker < 849
+}
+forts_number_849 = {
+	bunker > 848
+	bunker < 850
+}
+forts_number_850 = {
+	bunker > 849
+	bunker < 851
+}
+forts_number_851 = {
+	bunker > 850
+	bunker < 852
+}
+forts_number_852 = {
+	bunker > 851
+	bunker < 853
+}
+forts_number_853 = {
+	bunker > 852
+	bunker < 854
+}
+forts_number_854 = {
+	bunker > 853
+	bunker < 855
+}
+forts_number_855 = {
+	bunker > 854
+	bunker < 856
+}
+forts_number_856 = {
+	bunker > 855
+	bunker < 857
+}
+forts_number_857 = {
+	bunker > 856
+	bunker < 858
+}
+forts_number_858 = {
+	bunker > 857
+	bunker < 859
+}
+forts_number_859 = {
+	bunker > 858
+	bunker < 860
+}
+forts_number_860 = {
+	bunker > 859
+	bunker < 861
+}
+forts_number_861 = {
+	bunker > 860
+	bunker < 862
+}
+forts_number_862 = {
+	bunker > 861
+	bunker < 863
+}
+forts_number_863 = {
+	bunker > 862
+	bunker < 864
+}
+forts_number_864 = {
+	bunker > 863
+	bunker < 865
+}
+forts_number_865 = {
+	bunker > 864
+	bunker < 866
+}
+forts_number_866 = {
+	bunker > 865
+	bunker < 867
+}
+forts_number_867 = {
+	bunker > 866
+	bunker < 868
+}
+forts_number_868 = {
+	bunker > 867
+	bunker < 869
+}
+forts_number_869 = {
+	bunker > 868
+	bunker < 870
+}
+forts_number_870 = {
+	bunker > 869
+	bunker < 871
+}
+forts_number_871 = {
+	bunker > 870
+	bunker < 872
+}
+forts_number_872 = {
+	bunker > 871
+	bunker < 873
+}
+forts_number_873 = {
+	bunker > 872
+	bunker < 874
+}
+forts_number_874 = {
+	bunker > 873
+	bunker < 875
+}
+forts_number_875 = {
+	bunker > 874
+	bunker < 876
+}
+forts_number_876 = {
+	bunker > 875
+	bunker < 877
+}
+forts_number_877 = {
+	bunker > 876
+	bunker < 878
+}
+forts_number_878 = {
+	bunker > 877
+	bunker < 879
+}
+forts_number_879 = {
+	bunker > 878
+	bunker < 880
+}
+forts_number_880 = {
+	bunker > 879
+	bunker < 881
+}
+forts_number_881 = {
+	bunker > 880
+	bunker < 882
+}
+forts_number_882 = {
+	bunker > 881
+	bunker < 883
+}
+forts_number_883 = {
+	bunker > 882
+	bunker < 884
+}
+forts_number_884 = {
+	bunker > 883
+	bunker < 885
+}
+forts_number_885 = {
+	bunker > 884
+	bunker < 886
+}
+forts_number_886 = {
+	bunker > 885
+	bunker < 887
+}
+forts_number_887 = {
+	bunker > 886
+	bunker < 888
+}
+forts_number_888 = {
+	bunker > 887
+	bunker < 889
+}
+forts_number_889 = {
+	bunker > 888
+	bunker < 890
+}
+forts_number_890 = {
+	bunker > 889
+	bunker < 891
+}
+forts_number_891 = {
+	bunker > 890
+	bunker < 892
+}
+forts_number_892 = {
+	bunker > 891
+	bunker < 893
+}
+forts_number_893 = {
+	bunker > 892
+	bunker < 894
+}
+forts_number_894 = {
+	bunker > 893
+	bunker < 895
+}
+forts_number_895 = {
+	bunker > 894
+	bunker < 896
+}
+forts_number_896 = {
+	bunker > 895
+	bunker < 897
+}
+forts_number_897 = {
+	bunker > 896
+	bunker < 898
+}
+forts_number_898 = {
+	bunker > 897
+	bunker < 899
+}
+forts_number_899 = {
+	bunker > 898
+	bunker < 900
+}
+forts_number_900 = {
+	bunker > 899
+	bunker < 901
+}
+forts_number_901 = {
+	bunker > 900
+	bunker < 902
+}
+forts_number_902 = {
+	bunker > 901
+	bunker < 903
+}
+forts_number_903 = {
+	bunker > 902
+	bunker < 904
+}
+forts_number_904 = {
+	bunker > 903
+	bunker < 905
+}
+forts_number_905 = {
+	bunker > 904
+	bunker < 906
+}
+forts_number_906 = {
+	bunker > 905
+	bunker < 907
+}
+forts_number_907 = {
+	bunker > 906
+	bunker < 908
+}
+forts_number_908 = {
+	bunker > 907
+	bunker < 909
+}
+forts_number_909 = {
+	bunker > 908
+	bunker < 910
+}
+forts_number_910 = {
+	bunker > 909
+	bunker < 911
+}
+forts_number_911 = {
+	bunker > 910
+	bunker < 912
+}
+forts_number_912 = {
+	bunker > 911
+	bunker < 913
+}
+forts_number_913 = {
+	bunker > 912
+	bunker < 914
+}
+forts_number_914 = {
+	bunker > 913
+	bunker < 915
+}
+forts_number_915 = {
+	bunker > 914
+	bunker < 916
+}
+forts_number_916 = {
+	bunker > 915
+	bunker < 917
+}
+forts_number_917 = {
+	bunker > 916
+	bunker < 918
+}
+forts_number_918 = {
+	bunker > 917
+	bunker < 919
+}
+forts_number_919 = {
+	bunker > 918
+	bunker < 920
+}
+forts_number_920 = {
+	bunker > 919
+	bunker < 921
+}
+forts_number_921 = {
+	bunker > 920
+	bunker < 922
+}
+forts_number_922 = {
+	bunker > 921
+	bunker < 923
+}
+forts_number_923 = {
+	bunker > 922
+	bunker < 924
+}
+forts_number_924 = {
+	bunker > 923
+	bunker < 925
+}
+forts_number_925 = {
+	bunker > 924
+	bunker < 926
+}
+forts_number_926 = {
+	bunker > 925
+	bunker < 927
+}
+forts_number_927 = {
+	bunker > 926
+	bunker < 928
+}
+forts_number_928 = {
+	bunker > 927
+	bunker < 929
+}
+forts_number_929 = {
+	bunker > 928
+	bunker < 930
+}
+forts_number_930 = {
+	bunker > 929
+	bunker < 931
+}
+forts_number_931 = {
+	bunker > 930
+	bunker < 932
+}
+forts_number_932 = {
+	bunker > 931
+	bunker < 933
+}
+forts_number_933 = {
+	bunker > 932
+	bunker < 934
+}
+forts_number_934 = {
+	bunker > 933
+	bunker < 935
+}
+forts_number_935 = {
+	bunker > 934
+	bunker < 936
+}
+forts_number_936 = {
+	bunker > 935
+	bunker < 937
+}
+forts_number_937 = {
+	bunker > 936
+	bunker < 938
+}
+forts_number_938 = {
+	bunker > 937
+	bunker < 939
+}
+forts_number_939 = {
+	bunker > 938
+	bunker < 940
+}
+forts_number_940 = {
+	bunker > 939
+	bunker < 941
+}
+forts_number_941 = {
+	bunker > 940
+	bunker < 942
+}
+forts_number_942 = {
+	bunker > 941
+	bunker < 943
+}
+forts_number_943 = {
+	bunker > 942
+	bunker < 944
+}
+forts_number_944 = {
+	bunker > 943
+	bunker < 945
+}
+forts_number_945 = {
+	bunker > 944
+	bunker < 946
+}
+forts_number_946 = {
+	bunker > 945
+	bunker < 947
+}
+forts_number_947 = {
+	bunker > 946
+	bunker < 948
+}
+forts_number_948 = {
+	bunker > 947
+	bunker < 949
+}
+forts_number_949 = {
+	bunker > 948
+	bunker < 950
+}
+forts_number_950 = {
+	bunker > 949
+	bunker < 951
+}
+forts_number_951 = {
+	bunker > 950
+	bunker < 952
+}
+forts_number_952 = {
+	bunker > 951
+	bunker < 953
+}
+forts_number_953 = {
+	bunker > 952
+	bunker < 954
+}
+forts_number_954 = {
+	bunker > 953
+	bunker < 955
+}
+forts_number_955 = {
+	bunker > 954
+	bunker < 956
+}
+forts_number_956 = {
+	bunker > 955
+	bunker < 957
+}
+forts_number_957 = {
+	bunker > 956
+	bunker < 958
+}
+forts_number_958 = {
+	bunker > 957
+	bunker < 959
+}
+forts_number_959 = {
+	bunker > 958
+	bunker < 960
+}
+forts_number_960 = {
+	bunker > 959
+	bunker < 961
+}
+forts_number_961 = {
+	bunker > 960
+	bunker < 962
+}
+forts_number_962 = {
+	bunker > 961
+	bunker < 963
+}
+forts_number_963 = {
+	bunker > 962
+	bunker < 964
+}
+forts_number_964 = {
+	bunker > 963
+	bunker < 965
+}
+forts_number_965 = {
+	bunker > 964
+	bunker < 966
+}
+forts_number_966 = {
+	bunker > 965
+	bunker < 967
+}
+forts_number_967 = {
+	bunker > 966
+	bunker < 968
+}
+forts_number_968 = {
+	bunker > 967
+	bunker < 969
+}
+forts_number_969 = {
+	bunker > 968
+	bunker < 970
+}
+forts_number_970 = {
+	bunker > 969
+	bunker < 971
+}
+forts_number_971 = {
+	bunker > 970
+	bunker < 972
+}
+forts_number_972 = {
+	bunker > 971
+	bunker < 973
+}
+forts_number_973 = {
+	bunker > 972
+	bunker < 974
+}
+forts_number_974 = {
+	bunker > 973
+	bunker < 975
+}
+forts_number_975 = {
+	bunker > 974
+	bunker < 976
+}
+forts_number_976 = {
+	bunker > 975
+	bunker < 977
+}
+forts_number_977 = {
+	bunker > 976
+	bunker < 978
+}
+forts_number_978 = {
+	bunker > 977
+	bunker < 979
+}
+forts_number_979 = {
+	bunker > 978
+	bunker < 980
+}
+forts_number_980 = {
+	bunker > 979
+	bunker < 981
+}
+forts_number_981 = {
+	bunker > 980
+	bunker < 982
+}
+forts_number_982 = {
+	bunker > 981
+	bunker < 983
+}
+forts_number_983 = {
+	bunker > 982
+	bunker < 984
+}
+forts_number_984 = {
+	bunker > 983
+	bunker < 985
+}
+forts_number_985 = {
+	bunker > 984
+	bunker < 986
+}
+forts_number_986 = {
+	bunker > 985
+	bunker < 987
+}
+forts_number_987 = {
+	bunker > 986
+	bunker < 988
+}
+forts_number_988 = {
+	bunker > 987
+	bunker < 989
+}
+forts_number_989 = {
+	bunker > 988
+	bunker < 990
+}
+forts_number_990 = {
+	bunker > 989
+	bunker < 991
+}
+forts_number_991 = {
+	bunker > 990
+	bunker < 992
+}
+forts_number_992 = {
+	bunker > 991
+	bunker < 993
+}
+forts_number_993 = {
+	bunker > 992
+	bunker < 994
+}
+forts_number_994 = {
+	bunker > 993
+	bunker < 995
+}
+forts_number_995 = {
+	bunker > 994
+	bunker < 996
+}
+forts_number_996 = {
+	bunker > 995
+	bunker < 997
+}
+forts_number_997 = {
+	bunker > 996
+	bunker < 998
+}
+forts_number_998 = {
+	bunker > 997
+	bunker < 999
+}
+forts_number_999 = {
+	bunker > 998
+	bunker < 1000
+}
+forts_number_1000 = {
+	bunker > 999
+	bunker < 1001
+}

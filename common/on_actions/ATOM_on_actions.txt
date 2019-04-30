@@ -2,59 +2,9427 @@ on_actions = {
 	#Not run on a specific country.
 	on_startup = {
 		effect = {
+			AFG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ALB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ALG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ANG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ARG = {
+				set_variable = { GDP = 51873 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ARM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			AST = {
+				set_variable = { GDP = 37414 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			AUS = {
+				set_variable = { GDP = 20239 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			AZR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BAH = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BAN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BAS = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BEL = {
+				set_variable = { GDP = 40855 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BHU = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BLR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BLZ = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BOL = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BOS = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BOT = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BRA = {
+				set_variable = { GDP = 46824 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BRD = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BRM = {
+				set_variable = { GDP = 13167 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			BUL = {
+				set_variable = { GDP = 9659 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CAM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CAN = {
+				set_variable = { GDP = 46369 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CAR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CAY = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CHA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CHI = {
+				set_variable = { GDP = 303433 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CHL = {
+				set_variable = { GDP = 13399 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CMR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			COG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			COL = {
+				set_variable = { GDP = 14825 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			COS = {
+				set_variable = { GDP = 896 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CRC = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CRO = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CSA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CUB = {
+				set_variable = { GDP = 6747 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CYP = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			CZE = {
+				set_variable = { GDP = 37387 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			DAH = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			DDR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			DEN = {
+				set_variable = { GDP = 20750 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			DJI = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ECU = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			EGY = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ELS = {
+				set_variable = { GDP = 1527 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
 			ENG = {
-				set_variable = {
-					var = budget
-					value = 234
-				}
+				set_variable = { GDP = 284142 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.2865 }
 			}
+
+			EQG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ERI = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			EST = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ETH = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			FIJ = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			FIN = {
+				set_variable = { GDP = 11807 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
 			FRA = {
-				set_variable = {
-					var = budget
-					value = 147
-				}
+				set_variable = { GDP = 177866 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
 			}
+
+			GAB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			GAM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			# GBI = {
+			# 	set_variable = { GDP = 0 }
+			# 	set_variable = { GDP_growth = 0.025 }
+			# 	set_variable = { budget = GDP }
+			# 	multiply_variable = { budget = 0.3 }
+			# }
+
+			GDL = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			GEO = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
 			GER = {
-				set_variable = {
-					var = budget
-					value = 247
-				}
+				set_variable = { GDP = 299753 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
 			}
+
+			GHA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			GNA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			GRE = {
+				set_variable = { GDP = 16907 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			GUA = {
+				set_variable = { GDP = 4657 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			GXC = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			GYA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			HAI = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			HOL = {
+				set_variable = { GDP = 44196 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			HON = {
+				set_variable = { GDP = 1201 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			HUN = {
+				set_variable = { GDP = 23685 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ICE = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			INS = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			IRE = {
+				set_variable = { GDP = 9056 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			IRQ = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ISR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
 			ITA = {
-				set_variable = {
-					var = budget
-					value = 110
-				}
+				set_variable = { GDP = 133793 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
 			}
+
+			IVO = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			JAM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
 			JAP = {
-				set_variable = {
-					var = budget
-					value = 65
-				}
+				set_variable = { GDP = 157494 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
 			}
-			USA = {
-				set_variable = {
-					var = budget
-					value = 357
-				}
+
+			JOR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
 			}
+
+			KAZ = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			KEN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			KOR = {
+				set_variable = { GDP = 21753 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			KUW = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			KYR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			LAO = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			LAT = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			LBA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			LEB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			LIB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			LIT = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			LUX = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MAC = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MAD = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MAL = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MAN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MEN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MEX = {
+				set_variable = { GDP = 33671 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MLD = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MLI = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MLT = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MLW = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MNT = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MOL = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MON = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MOR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MRT = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			MZB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NEP = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NGA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NGR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NIC = {
+				set_variable = { GDP = 748 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NIR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NMB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NOR = {
+				set_variable = { GDP = 11719 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			NZL = {
+				set_variable = { GDP = 9187 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			OMA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PAK = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PAL = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PAN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PAR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PER = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PHI = {
+				set_variable = { GDP = 20726 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PNG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			POL = {
+				set_variable = { GDP = 49505 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			POR = {
+				set_variable = { GDP = 11124 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PRC = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PRU = {
+				set_variable = { GDP = 11662 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			PUE = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			QAT = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			RAJ = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			RCG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ROM = {
+				set_variable = { GDP = 18219 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			RWA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SAF = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SAU = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SCO = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SEN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SER = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SHX = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SIA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SIE = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SIK = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SLO = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SLV = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SOM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
 			SOV = {
-				set_variable = {
-					var = budget
-					value = 297
-				}
+				set_variable = { GDP = 361306 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
 			}
-	
+
+			SPR = {
+				set_variable = { GDP = 49343 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SRL = {
+				set_variable = { GDP = 6981 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SUD = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SUR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SWE = {
+				set_variable = { GDP = 31239 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SWI = {
+				set_variable = { GDP = 24626 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			SYR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TAJ = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TAN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TIB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TMS = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TOG = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TRI = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TUN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TUR = {
+				set_variable = { GDP = 26093 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			TZN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			UAE = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			UGA = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			UKR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			URG = {
+				set_variable = { GDP = 6534 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			USA = {
+				set_variable = { GDP = 798322 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			USB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			UZB = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			VEN = {
+				set_variable = { GDP = 12106 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			VIN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			VOL = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			WES = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			WGR = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			WLS = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			XSM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			YEM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			YUG = {
+				set_variable = { GDP = 19878 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			YUN = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ZAM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
+			ZIM = {
+				set_variable = { GDP = 0 }
+				set_variable = { GDP_growth = 0.025 }
+				set_variable = { budget = GDP }
+				multiply_variable = { budget = 0.3 }
+			}
+
 		}
 	}
 	#Make some scripted trigger for usa and the great depression prolly or any depression for any country
 	on_daily = {
 		effect = {
-			country_event = {
-				id = ATOM.2
+			#Budget Growth code
+			if = {
+				limit = {
+					ROOT = {
+						tag = AFG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
 			}
-			country_event = {
-				id = ATOM.3
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ALB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ALG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ANG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ARG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 43
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 57
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 72
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 86
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ARM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = AST
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 31
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 42
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 52
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 62
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = AUS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 17
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 23
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 28
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 34
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = AZR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BAH
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BAN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BAS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BEL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 34
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 45
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 56
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 68
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BHU
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BLR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BLZ
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BOL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BOS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BOT
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BRA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 39
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 52
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 65
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 77
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BRD
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BRM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 11
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 15
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 19
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 22
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = BUL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 8
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 11
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 14
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 16
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CAM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CAN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 39
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 51
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 64
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 77
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CAR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CAY
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CHA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CHI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 250
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 333
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 416
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 499
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CHL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 12
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 15
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 19
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 23
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CMR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = COG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = COL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 13
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 17
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 21
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 25
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = COS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 1
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 1
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CRC
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CRO
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CSA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CUB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 6
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 8
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 12
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CYP
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = CZE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 31
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 41
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 52
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 62
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = DAH
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = DDR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = DEN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 18
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 23
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 29
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 35
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = DJI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ECU
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = EGY
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ELS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 3
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 3
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ENG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 234
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 312
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 390
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 468
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = EQG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ERI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = EST
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ETH
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = FIJ
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = FIN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 13
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 17
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 20
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = FRA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 147
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 195
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 244
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 293
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GAB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GAM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			# if = {
+			# 	limit = {
+			# 		ROOT = {
+			# 			tag = GBI
+			# 		}
+			# 	}
+			# 	if = {
+			# 		limit = {
+			# 			has_idea = civilian_economy
+			# 		}
+			# 		add_to_variable = {
+			# 			var = budget
+			# 			value = 0
+			# 		}
+			# 	}
+			# 	if = {
+			# 		limit = {
+			# 			has_idea = partial_economic_mobilisation
+			# 		}
+			# 		add_to_variable = {
+			# 			var = budget
+			# 			value = 0
+			# 		}
+			# 	}
+			# 	if = {
+			# 		limit = {
+			# 			has_idea = war_economy
+			# 		}
+			# 		add_to_variable = {
+			# 			var = budget
+			# 			value = 0
+			# 		}
+			# 	}
+			# 	if = {
+			# 		limit = {
+			# 			has_idea = tot_economic_mobilisation
+			# 		}
+			# 		add_to_variable = {
+			# 			var = budget
+			# 			value = 0
+			# 		}
+			# 	}
+			# }
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GDL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GEO
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GER
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 247
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 329
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 411
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 493
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GHA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GNA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GRE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 14
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 19
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 24
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 28
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GUA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 4
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 6
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 7
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 8
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GXC
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = GYA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = HAI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = HOL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 37
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 49
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 61
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 73
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = HON
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 1
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = HUN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 20
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 26
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 33
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 39
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ICE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = INS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = IRE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 8
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 13
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 15
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = IRQ
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ISR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ITA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 110
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 147
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 184
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 220
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = IVO
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = JAM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = JAP
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 130
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 173
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 216
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 259
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = JOR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = KAZ
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = KEN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = KOR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 18
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 24
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 30
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 36
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = KUW
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = KYR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = LAO
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = LAT
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = LBA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = LEB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = LIB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = LIT
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = LUX
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MAC
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MAD
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MAL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MAN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MEN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MEX
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 28
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 37
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 47
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 56
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MLD
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MLI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MLT
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MLW
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MNT
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MOL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MON
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MOR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MRT
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = MZB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NEP
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NGA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NGR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NIC
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 1
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 1
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 2
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NIR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NMB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NOR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 13
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 17
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 20
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = NZL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 8
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 11
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 13
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 16
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = OMA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PAK
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PAL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PAN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PAR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PER
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PHI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 18
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 23
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 29
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 35
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PNG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = POL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 41
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 55
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 68
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 82
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = POR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 13
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 16
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 19
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PRC
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PRU
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 13
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 16
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 20
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = PUE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = QAT
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = RAJ
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = RCG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ROM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 15
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 20
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 25
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 30
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = RWA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SAF
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SAU
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SCO
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SEN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SER
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SHX
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SIA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SIE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SIK
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SLO
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SLV
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SOM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SOV
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 297
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 396
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 495
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 594
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SPR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 41
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 55
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 68
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 82
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SRL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 6
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 8
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 12
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SUD
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SUR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SWE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 26
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 35
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 43
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 52
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SWI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 21
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 27
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 34
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 41
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = SYR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TAJ
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TAN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TIB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TMS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TOG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TRI
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TUN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TUR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 22
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 29
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 36
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 43
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = TZN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = UAE
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = UGA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = UKR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = URG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 6
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 8
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 9
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 11
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = USA
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 657
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 875
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 1094
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 1313
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = USB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = UZB
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = VEN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 10
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 14
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 17
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 20
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = VIN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = VOL
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = WES
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = WGR
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = WLS
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = XSM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = YEM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = YUG
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 17
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 22
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 28
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 33
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = YUN
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ZAM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					ROOT = {
+						tag = ZIM
+					}
+				}
+				if = {
+					limit = {
+						has_idea = civilian_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = partial_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = war_economy
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+				if = {
+					limit = {
+						has_idea = tot_economic_mobilisation
+					}
+					add_to_variable = {
+						var = budget
+						value = 0
+					}
+				}
+			}
+
+			#BUDGET SPENDING CODE
+			subtract_from_variable = {
+				var = budget
+				value = num_divisions
+			}
+			subtract_from_variable = {
+				var = budget
+				value = num_of_military_factories
+			}
+			subtract_from_variable = {
+				var = budget
+				value = num_of_available_civilian_factories
+			}
+			set_variable = {
+				var = cost_of_research_slots
+				value = amount_research_slots
+			}
+			multiply_variable = {
+				var = cost_of_research_slots
+				value = 25
+			}
+			subtract_from_variable = {
+				var = budget
+				value = cost_of_research_slots
+			}
+			subtract_from_variable = {
+				var = budget
+				value = num_occupied_states
+			}
+			if = {
+				limit = { 
+					has_idea = volunteer_only
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 25
+				}
+			}
+			if = {
+				limit = { 
+					has_idea = limited_conscription
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 50
+				}
+			}
+			if = {
+				limit = { 
+					has_idea = extensive_conscription
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 75
+				}
+			}
+			if = {
+				limit = { 
+					has_idea = extensive_conscription
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 100
+				}
+			}
+			if = {
+				limit = { 
+					has_idea = all_adults_serve
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 125
+				}
+			}
+			if = {
+				limit = {
+					forts_number_1 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 10
+				}
 			}
 		}
 	}

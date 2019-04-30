@@ -1,7 +1,7 @@
 scripted_gui = {
 
 
-
+	#BUDGET TOP BAR
 	budget = {
 		window_name = "budget_window_main"
 		
@@ -11,8 +11,81 @@ scripted_gui = {
 			always = yes
 		}
 
+		effects = {
+			money_icon_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab = 0 }
+					}
+					set_variable = { show_budget_tab = 1 }
+					else = {
+						set_variable = { show_budget_tab = 0 }
+					}
+				}
+			}
+			money_text_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab = 0 }
+					}
+					set_variable = { show_budget_tab = 1 }
+					else = {
+						set_variable = { show_budget_tab = 0 }
+					}
+				}
+			}
+
+			money_bg_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab = 0 }
+					}
+					set_variable = { show_budget_tab = 1 }
+					else = {
+						set_variable = { show_budget_tab = 0 }
+					}
+				}
+			}
+		}
+
 	}
-    
+	
+	#BUDGET OPEN WINDOW
+	budget_tab = {
+		window_name = "budget_tab_main"
+		context_type = player
+		visible = {
+			check_variable = { show_budget_tab = 1 }
+		}
+
+		effects = {
+			increase_taxes_click = {
+				add_to_variable = {
+					var = budget
+					value = 1000
+				}
+			}
+
+			decrease_taxes_click = {
+				subtract_from_variable = {
+					var = budget
+					value = 1000
+				}
+			}
+
+			exit_button_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab = 1 }
+					}
+					set_variable = { show_budget_tab = 0 }
+					else = {
+						set_variable = { show_budget_tab = 1 }
+					}
+				}
+			}
+		}
+	}
 
 
 }

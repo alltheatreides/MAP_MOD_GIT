@@ -17,7 +17,7 @@ defined_text = { # Country
 		trigger = {
 			original_tag = USA
 		}
-		localization_key = DOLAR_TOOLTIP
+		localization_key = DOLLAR_TOOLTIP
 	}
 	text = {
 		trigger = {

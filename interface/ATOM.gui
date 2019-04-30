@@ -1,13 +1,14 @@
 guiTypes = {
 
 
-
+	#TOP BAR Budget window
 	containerWindowType = {
 		name = "budget_window_main"
-		position = { x = 1400 y = 5 } #990
+		position = { x = 980 y = 5 } #990
+		Orientation = upper_left
 		iconType ={
 			name ="money_bg"
-			spriteType = "GFX_generic_box"
+			spriteType = "GFX_generic_box_money"
 			position = { x=0 y=0 }
 		}
 		
@@ -22,9 +23,10 @@ guiTypes = {
 		#	position = { x= 105 y = 1 }
 		#	shortcut = "ctrl+g"
 		#}
+		
 		instantTextBoxType = {
 			name ="money_text"
-			position = { x= -22 y = 4 }
+			position = { x= -14 y = 4 }
 			font = "hoi_18mbs"
 			text = "budget_value"
 			format = center
@@ -36,6 +38,78 @@ guiTypes = {
 		}
 	} 
 	
+	#Budget Tab
+	containerWindowType = {
+		name = "budget_tab_main"
+		position = { x = 700 y = 200 }
+	    size = { width = 600 height = 800 }
+		show_sound = diplomatic_notification
 
+		fade_time = 1000
+		fade_type = linear
+		moveable = yes
+
+		background = {
+			name = "budget_tab_main_background"
+			spriteType = "GFX_budget_tab_main_background"
+		}
+
+		instantTextBoxType = {
+			name ="BUDGET"
+			position = { x= 20 y = 20 }
+			font = "hoi_36header"
+			text = "Budget"
+			format = center
+			maxWidth = 500
+			maxHeight = 24
+			fixedsize = yes			
+		}
+
+		instantTextBoxType = {
+			name = "spending"
+			position = { x = 50 y = 150 }
+			font = "hoi4_typewriter16"
+			text = "spending_value"
+			format = upper_left
+			maxWidth = 500
+			maxHeight = 24
+			fixedsize = yes		
+		}
+
+		instantTextBoxType = {
+			name ="Increase Taxes"
+			position = { x= 310 y = 505 }
+			font = "hoi4_typewriter16"
+			text = "Increase Taxes"
+			format = center
+			maxWidth = 25
+			maxHeight = 24
+			fixedsize = yes
+		}
+
+		buttonType = {
+			name = "increase_taxes" 
+			position = {x=280 y=502}	
+			spriteType = "GFX_naval_increase_amount"
+			# pdx_tooltip = "INCREASE_TAXES_TOOLTIP"
+			scale = 0.8
+		}
+		
+		buttonType = {
+			name = "decrease_taxes" 
+			position = {x=255 y=502}	
+			spriteType = "GFX_naval_decrease_amount"
+			# pdx_tooltip = "DECREASE_TAXES_TOOLTIP"
+			scale = 0.8
+		}
+
+		buttonType = {
+			name = "exit_button" 
+			position = {x=480 y=15}	
+			spriteType = "GFX_closebutton"
+			shortcut = "ESCAPE"
+		}
+
+	}
 
 }

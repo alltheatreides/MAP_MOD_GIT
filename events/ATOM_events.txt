@@ -169,7 +169,7 @@ country_event = {
 	}
 }
 
-#daily budget expanses
+#daily budget expenses
 country_event = {
 	id = ATOM.3
 	title = ATOM.3.t
@@ -258,11 +258,11 @@ country_event = {
 		}
 		if = {
 			limit = {
-				amount_of_planes_100 = yes
+				forts_number_1 = yes
 			}
 			subtract_from_variable = {
 				var = budget
-				value = 50
+				value = 10
 			}
 		}
 	}
