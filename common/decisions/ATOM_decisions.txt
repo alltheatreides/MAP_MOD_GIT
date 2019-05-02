@@ -1,66 +1,98 @@
-# budget_decisions = {
+budget_decisions = {
 	
-# 	increase_military_budget = {
-# 		icon = generic_industry
+	# increase_military_budget = {
+	# 	icon = generic_industry
 
-# 		allowed = {
-# 			always = yes
-# 		}
+	# 	allowed = {
+	# 		always = yes
+	# 	}
 
-# 		available = {
-# 			always = yes
-# 		}
+	# 	available = {
+	# 		always = yes
+	# 	}
 
-# 		complete_effect = {
-# 			add_to_variable = {
-# 				var = budget
-# 				value = 1000
-# 			}
-# 		}
+	# 	complete_effect = {
+	# 		add_to_variable = {
+	# 			var = budget
+	# 			value = 1000
+	# 		}
+	# 	}
 
-# 		days_re_enable = 5
+	# 	days_re_enable = 5
 
-# 		ai_will_do = {
-# 			factor = 0
-# 			modifier = {
-# 				factor = 0
+	# 	ai_will_do = {
+	# 		factor = 0
+	# 		modifier = {
+	# 			factor = 0
 
-# 			}
-# 		}
-# 	}
+	# 		}
+	# 	}
+	# }
 
-# 	unlock_some_funds_for_state_construction = {
-# 		icon = generic_industry
+	unlock_some_funds_for_state_construction = {
+		icon = generic_industry
 
-# 		allowed = {
-# 			always = yes
-# 		}
+		allowed = {
+			always = yes
+		}
 
-# 		available = {
-# 			always = yes
-# 		}
+		available = {
+			always = yes
+		}
 
-# 		complete_effect = {
-# 			subtract_from_variable = {
-# 				var = budget
-# 				value = 50
-# 			}
-# 			add_offsite_building = {
-# 				type = industrial_complex
-# 				level = 5
-# 			}
-# 		}
+		complete_effect = {
+			subtract_from_variable = {
+				var = budget
+				value = 50
+			}
+			add_offsite_building = {
+				type = industrial_complex
+				level = 5
+			}
+		}
 
-# 		days_re_enable = 5
+		days_re_enable = 5
 
-# 		ai_will_do = {
-# 			factor = 1
-# 			modifier = {
-# 				factor = 0
-# 			}
-# 		}
-# 	}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+			}
+		}
+	}
 
-# }
+	lock_some_funds_for_state_construction = {
+		icon = generic_industry
+
+		allowed = {
+			always = yes
+		}
+
+		available = {
+			always = yes
+		}
+
+		complete_effect = {
+			add_to_variable = {
+				var = budget
+				value = 50
+			}
+			add_offsite_building = {
+				type = industrial_complex
+				level = -5
+			}
+		}
+
+		days_re_enable = 5
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+			}
+		}
+	}
+
+}
 
 
