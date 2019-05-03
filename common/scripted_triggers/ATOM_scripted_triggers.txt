@@ -44028,3 +44028,8006 @@ submarine_number_1000  = {
 		type = submarine
 	}
 }
+
+
+#PLANES TRIGGERS - Planes cost
+plane_number_1  = {
+	has_deployed_air_force_size = {
+		size > 0
+	}
+	has_deployed_air_force_size = {
+		size < 2
+	}
+}
+plane_number_2  = {
+	has_deployed_air_force_size = {
+		size > 1
+	}
+	has_deployed_air_force_size = {
+		size < 3
+	}
+}
+plane_number_3  = {
+	has_deployed_air_force_size = {
+		size > 2
+	}
+	has_deployed_air_force_size = {
+		size < 4
+	}
+}
+plane_number_4  = {
+	has_deployed_air_force_size = {
+		size > 3
+	}
+	has_deployed_air_force_size = {
+		size < 5
+	}
+}
+plane_number_5  = {
+	has_deployed_air_force_size = {
+		size > 4
+	}
+	has_deployed_air_force_size = {
+		size < 6
+	}
+}
+plane_number_6  = {
+	has_deployed_air_force_size = {
+		size > 5
+	}
+	has_deployed_air_force_size = {
+		size < 7
+	}
+}
+plane_number_7  = {
+	has_deployed_air_force_size = {
+		size > 6
+	}
+	has_deployed_air_force_size = {
+		size < 8
+	}
+}
+plane_number_8  = {
+	has_deployed_air_force_size = {
+		size > 7
+	}
+	has_deployed_air_force_size = {
+		size < 9
+	}
+}
+plane_number_9  = {
+	has_deployed_air_force_size = {
+		size > 8
+	}
+	has_deployed_air_force_size = {
+		size < 10
+	}
+}
+plane_number_10  = {
+	has_deployed_air_force_size = {
+		size > 9
+	}
+	has_deployed_air_force_size = {
+		size < 11
+	}
+}
+plane_number_11  = {
+	has_deployed_air_force_size = {
+		size > 10
+	}
+	has_deployed_air_force_size = {
+		size < 12
+	}
+}
+plane_number_12  = {
+	has_deployed_air_force_size = {
+		size > 11
+	}
+	has_deployed_air_force_size = {
+		size < 13
+	}
+}
+plane_number_13  = {
+	has_deployed_air_force_size = {
+		size > 12
+	}
+	has_deployed_air_force_size = {
+		size < 14
+	}
+}
+plane_number_14  = {
+	has_deployed_air_force_size = {
+		size > 13
+	}
+	has_deployed_air_force_size = {
+		size < 15
+	}
+}
+plane_number_15  = {
+	has_deployed_air_force_size = {
+		size > 14
+	}
+	has_deployed_air_force_size = {
+		size < 16
+	}
+}
+plane_number_16  = {
+	has_deployed_air_force_size = {
+		size > 15
+	}
+	has_deployed_air_force_size = {
+		size < 17
+	}
+}
+plane_number_17  = {
+	has_deployed_air_force_size = {
+		size > 16
+	}
+	has_deployed_air_force_size = {
+		size < 18
+	}
+}
+plane_number_18  = {
+	has_deployed_air_force_size = {
+		size > 17
+	}
+	has_deployed_air_force_size = {
+		size < 19
+	}
+}
+plane_number_19  = {
+	has_deployed_air_force_size = {
+		size > 18
+	}
+	has_deployed_air_force_size = {
+		size < 20
+	}
+}
+plane_number_20  = {
+	has_deployed_air_force_size = {
+		size > 19
+	}
+	has_deployed_air_force_size = {
+		size < 21
+	}
+}
+plane_number_21  = {
+	has_deployed_air_force_size = {
+		size > 20
+	}
+	has_deployed_air_force_size = {
+		size < 22
+	}
+}
+plane_number_22  = {
+	has_deployed_air_force_size = {
+		size > 21
+	}
+	has_deployed_air_force_size = {
+		size < 23
+	}
+}
+plane_number_23  = {
+	has_deployed_air_force_size = {
+		size > 22
+	}
+	has_deployed_air_force_size = {
+		size < 24
+	}
+}
+plane_number_24  = {
+	has_deployed_air_force_size = {
+		size > 23
+	}
+	has_deployed_air_force_size = {
+		size < 25
+	}
+}
+plane_number_25  = {
+	has_deployed_air_force_size = {
+		size > 24
+	}
+	has_deployed_air_force_size = {
+		size < 26
+	}
+}
+plane_number_26  = {
+	has_deployed_air_force_size = {
+		size > 25
+	}
+	has_deployed_air_force_size = {
+		size < 27
+	}
+}
+plane_number_27  = {
+	has_deployed_air_force_size = {
+		size > 26
+	}
+	has_deployed_air_force_size = {
+		size < 28
+	}
+}
+plane_number_28  = {
+	has_deployed_air_force_size = {
+		size > 27
+	}
+	has_deployed_air_force_size = {
+		size < 29
+	}
+}
+plane_number_29  = {
+	has_deployed_air_force_size = {
+		size > 28
+	}
+	has_deployed_air_force_size = {
+		size < 30
+	}
+}
+plane_number_30  = {
+	has_deployed_air_force_size = {
+		size > 29
+	}
+	has_deployed_air_force_size = {
+		size < 31
+	}
+}
+plane_number_31  = {
+	has_deployed_air_force_size = {
+		size > 30
+	}
+	has_deployed_air_force_size = {
+		size < 32
+	}
+}
+plane_number_32  = {
+	has_deployed_air_force_size = {
+		size > 31
+	}
+	has_deployed_air_force_size = {
+		size < 33
+	}
+}
+plane_number_33  = {
+	has_deployed_air_force_size = {
+		size > 32
+	}
+	has_deployed_air_force_size = {
+		size < 34
+	}
+}
+plane_number_34  = {
+	has_deployed_air_force_size = {
+		size > 33
+	}
+	has_deployed_air_force_size = {
+		size < 35
+	}
+}
+plane_number_35  = {
+	has_deployed_air_force_size = {
+		size > 34
+	}
+	has_deployed_air_force_size = {
+		size < 36
+	}
+}
+plane_number_36  = {
+	has_deployed_air_force_size = {
+		size > 35
+	}
+	has_deployed_air_force_size = {
+		size < 37
+	}
+}
+plane_number_37  = {
+	has_deployed_air_force_size = {
+		size > 36
+	}
+	has_deployed_air_force_size = {
+		size < 38
+	}
+}
+plane_number_38  = {
+	has_deployed_air_force_size = {
+		size > 37
+	}
+	has_deployed_air_force_size = {
+		size < 39
+	}
+}
+plane_number_39  = {
+	has_deployed_air_force_size = {
+		size > 38
+	}
+	has_deployed_air_force_size = {
+		size < 40
+	}
+}
+plane_number_40  = {
+	has_deployed_air_force_size = {
+		size > 39
+	}
+	has_deployed_air_force_size = {
+		size < 41
+	}
+}
+plane_number_41  = {
+	has_deployed_air_force_size = {
+		size > 40
+	}
+	has_deployed_air_force_size = {
+		size < 42
+	}
+}
+plane_number_42  = {
+	has_deployed_air_force_size = {
+		size > 41
+	}
+	has_deployed_air_force_size = {
+		size < 43
+	}
+}
+plane_number_43  = {
+	has_deployed_air_force_size = {
+		size > 42
+	}
+	has_deployed_air_force_size = {
+		size < 44
+	}
+}
+plane_number_44  = {
+	has_deployed_air_force_size = {
+		size > 43
+	}
+	has_deployed_air_force_size = {
+		size < 45
+	}
+}
+plane_number_45  = {
+	has_deployed_air_force_size = {
+		size > 44
+	}
+	has_deployed_air_force_size = {
+		size < 46
+	}
+}
+plane_number_46  = {
+	has_deployed_air_force_size = {
+		size > 45
+	}
+	has_deployed_air_force_size = {
+		size < 47
+	}
+}
+plane_number_47  = {
+	has_deployed_air_force_size = {
+		size > 46
+	}
+	has_deployed_air_force_size = {
+		size < 48
+	}
+}
+plane_number_48  = {
+	has_deployed_air_force_size = {
+		size > 47
+	}
+	has_deployed_air_force_size = {
+		size < 49
+	}
+}
+plane_number_49  = {
+	has_deployed_air_force_size = {
+		size > 48
+	}
+	has_deployed_air_force_size = {
+		size < 50
+	}
+}
+plane_number_50  = {
+	has_deployed_air_force_size = {
+		size > 49
+	}
+	has_deployed_air_force_size = {
+		size < 51
+	}
+}
+plane_number_51  = {
+	has_deployed_air_force_size = {
+		size > 50
+	}
+	has_deployed_air_force_size = {
+		size < 52
+	}
+}
+plane_number_52  = {
+	has_deployed_air_force_size = {
+		size > 51
+	}
+	has_deployed_air_force_size = {
+		size < 53
+	}
+}
+plane_number_53  = {
+	has_deployed_air_force_size = {
+		size > 52
+	}
+	has_deployed_air_force_size = {
+		size < 54
+	}
+}
+plane_number_54  = {
+	has_deployed_air_force_size = {
+		size > 53
+	}
+	has_deployed_air_force_size = {
+		size < 55
+	}
+}
+plane_number_55  = {
+	has_deployed_air_force_size = {
+		size > 54
+	}
+	has_deployed_air_force_size = {
+		size < 56
+	}
+}
+plane_number_56  = {
+	has_deployed_air_force_size = {
+		size > 55
+	}
+	has_deployed_air_force_size = {
+		size < 57
+	}
+}
+plane_number_57  = {
+	has_deployed_air_force_size = {
+		size > 56
+	}
+	has_deployed_air_force_size = {
+		size < 58
+	}
+}
+plane_number_58  = {
+	has_deployed_air_force_size = {
+		size > 57
+	}
+	has_deployed_air_force_size = {
+		size < 59
+	}
+}
+plane_number_59  = {
+	has_deployed_air_force_size = {
+		size > 58
+	}
+	has_deployed_air_force_size = {
+		size < 60
+	}
+}
+plane_number_60  = {
+	has_deployed_air_force_size = {
+		size > 59
+	}
+	has_deployed_air_force_size = {
+		size < 61
+	}
+}
+plane_number_61  = {
+	has_deployed_air_force_size = {
+		size > 60
+	}
+	has_deployed_air_force_size = {
+		size < 62
+	}
+}
+plane_number_62  = {
+	has_deployed_air_force_size = {
+		size > 61
+	}
+	has_deployed_air_force_size = {
+		size < 63
+	}
+}
+plane_number_63  = {
+	has_deployed_air_force_size = {
+		size > 62
+	}
+	has_deployed_air_force_size = {
+		size < 64
+	}
+}
+plane_number_64  = {
+	has_deployed_air_force_size = {
+		size > 63
+	}
+	has_deployed_air_force_size = {
+		size < 65
+	}
+}
+plane_number_65  = {
+	has_deployed_air_force_size = {
+		size > 64
+	}
+	has_deployed_air_force_size = {
+		size < 66
+	}
+}
+plane_number_66  = {
+	has_deployed_air_force_size = {
+		size > 65
+	}
+	has_deployed_air_force_size = {
+		size < 67
+	}
+}
+plane_number_67  = {
+	has_deployed_air_force_size = {
+		size > 66
+	}
+	has_deployed_air_force_size = {
+		size < 68
+	}
+}
+plane_number_68  = {
+	has_deployed_air_force_size = {
+		size > 67
+	}
+	has_deployed_air_force_size = {
+		size < 69
+	}
+}
+plane_number_69  = {
+	has_deployed_air_force_size = {
+		size > 68
+	}
+	has_deployed_air_force_size = {
+		size < 70
+	}
+}
+plane_number_70  = {
+	has_deployed_air_force_size = {
+		size > 69
+	}
+	has_deployed_air_force_size = {
+		size < 71
+	}
+}
+plane_number_71  = {
+	has_deployed_air_force_size = {
+		size > 70
+	}
+	has_deployed_air_force_size = {
+		size < 72
+	}
+}
+plane_number_72  = {
+	has_deployed_air_force_size = {
+		size > 71
+	}
+	has_deployed_air_force_size = {
+		size < 73
+	}
+}
+plane_number_73  = {
+	has_deployed_air_force_size = {
+		size > 72
+	}
+	has_deployed_air_force_size = {
+		size < 74
+	}
+}
+plane_number_74  = {
+	has_deployed_air_force_size = {
+		size > 73
+	}
+	has_deployed_air_force_size = {
+		size < 75
+	}
+}
+plane_number_75  = {
+	has_deployed_air_force_size = {
+		size > 74
+	}
+	has_deployed_air_force_size = {
+		size < 76
+	}
+}
+plane_number_76  = {
+	has_deployed_air_force_size = {
+		size > 75
+	}
+	has_deployed_air_force_size = {
+		size < 77
+	}
+}
+plane_number_77  = {
+	has_deployed_air_force_size = {
+		size > 76
+	}
+	has_deployed_air_force_size = {
+		size < 78
+	}
+}
+plane_number_78  = {
+	has_deployed_air_force_size = {
+		size > 77
+	}
+	has_deployed_air_force_size = {
+		size < 79
+	}
+}
+plane_number_79  = {
+	has_deployed_air_force_size = {
+		size > 78
+	}
+	has_deployed_air_force_size = {
+		size < 80
+	}
+}
+plane_number_80  = {
+	has_deployed_air_force_size = {
+		size > 79
+	}
+	has_deployed_air_force_size = {
+		size < 81
+	}
+}
+plane_number_81  = {
+	has_deployed_air_force_size = {
+		size > 80
+	}
+	has_deployed_air_force_size = {
+		size < 82
+	}
+}
+plane_number_82  = {
+	has_deployed_air_force_size = {
+		size > 81
+	}
+	has_deployed_air_force_size = {
+		size < 83
+	}
+}
+plane_number_83  = {
+	has_deployed_air_force_size = {
+		size > 82
+	}
+	has_deployed_air_force_size = {
+		size < 84
+	}
+}
+plane_number_84  = {
+	has_deployed_air_force_size = {
+		size > 83
+	}
+	has_deployed_air_force_size = {
+		size < 85
+	}
+}
+plane_number_85  = {
+	has_deployed_air_force_size = {
+		size > 84
+	}
+	has_deployed_air_force_size = {
+		size < 86
+	}
+}
+plane_number_86  = {
+	has_deployed_air_force_size = {
+		size > 85
+	}
+	has_deployed_air_force_size = {
+		size < 87
+	}
+}
+plane_number_87  = {
+	has_deployed_air_force_size = {
+		size > 86
+	}
+	has_deployed_air_force_size = {
+		size < 88
+	}
+}
+plane_number_88  = {
+	has_deployed_air_force_size = {
+		size > 87
+	}
+	has_deployed_air_force_size = {
+		size < 89
+	}
+}
+plane_number_89  = {
+	has_deployed_air_force_size = {
+		size > 88
+	}
+	has_deployed_air_force_size = {
+		size < 90
+	}
+}
+plane_number_90  = {
+	has_deployed_air_force_size = {
+		size > 89
+	}
+	has_deployed_air_force_size = {
+		size < 91
+	}
+}
+plane_number_91  = {
+	has_deployed_air_force_size = {
+		size > 90
+	}
+	has_deployed_air_force_size = {
+		size < 92
+	}
+}
+plane_number_92  = {
+	has_deployed_air_force_size = {
+		size > 91
+	}
+	has_deployed_air_force_size = {
+		size < 93
+	}
+}
+plane_number_93  = {
+	has_deployed_air_force_size = {
+		size > 92
+	}
+	has_deployed_air_force_size = {
+		size < 94
+	}
+}
+plane_number_94  = {
+	has_deployed_air_force_size = {
+		size > 93
+	}
+	has_deployed_air_force_size = {
+		size < 95
+	}
+}
+plane_number_95  = {
+	has_deployed_air_force_size = {
+		size > 94
+	}
+	has_deployed_air_force_size = {
+		size < 96
+	}
+}
+plane_number_96  = {
+	has_deployed_air_force_size = {
+		size > 95
+	}
+	has_deployed_air_force_size = {
+		size < 97
+	}
+}
+plane_number_97  = {
+	has_deployed_air_force_size = {
+		size > 96
+	}
+	has_deployed_air_force_size = {
+		size < 98
+	}
+}
+plane_number_98  = {
+	has_deployed_air_force_size = {
+		size > 97
+	}
+	has_deployed_air_force_size = {
+		size < 99
+	}
+}
+plane_number_99  = {
+	has_deployed_air_force_size = {
+		size > 98
+	}
+	has_deployed_air_force_size = {
+		size < 100
+	}
+}
+plane_number_100  = {
+	has_deployed_air_force_size = {
+		size > 99
+	}
+	has_deployed_air_force_size = {
+		size < 101
+	}
+}
+plane_number_101  = {
+	has_deployed_air_force_size = {
+		size > 100
+	}
+	has_deployed_air_force_size = {
+		size < 102
+	}
+}
+plane_number_102  = {
+	has_deployed_air_force_size = {
+		size > 101
+	}
+	has_deployed_air_force_size = {
+		size < 103
+	}
+}
+plane_number_103  = {
+	has_deployed_air_force_size = {
+		size > 102
+	}
+	has_deployed_air_force_size = {
+		size < 104
+	}
+}
+plane_number_104  = {
+	has_deployed_air_force_size = {
+		size > 103
+	}
+	has_deployed_air_force_size = {
+		size < 105
+	}
+}
+plane_number_105  = {
+	has_deployed_air_force_size = {
+		size > 104
+	}
+	has_deployed_air_force_size = {
+		size < 106
+	}
+}
+plane_number_106  = {
+	has_deployed_air_force_size = {
+		size > 105
+	}
+	has_deployed_air_force_size = {
+		size < 107
+	}
+}
+plane_number_107  = {
+	has_deployed_air_force_size = {
+		size > 106
+	}
+	has_deployed_air_force_size = {
+		size < 108
+	}
+}
+plane_number_108  = {
+	has_deployed_air_force_size = {
+		size > 107
+	}
+	has_deployed_air_force_size = {
+		size < 109
+	}
+}
+plane_number_109  = {
+	has_deployed_air_force_size = {
+		size > 108
+	}
+	has_deployed_air_force_size = {
+		size < 110
+	}
+}
+plane_number_110  = {
+	has_deployed_air_force_size = {
+		size > 109
+	}
+	has_deployed_air_force_size = {
+		size < 111
+	}
+}
+plane_number_111  = {
+	has_deployed_air_force_size = {
+		size > 110
+	}
+	has_deployed_air_force_size = {
+		size < 112
+	}
+}
+plane_number_112  = {
+	has_deployed_air_force_size = {
+		size > 111
+	}
+	has_deployed_air_force_size = {
+		size < 113
+	}
+}
+plane_number_113  = {
+	has_deployed_air_force_size = {
+		size > 112
+	}
+	has_deployed_air_force_size = {
+		size < 114
+	}
+}
+plane_number_114  = {
+	has_deployed_air_force_size = {
+		size > 113
+	}
+	has_deployed_air_force_size = {
+		size < 115
+	}
+}
+plane_number_115  = {
+	has_deployed_air_force_size = {
+		size > 114
+	}
+	has_deployed_air_force_size = {
+		size < 116
+	}
+}
+plane_number_116  = {
+	has_deployed_air_force_size = {
+		size > 115
+	}
+	has_deployed_air_force_size = {
+		size < 117
+	}
+}
+plane_number_117  = {
+	has_deployed_air_force_size = {
+		size > 116
+	}
+	has_deployed_air_force_size = {
+		size < 118
+	}
+}
+plane_number_118  = {
+	has_deployed_air_force_size = {
+		size > 117
+	}
+	has_deployed_air_force_size = {
+		size < 119
+	}
+}
+plane_number_119  = {
+	has_deployed_air_force_size = {
+		size > 118
+	}
+	has_deployed_air_force_size = {
+		size < 120
+	}
+}
+plane_number_120  = {
+	has_deployed_air_force_size = {
+		size > 119
+	}
+	has_deployed_air_force_size = {
+		size < 121
+	}
+}
+plane_number_121  = {
+	has_deployed_air_force_size = {
+		size > 120
+	}
+	has_deployed_air_force_size = {
+		size < 122
+	}
+}
+plane_number_122  = {
+	has_deployed_air_force_size = {
+		size > 121
+	}
+	has_deployed_air_force_size = {
+		size < 123
+	}
+}
+plane_number_123  = {
+	has_deployed_air_force_size = {
+		size > 122
+	}
+	has_deployed_air_force_size = {
+		size < 124
+	}
+}
+plane_number_124  = {
+	has_deployed_air_force_size = {
+		size > 123
+	}
+	has_deployed_air_force_size = {
+		size < 125
+	}
+}
+plane_number_125  = {
+	has_deployed_air_force_size = {
+		size > 124
+	}
+	has_deployed_air_force_size = {
+		size < 126
+	}
+}
+plane_number_126  = {
+	has_deployed_air_force_size = {
+		size > 125
+	}
+	has_deployed_air_force_size = {
+		size < 127
+	}
+}
+plane_number_127  = {
+	has_deployed_air_force_size = {
+		size > 126
+	}
+	has_deployed_air_force_size = {
+		size < 128
+	}
+}
+plane_number_128  = {
+	has_deployed_air_force_size = {
+		size > 127
+	}
+	has_deployed_air_force_size = {
+		size < 129
+	}
+}
+plane_number_129  = {
+	has_deployed_air_force_size = {
+		size > 128
+	}
+	has_deployed_air_force_size = {
+		size < 130
+	}
+}
+plane_number_130  = {
+	has_deployed_air_force_size = {
+		size > 129
+	}
+	has_deployed_air_force_size = {
+		size < 131
+	}
+}
+plane_number_131  = {
+	has_deployed_air_force_size = {
+		size > 130
+	}
+	has_deployed_air_force_size = {
+		size < 132
+	}
+}
+plane_number_132  = {
+	has_deployed_air_force_size = {
+		size > 131
+	}
+	has_deployed_air_force_size = {
+		size < 133
+	}
+}
+plane_number_133  = {
+	has_deployed_air_force_size = {
+		size > 132
+	}
+	has_deployed_air_force_size = {
+		size < 134
+	}
+}
+plane_number_134  = {
+	has_deployed_air_force_size = {
+		size > 133
+	}
+	has_deployed_air_force_size = {
+		size < 135
+	}
+}
+plane_number_135  = {
+	has_deployed_air_force_size = {
+		size > 134
+	}
+	has_deployed_air_force_size = {
+		size < 136
+	}
+}
+plane_number_136  = {
+	has_deployed_air_force_size = {
+		size > 135
+	}
+	has_deployed_air_force_size = {
+		size < 137
+	}
+}
+plane_number_137  = {
+	has_deployed_air_force_size = {
+		size > 136
+	}
+	has_deployed_air_force_size = {
+		size < 138
+	}
+}
+plane_number_138  = {
+	has_deployed_air_force_size = {
+		size > 137
+	}
+	has_deployed_air_force_size = {
+		size < 139
+	}
+}
+plane_number_139  = {
+	has_deployed_air_force_size = {
+		size > 138
+	}
+	has_deployed_air_force_size = {
+		size < 140
+	}
+}
+plane_number_140  = {
+	has_deployed_air_force_size = {
+		size > 139
+	}
+	has_deployed_air_force_size = {
+		size < 141
+	}
+}
+plane_number_141  = {
+	has_deployed_air_force_size = {
+		size > 140
+	}
+	has_deployed_air_force_size = {
+		size < 142
+	}
+}
+plane_number_142  = {
+	has_deployed_air_force_size = {
+		size > 141
+	}
+	has_deployed_air_force_size = {
+		size < 143
+	}
+}
+plane_number_143  = {
+	has_deployed_air_force_size = {
+		size > 142
+	}
+	has_deployed_air_force_size = {
+		size < 144
+	}
+}
+plane_number_144  = {
+	has_deployed_air_force_size = {
+		size > 143
+	}
+	has_deployed_air_force_size = {
+		size < 145
+	}
+}
+plane_number_145  = {
+	has_deployed_air_force_size = {
+		size > 144
+	}
+	has_deployed_air_force_size = {
+		size < 146
+	}
+}
+plane_number_146  = {
+	has_deployed_air_force_size = {
+		size > 145
+	}
+	has_deployed_air_force_size = {
+		size < 147
+	}
+}
+plane_number_147  = {
+	has_deployed_air_force_size = {
+		size > 146
+	}
+	has_deployed_air_force_size = {
+		size < 148
+	}
+}
+plane_number_148  = {
+	has_deployed_air_force_size = {
+		size > 147
+	}
+	has_deployed_air_force_size = {
+		size < 149
+	}
+}
+plane_number_149  = {
+	has_deployed_air_force_size = {
+		size > 148
+	}
+	has_deployed_air_force_size = {
+		size < 150
+	}
+}
+plane_number_150  = {
+	has_deployed_air_force_size = {
+		size > 149
+	}
+	has_deployed_air_force_size = {
+		size < 151
+	}
+}
+plane_number_151  = {
+	has_deployed_air_force_size = {
+		size > 150
+	}
+	has_deployed_air_force_size = {
+		size < 152
+	}
+}
+plane_number_152  = {
+	has_deployed_air_force_size = {
+		size > 151
+	}
+	has_deployed_air_force_size = {
+		size < 153
+	}
+}
+plane_number_153  = {
+	has_deployed_air_force_size = {
+		size > 152
+	}
+	has_deployed_air_force_size = {
+		size < 154
+	}
+}
+plane_number_154  = {
+	has_deployed_air_force_size = {
+		size > 153
+	}
+	has_deployed_air_force_size = {
+		size < 155
+	}
+}
+plane_number_155  = {
+	has_deployed_air_force_size = {
+		size > 154
+	}
+	has_deployed_air_force_size = {
+		size < 156
+	}
+}
+plane_number_156  = {
+	has_deployed_air_force_size = {
+		size > 155
+	}
+	has_deployed_air_force_size = {
+		size < 157
+	}
+}
+plane_number_157  = {
+	has_deployed_air_force_size = {
+		size > 156
+	}
+	has_deployed_air_force_size = {
+		size < 158
+	}
+}
+plane_number_158  = {
+	has_deployed_air_force_size = {
+		size > 157
+	}
+	has_deployed_air_force_size = {
+		size < 159
+	}
+}
+plane_number_159  = {
+	has_deployed_air_force_size = {
+		size > 158
+	}
+	has_deployed_air_force_size = {
+		size < 160
+	}
+}
+plane_number_160  = {
+	has_deployed_air_force_size = {
+		size > 159
+	}
+	has_deployed_air_force_size = {
+		size < 161
+	}
+}
+plane_number_161  = {
+	has_deployed_air_force_size = {
+		size > 160
+	}
+	has_deployed_air_force_size = {
+		size < 162
+	}
+}
+plane_number_162  = {
+	has_deployed_air_force_size = {
+		size > 161
+	}
+	has_deployed_air_force_size = {
+		size < 163
+	}
+}
+plane_number_163  = {
+	has_deployed_air_force_size = {
+		size > 162
+	}
+	has_deployed_air_force_size = {
+		size < 164
+	}
+}
+plane_number_164  = {
+	has_deployed_air_force_size = {
+		size > 163
+	}
+	has_deployed_air_force_size = {
+		size < 165
+	}
+}
+plane_number_165  = {
+	has_deployed_air_force_size = {
+		size > 164
+	}
+	has_deployed_air_force_size = {
+		size < 166
+	}
+}
+plane_number_166  = {
+	has_deployed_air_force_size = {
+		size > 165
+	}
+	has_deployed_air_force_size = {
+		size < 167
+	}
+}
+plane_number_167  = {
+	has_deployed_air_force_size = {
+		size > 166
+	}
+	has_deployed_air_force_size = {
+		size < 168
+	}
+}
+plane_number_168  = {
+	has_deployed_air_force_size = {
+		size > 167
+	}
+	has_deployed_air_force_size = {
+		size < 169
+	}
+}
+plane_number_169  = {
+	has_deployed_air_force_size = {
+		size > 168
+	}
+	has_deployed_air_force_size = {
+		size < 170
+	}
+}
+plane_number_170  = {
+	has_deployed_air_force_size = {
+		size > 169
+	}
+	has_deployed_air_force_size = {
+		size < 171
+	}
+}
+plane_number_171  = {
+	has_deployed_air_force_size = {
+		size > 170
+	}
+	has_deployed_air_force_size = {
+		size < 172
+	}
+}
+plane_number_172  = {
+	has_deployed_air_force_size = {
+		size > 171
+	}
+	has_deployed_air_force_size = {
+		size < 173
+	}
+}
+plane_number_173  = {
+	has_deployed_air_force_size = {
+		size > 172
+	}
+	has_deployed_air_force_size = {
+		size < 174
+	}
+}
+plane_number_174  = {
+	has_deployed_air_force_size = {
+		size > 173
+	}
+	has_deployed_air_force_size = {
+		size < 175
+	}
+}
+plane_number_175  = {
+	has_deployed_air_force_size = {
+		size > 174
+	}
+	has_deployed_air_force_size = {
+		size < 176
+	}
+}
+plane_number_176  = {
+	has_deployed_air_force_size = {
+		size > 175
+	}
+	has_deployed_air_force_size = {
+		size < 177
+	}
+}
+plane_number_177  = {
+	has_deployed_air_force_size = {
+		size > 176
+	}
+	has_deployed_air_force_size = {
+		size < 178
+	}
+}
+plane_number_178  = {
+	has_deployed_air_force_size = {
+		size > 177
+	}
+	has_deployed_air_force_size = {
+		size < 179
+	}
+}
+plane_number_179  = {
+	has_deployed_air_force_size = {
+		size > 178
+	}
+	has_deployed_air_force_size = {
+		size < 180
+	}
+}
+plane_number_180  = {
+	has_deployed_air_force_size = {
+		size > 179
+	}
+	has_deployed_air_force_size = {
+		size < 181
+	}
+}
+plane_number_181  = {
+	has_deployed_air_force_size = {
+		size > 180
+	}
+	has_deployed_air_force_size = {
+		size < 182
+	}
+}
+plane_number_182  = {
+	has_deployed_air_force_size = {
+		size > 181
+	}
+	has_deployed_air_force_size = {
+		size < 183
+	}
+}
+plane_number_183  = {
+	has_deployed_air_force_size = {
+		size > 182
+	}
+	has_deployed_air_force_size = {
+		size < 184
+	}
+}
+plane_number_184  = {
+	has_deployed_air_force_size = {
+		size > 183
+	}
+	has_deployed_air_force_size = {
+		size < 185
+	}
+}
+plane_number_185  = {
+	has_deployed_air_force_size = {
+		size > 184
+	}
+	has_deployed_air_force_size = {
+		size < 186
+	}
+}
+plane_number_186  = {
+	has_deployed_air_force_size = {
+		size > 185
+	}
+	has_deployed_air_force_size = {
+		size < 187
+	}
+}
+plane_number_187  = {
+	has_deployed_air_force_size = {
+		size > 186
+	}
+	has_deployed_air_force_size = {
+		size < 188
+	}
+}
+plane_number_188  = {
+	has_deployed_air_force_size = {
+		size > 187
+	}
+	has_deployed_air_force_size = {
+		size < 189
+	}
+}
+plane_number_189  = {
+	has_deployed_air_force_size = {
+		size > 188
+	}
+	has_deployed_air_force_size = {
+		size < 190
+	}
+}
+plane_number_190  = {
+	has_deployed_air_force_size = {
+		size > 189
+	}
+	has_deployed_air_force_size = {
+		size < 191
+	}
+}
+plane_number_191  = {
+	has_deployed_air_force_size = {
+		size > 190
+	}
+	has_deployed_air_force_size = {
+		size < 192
+	}
+}
+plane_number_192  = {
+	has_deployed_air_force_size = {
+		size > 191
+	}
+	has_deployed_air_force_size = {
+		size < 193
+	}
+}
+plane_number_193  = {
+	has_deployed_air_force_size = {
+		size > 192
+	}
+	has_deployed_air_force_size = {
+		size < 194
+	}
+}
+plane_number_194  = {
+	has_deployed_air_force_size = {
+		size > 193
+	}
+	has_deployed_air_force_size = {
+		size < 195
+	}
+}
+plane_number_195  = {
+	has_deployed_air_force_size = {
+		size > 194
+	}
+	has_deployed_air_force_size = {
+		size < 196
+	}
+}
+plane_number_196  = {
+	has_deployed_air_force_size = {
+		size > 195
+	}
+	has_deployed_air_force_size = {
+		size < 197
+	}
+}
+plane_number_197  = {
+	has_deployed_air_force_size = {
+		size > 196
+	}
+	has_deployed_air_force_size = {
+		size < 198
+	}
+}
+plane_number_198  = {
+	has_deployed_air_force_size = {
+		size > 197
+	}
+	has_deployed_air_force_size = {
+		size < 199
+	}
+}
+plane_number_199  = {
+	has_deployed_air_force_size = {
+		size > 198
+	}
+	has_deployed_air_force_size = {
+		size < 200
+	}
+}
+plane_number_200  = {
+	has_deployed_air_force_size = {
+		size > 199
+	}
+	has_deployed_air_force_size = {
+		size < 201
+	}
+}
+plane_number_201  = {
+	has_deployed_air_force_size = {
+		size > 200
+	}
+	has_deployed_air_force_size = {
+		size < 202
+	}
+}
+plane_number_202  = {
+	has_deployed_air_force_size = {
+		size > 201
+	}
+	has_deployed_air_force_size = {
+		size < 203
+	}
+}
+plane_number_203  = {
+	has_deployed_air_force_size = {
+		size > 202
+	}
+	has_deployed_air_force_size = {
+		size < 204
+	}
+}
+plane_number_204  = {
+	has_deployed_air_force_size = {
+		size > 203
+	}
+	has_deployed_air_force_size = {
+		size < 205
+	}
+}
+plane_number_205  = {
+	has_deployed_air_force_size = {
+		size > 204
+	}
+	has_deployed_air_force_size = {
+		size < 206
+	}
+}
+plane_number_206  = {
+	has_deployed_air_force_size = {
+		size > 205
+	}
+	has_deployed_air_force_size = {
+		size < 207
+	}
+}
+plane_number_207  = {
+	has_deployed_air_force_size = {
+		size > 206
+	}
+	has_deployed_air_force_size = {
+		size < 208
+	}
+}
+plane_number_208  = {
+	has_deployed_air_force_size = {
+		size > 207
+	}
+	has_deployed_air_force_size = {
+		size < 209
+	}
+}
+plane_number_209  = {
+	has_deployed_air_force_size = {
+		size > 208
+	}
+	has_deployed_air_force_size = {
+		size < 210
+	}
+}
+plane_number_210  = {
+	has_deployed_air_force_size = {
+		size > 209
+	}
+	has_deployed_air_force_size = {
+		size < 211
+	}
+}
+plane_number_211  = {
+	has_deployed_air_force_size = {
+		size > 210
+	}
+	has_deployed_air_force_size = {
+		size < 212
+	}
+}
+plane_number_212  = {
+	has_deployed_air_force_size = {
+		size > 211
+	}
+	has_deployed_air_force_size = {
+		size < 213
+	}
+}
+plane_number_213  = {
+	has_deployed_air_force_size = {
+		size > 212
+	}
+	has_deployed_air_force_size = {
+		size < 214
+	}
+}
+plane_number_214  = {
+	has_deployed_air_force_size = {
+		size > 213
+	}
+	has_deployed_air_force_size = {
+		size < 215
+	}
+}
+plane_number_215  = {
+	has_deployed_air_force_size = {
+		size > 214
+	}
+	has_deployed_air_force_size = {
+		size < 216
+	}
+}
+plane_number_216  = {
+	has_deployed_air_force_size = {
+		size > 215
+	}
+	has_deployed_air_force_size = {
+		size < 217
+	}
+}
+plane_number_217  = {
+	has_deployed_air_force_size = {
+		size > 216
+	}
+	has_deployed_air_force_size = {
+		size < 218
+	}
+}
+plane_number_218  = {
+	has_deployed_air_force_size = {
+		size > 217
+	}
+	has_deployed_air_force_size = {
+		size < 219
+	}
+}
+plane_number_219  = {
+	has_deployed_air_force_size = {
+		size > 218
+	}
+	has_deployed_air_force_size = {
+		size < 220
+	}
+}
+plane_number_220  = {
+	has_deployed_air_force_size = {
+		size > 219
+	}
+	has_deployed_air_force_size = {
+		size < 221
+	}
+}
+plane_number_221  = {
+	has_deployed_air_force_size = {
+		size > 220
+	}
+	has_deployed_air_force_size = {
+		size < 222
+	}
+}
+plane_number_222  = {
+	has_deployed_air_force_size = {
+		size > 221
+	}
+	has_deployed_air_force_size = {
+		size < 223
+	}
+}
+plane_number_223  = {
+	has_deployed_air_force_size = {
+		size > 222
+	}
+	has_deployed_air_force_size = {
+		size < 224
+	}
+}
+plane_number_224  = {
+	has_deployed_air_force_size = {
+		size > 223
+	}
+	has_deployed_air_force_size = {
+		size < 225
+	}
+}
+plane_number_225  = {
+	has_deployed_air_force_size = {
+		size > 224
+	}
+	has_deployed_air_force_size = {
+		size < 226
+	}
+}
+plane_number_226  = {
+	has_deployed_air_force_size = {
+		size > 225
+	}
+	has_deployed_air_force_size = {
+		size < 227
+	}
+}
+plane_number_227  = {
+	has_deployed_air_force_size = {
+		size > 226
+	}
+	has_deployed_air_force_size = {
+		size < 228
+	}
+}
+plane_number_228  = {
+	has_deployed_air_force_size = {
+		size > 227
+	}
+	has_deployed_air_force_size = {
+		size < 229
+	}
+}
+plane_number_229  = {
+	has_deployed_air_force_size = {
+		size > 228
+	}
+	has_deployed_air_force_size = {
+		size < 230
+	}
+}
+plane_number_230  = {
+	has_deployed_air_force_size = {
+		size > 229
+	}
+	has_deployed_air_force_size = {
+		size < 231
+	}
+}
+plane_number_231  = {
+	has_deployed_air_force_size = {
+		size > 230
+	}
+	has_deployed_air_force_size = {
+		size < 232
+	}
+}
+plane_number_232  = {
+	has_deployed_air_force_size = {
+		size > 231
+	}
+	has_deployed_air_force_size = {
+		size < 233
+	}
+}
+plane_number_233  = {
+	has_deployed_air_force_size = {
+		size > 232
+	}
+	has_deployed_air_force_size = {
+		size < 234
+	}
+}
+plane_number_234  = {
+	has_deployed_air_force_size = {
+		size > 233
+	}
+	has_deployed_air_force_size = {
+		size < 235
+	}
+}
+plane_number_235  = {
+	has_deployed_air_force_size = {
+		size > 234
+	}
+	has_deployed_air_force_size = {
+		size < 236
+	}
+}
+plane_number_236  = {
+	has_deployed_air_force_size = {
+		size > 235
+	}
+	has_deployed_air_force_size = {
+		size < 237
+	}
+}
+plane_number_237  = {
+	has_deployed_air_force_size = {
+		size > 236
+	}
+	has_deployed_air_force_size = {
+		size < 238
+	}
+}
+plane_number_238  = {
+	has_deployed_air_force_size = {
+		size > 237
+	}
+	has_deployed_air_force_size = {
+		size < 239
+	}
+}
+plane_number_239  = {
+	has_deployed_air_force_size = {
+		size > 238
+	}
+	has_deployed_air_force_size = {
+		size < 240
+	}
+}
+plane_number_240  = {
+	has_deployed_air_force_size = {
+		size > 239
+	}
+	has_deployed_air_force_size = {
+		size < 241
+	}
+}
+plane_number_241  = {
+	has_deployed_air_force_size = {
+		size > 240
+	}
+	has_deployed_air_force_size = {
+		size < 242
+	}
+}
+plane_number_242  = {
+	has_deployed_air_force_size = {
+		size > 241
+	}
+	has_deployed_air_force_size = {
+		size < 243
+	}
+}
+plane_number_243  = {
+	has_deployed_air_force_size = {
+		size > 242
+	}
+	has_deployed_air_force_size = {
+		size < 244
+	}
+}
+plane_number_244  = {
+	has_deployed_air_force_size = {
+		size > 243
+	}
+	has_deployed_air_force_size = {
+		size < 245
+	}
+}
+plane_number_245  = {
+	has_deployed_air_force_size = {
+		size > 244
+	}
+	has_deployed_air_force_size = {
+		size < 246
+	}
+}
+plane_number_246  = {
+	has_deployed_air_force_size = {
+		size > 245
+	}
+	has_deployed_air_force_size = {
+		size < 247
+	}
+}
+plane_number_247  = {
+	has_deployed_air_force_size = {
+		size > 246
+	}
+	has_deployed_air_force_size = {
+		size < 248
+	}
+}
+plane_number_248  = {
+	has_deployed_air_force_size = {
+		size > 247
+	}
+	has_deployed_air_force_size = {
+		size < 249
+	}
+}
+plane_number_249  = {
+	has_deployed_air_force_size = {
+		size > 248
+	}
+	has_deployed_air_force_size = {
+		size < 250
+	}
+}
+plane_number_250  = {
+	has_deployed_air_force_size = {
+		size > 249
+	}
+	has_deployed_air_force_size = {
+		size < 251
+	}
+}
+plane_number_251  = {
+	has_deployed_air_force_size = {
+		size > 250
+	}
+	has_deployed_air_force_size = {
+		size < 252
+	}
+}
+plane_number_252  = {
+	has_deployed_air_force_size = {
+		size > 251
+	}
+	has_deployed_air_force_size = {
+		size < 253
+	}
+}
+plane_number_253  = {
+	has_deployed_air_force_size = {
+		size > 252
+	}
+	has_deployed_air_force_size = {
+		size < 254
+	}
+}
+plane_number_254  = {
+	has_deployed_air_force_size = {
+		size > 253
+	}
+	has_deployed_air_force_size = {
+		size < 255
+	}
+}
+plane_number_255  = {
+	has_deployed_air_force_size = {
+		size > 254
+	}
+	has_deployed_air_force_size = {
+		size < 256
+	}
+}
+plane_number_256  = {
+	has_deployed_air_force_size = {
+		size > 255
+	}
+	has_deployed_air_force_size = {
+		size < 257
+	}
+}
+plane_number_257  = {
+	has_deployed_air_force_size = {
+		size > 256
+	}
+	has_deployed_air_force_size = {
+		size < 258
+	}
+}
+plane_number_258  = {
+	has_deployed_air_force_size = {
+		size > 257
+	}
+	has_deployed_air_force_size = {
+		size < 259
+	}
+}
+plane_number_259  = {
+	has_deployed_air_force_size = {
+		size > 258
+	}
+	has_deployed_air_force_size = {
+		size < 260
+	}
+}
+plane_number_260  = {
+	has_deployed_air_force_size = {
+		size > 259
+	}
+	has_deployed_air_force_size = {
+		size < 261
+	}
+}
+plane_number_261  = {
+	has_deployed_air_force_size = {
+		size > 260
+	}
+	has_deployed_air_force_size = {
+		size < 262
+	}
+}
+plane_number_262  = {
+	has_deployed_air_force_size = {
+		size > 261
+	}
+	has_deployed_air_force_size = {
+		size < 263
+	}
+}
+plane_number_263  = {
+	has_deployed_air_force_size = {
+		size > 262
+	}
+	has_deployed_air_force_size = {
+		size < 264
+	}
+}
+plane_number_264  = {
+	has_deployed_air_force_size = {
+		size > 263
+	}
+	has_deployed_air_force_size = {
+		size < 265
+	}
+}
+plane_number_265  = {
+	has_deployed_air_force_size = {
+		size > 264
+	}
+	has_deployed_air_force_size = {
+		size < 266
+	}
+}
+plane_number_266  = {
+	has_deployed_air_force_size = {
+		size > 265
+	}
+	has_deployed_air_force_size = {
+		size < 267
+	}
+}
+plane_number_267  = {
+	has_deployed_air_force_size = {
+		size > 266
+	}
+	has_deployed_air_force_size = {
+		size < 268
+	}
+}
+plane_number_268  = {
+	has_deployed_air_force_size = {
+		size > 267
+	}
+	has_deployed_air_force_size = {
+		size < 269
+	}
+}
+plane_number_269  = {
+	has_deployed_air_force_size = {
+		size > 268
+	}
+	has_deployed_air_force_size = {
+		size < 270
+	}
+}
+plane_number_270  = {
+	has_deployed_air_force_size = {
+		size > 269
+	}
+	has_deployed_air_force_size = {
+		size < 271
+	}
+}
+plane_number_271  = {
+	has_deployed_air_force_size = {
+		size > 270
+	}
+	has_deployed_air_force_size = {
+		size < 272
+	}
+}
+plane_number_272  = {
+	has_deployed_air_force_size = {
+		size > 271
+	}
+	has_deployed_air_force_size = {
+		size < 273
+	}
+}
+plane_number_273  = {
+	has_deployed_air_force_size = {
+		size > 272
+	}
+	has_deployed_air_force_size = {
+		size < 274
+	}
+}
+plane_number_274  = {
+	has_deployed_air_force_size = {
+		size > 273
+	}
+	has_deployed_air_force_size = {
+		size < 275
+	}
+}
+plane_number_275  = {
+	has_deployed_air_force_size = {
+		size > 274
+	}
+	has_deployed_air_force_size = {
+		size < 276
+	}
+}
+plane_number_276  = {
+	has_deployed_air_force_size = {
+		size > 275
+	}
+	has_deployed_air_force_size = {
+		size < 277
+	}
+}
+plane_number_277  = {
+	has_deployed_air_force_size = {
+		size > 276
+	}
+	has_deployed_air_force_size = {
+		size < 278
+	}
+}
+plane_number_278  = {
+	has_deployed_air_force_size = {
+		size > 277
+	}
+	has_deployed_air_force_size = {
+		size < 279
+	}
+}
+plane_number_279  = {
+	has_deployed_air_force_size = {
+		size > 278
+	}
+	has_deployed_air_force_size = {
+		size < 280
+	}
+}
+plane_number_280  = {
+	has_deployed_air_force_size = {
+		size > 279
+	}
+	has_deployed_air_force_size = {
+		size < 281
+	}
+}
+plane_number_281  = {
+	has_deployed_air_force_size = {
+		size > 280
+	}
+	has_deployed_air_force_size = {
+		size < 282
+	}
+}
+plane_number_282  = {
+	has_deployed_air_force_size = {
+		size > 281
+	}
+	has_deployed_air_force_size = {
+		size < 283
+	}
+}
+plane_number_283  = {
+	has_deployed_air_force_size = {
+		size > 282
+	}
+	has_deployed_air_force_size = {
+		size < 284
+	}
+}
+plane_number_284  = {
+	has_deployed_air_force_size = {
+		size > 283
+	}
+	has_deployed_air_force_size = {
+		size < 285
+	}
+}
+plane_number_285  = {
+	has_deployed_air_force_size = {
+		size > 284
+	}
+	has_deployed_air_force_size = {
+		size < 286
+	}
+}
+plane_number_286  = {
+	has_deployed_air_force_size = {
+		size > 285
+	}
+	has_deployed_air_force_size = {
+		size < 287
+	}
+}
+plane_number_287  = {
+	has_deployed_air_force_size = {
+		size > 286
+	}
+	has_deployed_air_force_size = {
+		size < 288
+	}
+}
+plane_number_288  = {
+	has_deployed_air_force_size = {
+		size > 287
+	}
+	has_deployed_air_force_size = {
+		size < 289
+	}
+}
+plane_number_289  = {
+	has_deployed_air_force_size = {
+		size > 288
+	}
+	has_deployed_air_force_size = {
+		size < 290
+	}
+}
+plane_number_290  = {
+	has_deployed_air_force_size = {
+		size > 289
+	}
+	has_deployed_air_force_size = {
+		size < 291
+	}
+}
+plane_number_291  = {
+	has_deployed_air_force_size = {
+		size > 290
+	}
+	has_deployed_air_force_size = {
+		size < 292
+	}
+}
+plane_number_292  = {
+	has_deployed_air_force_size = {
+		size > 291
+	}
+	has_deployed_air_force_size = {
+		size < 293
+	}
+}
+plane_number_293  = {
+	has_deployed_air_force_size = {
+		size > 292
+	}
+	has_deployed_air_force_size = {
+		size < 294
+	}
+}
+plane_number_294  = {
+	has_deployed_air_force_size = {
+		size > 293
+	}
+	has_deployed_air_force_size = {
+		size < 295
+	}
+}
+plane_number_295  = {
+	has_deployed_air_force_size = {
+		size > 294
+	}
+	has_deployed_air_force_size = {
+		size < 296
+	}
+}
+plane_number_296  = {
+	has_deployed_air_force_size = {
+		size > 295
+	}
+	has_deployed_air_force_size = {
+		size < 297
+	}
+}
+plane_number_297  = {
+	has_deployed_air_force_size = {
+		size > 296
+	}
+	has_deployed_air_force_size = {
+		size < 298
+	}
+}
+plane_number_298  = {
+	has_deployed_air_force_size = {
+		size > 297
+	}
+	has_deployed_air_force_size = {
+		size < 299
+	}
+}
+plane_number_299  = {
+	has_deployed_air_force_size = {
+		size > 298
+	}
+	has_deployed_air_force_size = {
+		size < 300
+	}
+}
+plane_number_300  = {
+	has_deployed_air_force_size = {
+		size > 299
+	}
+	has_deployed_air_force_size = {
+		size < 301
+	}
+}
+plane_number_301  = {
+	has_deployed_air_force_size = {
+		size > 300
+	}
+	has_deployed_air_force_size = {
+		size < 302
+	}
+}
+plane_number_302  = {
+	has_deployed_air_force_size = {
+		size > 301
+	}
+	has_deployed_air_force_size = {
+		size < 303
+	}
+}
+plane_number_303  = {
+	has_deployed_air_force_size = {
+		size > 302
+	}
+	has_deployed_air_force_size = {
+		size < 304
+	}
+}
+plane_number_304  = {
+	has_deployed_air_force_size = {
+		size > 303
+	}
+	has_deployed_air_force_size = {
+		size < 305
+	}
+}
+plane_number_305  = {
+	has_deployed_air_force_size = {
+		size > 304
+	}
+	has_deployed_air_force_size = {
+		size < 306
+	}
+}
+plane_number_306  = {
+	has_deployed_air_force_size = {
+		size > 305
+	}
+	has_deployed_air_force_size = {
+		size < 307
+	}
+}
+plane_number_307  = {
+	has_deployed_air_force_size = {
+		size > 306
+	}
+	has_deployed_air_force_size = {
+		size < 308
+	}
+}
+plane_number_308  = {
+	has_deployed_air_force_size = {
+		size > 307
+	}
+	has_deployed_air_force_size = {
+		size < 309
+	}
+}
+plane_number_309  = {
+	has_deployed_air_force_size = {
+		size > 308
+	}
+	has_deployed_air_force_size = {
+		size < 310
+	}
+}
+plane_number_310  = {
+	has_deployed_air_force_size = {
+		size > 309
+	}
+	has_deployed_air_force_size = {
+		size < 311
+	}
+}
+plane_number_311  = {
+	has_deployed_air_force_size = {
+		size > 310
+	}
+	has_deployed_air_force_size = {
+		size < 312
+	}
+}
+plane_number_312  = {
+	has_deployed_air_force_size = {
+		size > 311
+	}
+	has_deployed_air_force_size = {
+		size < 313
+	}
+}
+plane_number_313  = {
+	has_deployed_air_force_size = {
+		size > 312
+	}
+	has_deployed_air_force_size = {
+		size < 314
+	}
+}
+plane_number_314  = {
+	has_deployed_air_force_size = {
+		size > 313
+	}
+	has_deployed_air_force_size = {
+		size < 315
+	}
+}
+plane_number_315  = {
+	has_deployed_air_force_size = {
+		size > 314
+	}
+	has_deployed_air_force_size = {
+		size < 316
+	}
+}
+plane_number_316  = {
+	has_deployed_air_force_size = {
+		size > 315
+	}
+	has_deployed_air_force_size = {
+		size < 317
+	}
+}
+plane_number_317  = {
+	has_deployed_air_force_size = {
+		size > 316
+	}
+	has_deployed_air_force_size = {
+		size < 318
+	}
+}
+plane_number_318  = {
+	has_deployed_air_force_size = {
+		size > 317
+	}
+	has_deployed_air_force_size = {
+		size < 319
+	}
+}
+plane_number_319  = {
+	has_deployed_air_force_size = {
+		size > 318
+	}
+	has_deployed_air_force_size = {
+		size < 320
+	}
+}
+plane_number_320  = {
+	has_deployed_air_force_size = {
+		size > 319
+	}
+	has_deployed_air_force_size = {
+		size < 321
+	}
+}
+plane_number_321  = {
+	has_deployed_air_force_size = {
+		size > 320
+	}
+	has_deployed_air_force_size = {
+		size < 322
+	}
+}
+plane_number_322  = {
+	has_deployed_air_force_size = {
+		size > 321
+	}
+	has_deployed_air_force_size = {
+		size < 323
+	}
+}
+plane_number_323  = {
+	has_deployed_air_force_size = {
+		size > 322
+	}
+	has_deployed_air_force_size = {
+		size < 324
+	}
+}
+plane_number_324  = {
+	has_deployed_air_force_size = {
+		size > 323
+	}
+	has_deployed_air_force_size = {
+		size < 325
+	}
+}
+plane_number_325  = {
+	has_deployed_air_force_size = {
+		size > 324
+	}
+	has_deployed_air_force_size = {
+		size < 326
+	}
+}
+plane_number_326  = {
+	has_deployed_air_force_size = {
+		size > 325
+	}
+	has_deployed_air_force_size = {
+		size < 327
+	}
+}
+plane_number_327  = {
+	has_deployed_air_force_size = {
+		size > 326
+	}
+	has_deployed_air_force_size = {
+		size < 328
+	}
+}
+plane_number_328  = {
+	has_deployed_air_force_size = {
+		size > 327
+	}
+	has_deployed_air_force_size = {
+		size < 329
+	}
+}
+plane_number_329  = {
+	has_deployed_air_force_size = {
+		size > 328
+	}
+	has_deployed_air_force_size = {
+		size < 330
+	}
+}
+plane_number_330  = {
+	has_deployed_air_force_size = {
+		size > 329
+	}
+	has_deployed_air_force_size = {
+		size < 331
+	}
+}
+plane_number_331  = {
+	has_deployed_air_force_size = {
+		size > 330
+	}
+	has_deployed_air_force_size = {
+		size < 332
+	}
+}
+plane_number_332  = {
+	has_deployed_air_force_size = {
+		size > 331
+	}
+	has_deployed_air_force_size = {
+		size < 333
+	}
+}
+plane_number_333  = {
+	has_deployed_air_force_size = {
+		size > 332
+	}
+	has_deployed_air_force_size = {
+		size < 334
+	}
+}
+plane_number_334  = {
+	has_deployed_air_force_size = {
+		size > 333
+	}
+	has_deployed_air_force_size = {
+		size < 335
+	}
+}
+plane_number_335  = {
+	has_deployed_air_force_size = {
+		size > 334
+	}
+	has_deployed_air_force_size = {
+		size < 336
+	}
+}
+plane_number_336  = {
+	has_deployed_air_force_size = {
+		size > 335
+	}
+	has_deployed_air_force_size = {
+		size < 337
+	}
+}
+plane_number_337  = {
+	has_deployed_air_force_size = {
+		size > 336
+	}
+	has_deployed_air_force_size = {
+		size < 338
+	}
+}
+plane_number_338  = {
+	has_deployed_air_force_size = {
+		size > 337
+	}
+	has_deployed_air_force_size = {
+		size < 339
+	}
+}
+plane_number_339  = {
+	has_deployed_air_force_size = {
+		size > 338
+	}
+	has_deployed_air_force_size = {
+		size < 340
+	}
+}
+plane_number_340  = {
+	has_deployed_air_force_size = {
+		size > 339
+	}
+	has_deployed_air_force_size = {
+		size < 341
+	}
+}
+plane_number_341  = {
+	has_deployed_air_force_size = {
+		size > 340
+	}
+	has_deployed_air_force_size = {
+		size < 342
+	}
+}
+plane_number_342  = {
+	has_deployed_air_force_size = {
+		size > 341
+	}
+	has_deployed_air_force_size = {
+		size < 343
+	}
+}
+plane_number_343  = {
+	has_deployed_air_force_size = {
+		size > 342
+	}
+	has_deployed_air_force_size = {
+		size < 344
+	}
+}
+plane_number_344  = {
+	has_deployed_air_force_size = {
+		size > 343
+	}
+	has_deployed_air_force_size = {
+		size < 345
+	}
+}
+plane_number_345  = {
+	has_deployed_air_force_size = {
+		size > 344
+	}
+	has_deployed_air_force_size = {
+		size < 346
+	}
+}
+plane_number_346  = {
+	has_deployed_air_force_size = {
+		size > 345
+	}
+	has_deployed_air_force_size = {
+		size < 347
+	}
+}
+plane_number_347  = {
+	has_deployed_air_force_size = {
+		size > 346
+	}
+	has_deployed_air_force_size = {
+		size < 348
+	}
+}
+plane_number_348  = {
+	has_deployed_air_force_size = {
+		size > 347
+	}
+	has_deployed_air_force_size = {
+		size < 349
+	}
+}
+plane_number_349  = {
+	has_deployed_air_force_size = {
+		size > 348
+	}
+	has_deployed_air_force_size = {
+		size < 350
+	}
+}
+plane_number_350  = {
+	has_deployed_air_force_size = {
+		size > 349
+	}
+	has_deployed_air_force_size = {
+		size < 351
+	}
+}
+plane_number_351  = {
+	has_deployed_air_force_size = {
+		size > 350
+	}
+	has_deployed_air_force_size = {
+		size < 352
+	}
+}
+plane_number_352  = {
+	has_deployed_air_force_size = {
+		size > 351
+	}
+	has_deployed_air_force_size = {
+		size < 353
+	}
+}
+plane_number_353  = {
+	has_deployed_air_force_size = {
+		size > 352
+	}
+	has_deployed_air_force_size = {
+		size < 354
+	}
+}
+plane_number_354  = {
+	has_deployed_air_force_size = {
+		size > 353
+	}
+	has_deployed_air_force_size = {
+		size < 355
+	}
+}
+plane_number_355  = {
+	has_deployed_air_force_size = {
+		size > 354
+	}
+	has_deployed_air_force_size = {
+		size < 356
+	}
+}
+plane_number_356  = {
+	has_deployed_air_force_size = {
+		size > 355
+	}
+	has_deployed_air_force_size = {
+		size < 357
+	}
+}
+plane_number_357  = {
+	has_deployed_air_force_size = {
+		size > 356
+	}
+	has_deployed_air_force_size = {
+		size < 358
+	}
+}
+plane_number_358  = {
+	has_deployed_air_force_size = {
+		size > 357
+	}
+	has_deployed_air_force_size = {
+		size < 359
+	}
+}
+plane_number_359  = {
+	has_deployed_air_force_size = {
+		size > 358
+	}
+	has_deployed_air_force_size = {
+		size < 360
+	}
+}
+plane_number_360  = {
+	has_deployed_air_force_size = {
+		size > 359
+	}
+	has_deployed_air_force_size = {
+		size < 361
+	}
+}
+plane_number_361  = {
+	has_deployed_air_force_size = {
+		size > 360
+	}
+	has_deployed_air_force_size = {
+		size < 362
+	}
+}
+plane_number_362  = {
+	has_deployed_air_force_size = {
+		size > 361
+	}
+	has_deployed_air_force_size = {
+		size < 363
+	}
+}
+plane_number_363  = {
+	has_deployed_air_force_size = {
+		size > 362
+	}
+	has_deployed_air_force_size = {
+		size < 364
+	}
+}
+plane_number_364  = {
+	has_deployed_air_force_size = {
+		size > 363
+	}
+	has_deployed_air_force_size = {
+		size < 365
+	}
+}
+plane_number_365  = {
+	has_deployed_air_force_size = {
+		size > 364
+	}
+	has_deployed_air_force_size = {
+		size < 366
+	}
+}
+plane_number_366  = {
+	has_deployed_air_force_size = {
+		size > 365
+	}
+	has_deployed_air_force_size = {
+		size < 367
+	}
+}
+plane_number_367  = {
+	has_deployed_air_force_size = {
+		size > 366
+	}
+	has_deployed_air_force_size = {
+		size < 368
+	}
+}
+plane_number_368  = {
+	has_deployed_air_force_size = {
+		size > 367
+	}
+	has_deployed_air_force_size = {
+		size < 369
+	}
+}
+plane_number_369  = {
+	has_deployed_air_force_size = {
+		size > 368
+	}
+	has_deployed_air_force_size = {
+		size < 370
+	}
+}
+plane_number_370  = {
+	has_deployed_air_force_size = {
+		size > 369
+	}
+	has_deployed_air_force_size = {
+		size < 371
+	}
+}
+plane_number_371  = {
+	has_deployed_air_force_size = {
+		size > 370
+	}
+	has_deployed_air_force_size = {
+		size < 372
+	}
+}
+plane_number_372  = {
+	has_deployed_air_force_size = {
+		size > 371
+	}
+	has_deployed_air_force_size = {
+		size < 373
+	}
+}
+plane_number_373  = {
+	has_deployed_air_force_size = {
+		size > 372
+	}
+	has_deployed_air_force_size = {
+		size < 374
+	}
+}
+plane_number_374  = {
+	has_deployed_air_force_size = {
+		size > 373
+	}
+	has_deployed_air_force_size = {
+		size < 375
+	}
+}
+plane_number_375  = {
+	has_deployed_air_force_size = {
+		size > 374
+	}
+	has_deployed_air_force_size = {
+		size < 376
+	}
+}
+plane_number_376  = {
+	has_deployed_air_force_size = {
+		size > 375
+	}
+	has_deployed_air_force_size = {
+		size < 377
+	}
+}
+plane_number_377  = {
+	has_deployed_air_force_size = {
+		size > 376
+	}
+	has_deployed_air_force_size = {
+		size < 378
+	}
+}
+plane_number_378  = {
+	has_deployed_air_force_size = {
+		size > 377
+	}
+	has_deployed_air_force_size = {
+		size < 379
+	}
+}
+plane_number_379  = {
+	has_deployed_air_force_size = {
+		size > 378
+	}
+	has_deployed_air_force_size = {
+		size < 380
+	}
+}
+plane_number_380  = {
+	has_deployed_air_force_size = {
+		size > 379
+	}
+	has_deployed_air_force_size = {
+		size < 381
+	}
+}
+plane_number_381  = {
+	has_deployed_air_force_size = {
+		size > 380
+	}
+	has_deployed_air_force_size = {
+		size < 382
+	}
+}
+plane_number_382  = {
+	has_deployed_air_force_size = {
+		size > 381
+	}
+	has_deployed_air_force_size = {
+		size < 383
+	}
+}
+plane_number_383  = {
+	has_deployed_air_force_size = {
+		size > 382
+	}
+	has_deployed_air_force_size = {
+		size < 384
+	}
+}
+plane_number_384  = {
+	has_deployed_air_force_size = {
+		size > 383
+	}
+	has_deployed_air_force_size = {
+		size < 385
+	}
+}
+plane_number_385  = {
+	has_deployed_air_force_size = {
+		size > 384
+	}
+	has_deployed_air_force_size = {
+		size < 386
+	}
+}
+plane_number_386  = {
+	has_deployed_air_force_size = {
+		size > 385
+	}
+	has_deployed_air_force_size = {
+		size < 387
+	}
+}
+plane_number_387  = {
+	has_deployed_air_force_size = {
+		size > 386
+	}
+	has_deployed_air_force_size = {
+		size < 388
+	}
+}
+plane_number_388  = {
+	has_deployed_air_force_size = {
+		size > 387
+	}
+	has_deployed_air_force_size = {
+		size < 389
+	}
+}
+plane_number_389  = {
+	has_deployed_air_force_size = {
+		size > 388
+	}
+	has_deployed_air_force_size = {
+		size < 390
+	}
+}
+plane_number_390  = {
+	has_deployed_air_force_size = {
+		size > 389
+	}
+	has_deployed_air_force_size = {
+		size < 391
+	}
+}
+plane_number_391  = {
+	has_deployed_air_force_size = {
+		size > 390
+	}
+	has_deployed_air_force_size = {
+		size < 392
+	}
+}
+plane_number_392  = {
+	has_deployed_air_force_size = {
+		size > 391
+	}
+	has_deployed_air_force_size = {
+		size < 393
+	}
+}
+plane_number_393  = {
+	has_deployed_air_force_size = {
+		size > 392
+	}
+	has_deployed_air_force_size = {
+		size < 394
+	}
+}
+plane_number_394  = {
+	has_deployed_air_force_size = {
+		size > 393
+	}
+	has_deployed_air_force_size = {
+		size < 395
+	}
+}
+plane_number_395  = {
+	has_deployed_air_force_size = {
+		size > 394
+	}
+	has_deployed_air_force_size = {
+		size < 396
+	}
+}
+plane_number_396  = {
+	has_deployed_air_force_size = {
+		size > 395
+	}
+	has_deployed_air_force_size = {
+		size < 397
+	}
+}
+plane_number_397  = {
+	has_deployed_air_force_size = {
+		size > 396
+	}
+	has_deployed_air_force_size = {
+		size < 398
+	}
+}
+plane_number_398  = {
+	has_deployed_air_force_size = {
+		size > 397
+	}
+	has_deployed_air_force_size = {
+		size < 399
+	}
+}
+plane_number_399  = {
+	has_deployed_air_force_size = {
+		size > 398
+	}
+	has_deployed_air_force_size = {
+		size < 400
+	}
+}
+plane_number_400  = {
+	has_deployed_air_force_size = {
+		size > 399
+	}
+	has_deployed_air_force_size = {
+		size < 401
+	}
+}
+plane_number_401  = {
+	has_deployed_air_force_size = {
+		size > 400
+	}
+	has_deployed_air_force_size = {
+		size < 402
+	}
+}
+plane_number_402  = {
+	has_deployed_air_force_size = {
+		size > 401
+	}
+	has_deployed_air_force_size = {
+		size < 403
+	}
+}
+plane_number_403  = {
+	has_deployed_air_force_size = {
+		size > 402
+	}
+	has_deployed_air_force_size = {
+		size < 404
+	}
+}
+plane_number_404  = {
+	has_deployed_air_force_size = {
+		size > 403
+	}
+	has_deployed_air_force_size = {
+		size < 405
+	}
+}
+plane_number_405  = {
+	has_deployed_air_force_size = {
+		size > 404
+	}
+	has_deployed_air_force_size = {
+		size < 406
+	}
+}
+plane_number_406  = {
+	has_deployed_air_force_size = {
+		size > 405
+	}
+	has_deployed_air_force_size = {
+		size < 407
+	}
+}
+plane_number_407  = {
+	has_deployed_air_force_size = {
+		size > 406
+	}
+	has_deployed_air_force_size = {
+		size < 408
+	}
+}
+plane_number_408  = {
+	has_deployed_air_force_size = {
+		size > 407
+	}
+	has_deployed_air_force_size = {
+		size < 409
+	}
+}
+plane_number_409  = {
+	has_deployed_air_force_size = {
+		size > 408
+	}
+	has_deployed_air_force_size = {
+		size < 410
+	}
+}
+plane_number_410  = {
+	has_deployed_air_force_size = {
+		size > 409
+	}
+	has_deployed_air_force_size = {
+		size < 411
+	}
+}
+plane_number_411  = {
+	has_deployed_air_force_size = {
+		size > 410
+	}
+	has_deployed_air_force_size = {
+		size < 412
+	}
+}
+plane_number_412  = {
+	has_deployed_air_force_size = {
+		size > 411
+	}
+	has_deployed_air_force_size = {
+		size < 413
+	}
+}
+plane_number_413  = {
+	has_deployed_air_force_size = {
+		size > 412
+	}
+	has_deployed_air_force_size = {
+		size < 414
+	}
+}
+plane_number_414  = {
+	has_deployed_air_force_size = {
+		size > 413
+	}
+	has_deployed_air_force_size = {
+		size < 415
+	}
+}
+plane_number_415  = {
+	has_deployed_air_force_size = {
+		size > 414
+	}
+	has_deployed_air_force_size = {
+		size < 416
+	}
+}
+plane_number_416  = {
+	has_deployed_air_force_size = {
+		size > 415
+	}
+	has_deployed_air_force_size = {
+		size < 417
+	}
+}
+plane_number_417  = {
+	has_deployed_air_force_size = {
+		size > 416
+	}
+	has_deployed_air_force_size = {
+		size < 418
+	}
+}
+plane_number_418  = {
+	has_deployed_air_force_size = {
+		size > 417
+	}
+	has_deployed_air_force_size = {
+		size < 419
+	}
+}
+plane_number_419  = {
+	has_deployed_air_force_size = {
+		size > 418
+	}
+	has_deployed_air_force_size = {
+		size < 420
+	}
+}
+plane_number_420  = {
+	has_deployed_air_force_size = {
+		size > 419
+	}
+	has_deployed_air_force_size = {
+		size < 421
+	}
+}
+plane_number_421  = {
+	has_deployed_air_force_size = {
+		size > 420
+	}
+	has_deployed_air_force_size = {
+		size < 422
+	}
+}
+plane_number_422  = {
+	has_deployed_air_force_size = {
+		size > 421
+	}
+	has_deployed_air_force_size = {
+		size < 423
+	}
+}
+plane_number_423  = {
+	has_deployed_air_force_size = {
+		size > 422
+	}
+	has_deployed_air_force_size = {
+		size < 424
+	}
+}
+plane_number_424  = {
+	has_deployed_air_force_size = {
+		size > 423
+	}
+	has_deployed_air_force_size = {
+		size < 425
+	}
+}
+plane_number_425  = {
+	has_deployed_air_force_size = {
+		size > 424
+	}
+	has_deployed_air_force_size = {
+		size < 426
+	}
+}
+plane_number_426  = {
+	has_deployed_air_force_size = {
+		size > 425
+	}
+	has_deployed_air_force_size = {
+		size < 427
+	}
+}
+plane_number_427  = {
+	has_deployed_air_force_size = {
+		size > 426
+	}
+	has_deployed_air_force_size = {
+		size < 428
+	}
+}
+plane_number_428  = {
+	has_deployed_air_force_size = {
+		size > 427
+	}
+	has_deployed_air_force_size = {
+		size < 429
+	}
+}
+plane_number_429  = {
+	has_deployed_air_force_size = {
+		size > 428
+	}
+	has_deployed_air_force_size = {
+		size < 430
+	}
+}
+plane_number_430  = {
+	has_deployed_air_force_size = {
+		size > 429
+	}
+	has_deployed_air_force_size = {
+		size < 431
+	}
+}
+plane_number_431  = {
+	has_deployed_air_force_size = {
+		size > 430
+	}
+	has_deployed_air_force_size = {
+		size < 432
+	}
+}
+plane_number_432  = {
+	has_deployed_air_force_size = {
+		size > 431
+	}
+	has_deployed_air_force_size = {
+		size < 433
+	}
+}
+plane_number_433  = {
+	has_deployed_air_force_size = {
+		size > 432
+	}
+	has_deployed_air_force_size = {
+		size < 434
+	}
+}
+plane_number_434  = {
+	has_deployed_air_force_size = {
+		size > 433
+	}
+	has_deployed_air_force_size = {
+		size < 435
+	}
+}
+plane_number_435  = {
+	has_deployed_air_force_size = {
+		size > 434
+	}
+	has_deployed_air_force_size = {
+		size < 436
+	}
+}
+plane_number_436  = {
+	has_deployed_air_force_size = {
+		size > 435
+	}
+	has_deployed_air_force_size = {
+		size < 437
+	}
+}
+plane_number_437  = {
+	has_deployed_air_force_size = {
+		size > 436
+	}
+	has_deployed_air_force_size = {
+		size < 438
+	}
+}
+plane_number_438  = {
+	has_deployed_air_force_size = {
+		size > 437
+	}
+	has_deployed_air_force_size = {
+		size < 439
+	}
+}
+plane_number_439  = {
+	has_deployed_air_force_size = {
+		size > 438
+	}
+	has_deployed_air_force_size = {
+		size < 440
+	}
+}
+plane_number_440  = {
+	has_deployed_air_force_size = {
+		size > 439
+	}
+	has_deployed_air_force_size = {
+		size < 441
+	}
+}
+plane_number_441  = {
+	has_deployed_air_force_size = {
+		size > 440
+	}
+	has_deployed_air_force_size = {
+		size < 442
+	}
+}
+plane_number_442  = {
+	has_deployed_air_force_size = {
+		size > 441
+	}
+	has_deployed_air_force_size = {
+		size < 443
+	}
+}
+plane_number_443  = {
+	has_deployed_air_force_size = {
+		size > 442
+	}
+	has_deployed_air_force_size = {
+		size < 444
+	}
+}
+plane_number_444  = {
+	has_deployed_air_force_size = {
+		size > 443
+	}
+	has_deployed_air_force_size = {
+		size < 445
+	}
+}
+plane_number_445  = {
+	has_deployed_air_force_size = {
+		size > 444
+	}
+	has_deployed_air_force_size = {
+		size < 446
+	}
+}
+plane_number_446  = {
+	has_deployed_air_force_size = {
+		size > 445
+	}
+	has_deployed_air_force_size = {
+		size < 447
+	}
+}
+plane_number_447  = {
+	has_deployed_air_force_size = {
+		size > 446
+	}
+	has_deployed_air_force_size = {
+		size < 448
+	}
+}
+plane_number_448  = {
+	has_deployed_air_force_size = {
+		size > 447
+	}
+	has_deployed_air_force_size = {
+		size < 449
+	}
+}
+plane_number_449  = {
+	has_deployed_air_force_size = {
+		size > 448
+	}
+	has_deployed_air_force_size = {
+		size < 450
+	}
+}
+plane_number_450  = {
+	has_deployed_air_force_size = {
+		size > 449
+	}
+	has_deployed_air_force_size = {
+		size < 451
+	}
+}
+plane_number_451  = {
+	has_deployed_air_force_size = {
+		size > 450
+	}
+	has_deployed_air_force_size = {
+		size < 452
+	}
+}
+plane_number_452  = {
+	has_deployed_air_force_size = {
+		size > 451
+	}
+	has_deployed_air_force_size = {
+		size < 453
+	}
+}
+plane_number_453  = {
+	has_deployed_air_force_size = {
+		size > 452
+	}
+	has_deployed_air_force_size = {
+		size < 454
+	}
+}
+plane_number_454  = {
+	has_deployed_air_force_size = {
+		size > 453
+	}
+	has_deployed_air_force_size = {
+		size < 455
+	}
+}
+plane_number_455  = {
+	has_deployed_air_force_size = {
+		size > 454
+	}
+	has_deployed_air_force_size = {
+		size < 456
+	}
+}
+plane_number_456  = {
+	has_deployed_air_force_size = {
+		size > 455
+	}
+	has_deployed_air_force_size = {
+		size < 457
+	}
+}
+plane_number_457  = {
+	has_deployed_air_force_size = {
+		size > 456
+	}
+	has_deployed_air_force_size = {
+		size < 458
+	}
+}
+plane_number_458  = {
+	has_deployed_air_force_size = {
+		size > 457
+	}
+	has_deployed_air_force_size = {
+		size < 459
+	}
+}
+plane_number_459  = {
+	has_deployed_air_force_size = {
+		size > 458
+	}
+	has_deployed_air_force_size = {
+		size < 460
+	}
+}
+plane_number_460  = {
+	has_deployed_air_force_size = {
+		size > 459
+	}
+	has_deployed_air_force_size = {
+		size < 461
+	}
+}
+plane_number_461  = {
+	has_deployed_air_force_size = {
+		size > 460
+	}
+	has_deployed_air_force_size = {
+		size < 462
+	}
+}
+plane_number_462  = {
+	has_deployed_air_force_size = {
+		size > 461
+	}
+	has_deployed_air_force_size = {
+		size < 463
+	}
+}
+plane_number_463  = {
+	has_deployed_air_force_size = {
+		size > 462
+	}
+	has_deployed_air_force_size = {
+		size < 464
+	}
+}
+plane_number_464  = {
+	has_deployed_air_force_size = {
+		size > 463
+	}
+	has_deployed_air_force_size = {
+		size < 465
+	}
+}
+plane_number_465  = {
+	has_deployed_air_force_size = {
+		size > 464
+	}
+	has_deployed_air_force_size = {
+		size < 466
+	}
+}
+plane_number_466  = {
+	has_deployed_air_force_size = {
+		size > 465
+	}
+	has_deployed_air_force_size = {
+		size < 467
+	}
+}
+plane_number_467  = {
+	has_deployed_air_force_size = {
+		size > 466
+	}
+	has_deployed_air_force_size = {
+		size < 468
+	}
+}
+plane_number_468  = {
+	has_deployed_air_force_size = {
+		size > 467
+	}
+	has_deployed_air_force_size = {
+		size < 469
+	}
+}
+plane_number_469  = {
+	has_deployed_air_force_size = {
+		size > 468
+	}
+	has_deployed_air_force_size = {
+		size < 470
+	}
+}
+plane_number_470  = {
+	has_deployed_air_force_size = {
+		size > 469
+	}
+	has_deployed_air_force_size = {
+		size < 471
+	}
+}
+plane_number_471  = {
+	has_deployed_air_force_size = {
+		size > 470
+	}
+	has_deployed_air_force_size = {
+		size < 472
+	}
+}
+plane_number_472  = {
+	has_deployed_air_force_size = {
+		size > 471
+	}
+	has_deployed_air_force_size = {
+		size < 473
+	}
+}
+plane_number_473  = {
+	has_deployed_air_force_size = {
+		size > 472
+	}
+	has_deployed_air_force_size = {
+		size < 474
+	}
+}
+plane_number_474  = {
+	has_deployed_air_force_size = {
+		size > 473
+	}
+	has_deployed_air_force_size = {
+		size < 475
+	}
+}
+plane_number_475  = {
+	has_deployed_air_force_size = {
+		size > 474
+	}
+	has_deployed_air_force_size = {
+		size < 476
+	}
+}
+plane_number_476  = {
+	has_deployed_air_force_size = {
+		size > 475
+	}
+	has_deployed_air_force_size = {
+		size < 477
+	}
+}
+plane_number_477  = {
+	has_deployed_air_force_size = {
+		size > 476
+	}
+	has_deployed_air_force_size = {
+		size < 478
+	}
+}
+plane_number_478  = {
+	has_deployed_air_force_size = {
+		size > 477
+	}
+	has_deployed_air_force_size = {
+		size < 479
+	}
+}
+plane_number_479  = {
+	has_deployed_air_force_size = {
+		size > 478
+	}
+	has_deployed_air_force_size = {
+		size < 480
+	}
+}
+plane_number_480  = {
+	has_deployed_air_force_size = {
+		size > 479
+	}
+	has_deployed_air_force_size = {
+		size < 481
+	}
+}
+plane_number_481  = {
+	has_deployed_air_force_size = {
+		size > 480
+	}
+	has_deployed_air_force_size = {
+		size < 482
+	}
+}
+plane_number_482  = {
+	has_deployed_air_force_size = {
+		size > 481
+	}
+	has_deployed_air_force_size = {
+		size < 483
+	}
+}
+plane_number_483  = {
+	has_deployed_air_force_size = {
+		size > 482
+	}
+	has_deployed_air_force_size = {
+		size < 484
+	}
+}
+plane_number_484  = {
+	has_deployed_air_force_size = {
+		size > 483
+	}
+	has_deployed_air_force_size = {
+		size < 485
+	}
+}
+plane_number_485  = {
+	has_deployed_air_force_size = {
+		size > 484
+	}
+	has_deployed_air_force_size = {
+		size < 486
+	}
+}
+plane_number_486  = {
+	has_deployed_air_force_size = {
+		size > 485
+	}
+	has_deployed_air_force_size = {
+		size < 487
+	}
+}
+plane_number_487  = {
+	has_deployed_air_force_size = {
+		size > 486
+	}
+	has_deployed_air_force_size = {
+		size < 488
+	}
+}
+plane_number_488  = {
+	has_deployed_air_force_size = {
+		size > 487
+	}
+	has_deployed_air_force_size = {
+		size < 489
+	}
+}
+plane_number_489  = {
+	has_deployed_air_force_size = {
+		size > 488
+	}
+	has_deployed_air_force_size = {
+		size < 490
+	}
+}
+plane_number_490  = {
+	has_deployed_air_force_size = {
+		size > 489
+	}
+	has_deployed_air_force_size = {
+		size < 491
+	}
+}
+plane_number_491  = {
+	has_deployed_air_force_size = {
+		size > 490
+	}
+	has_deployed_air_force_size = {
+		size < 492
+	}
+}
+plane_number_492  = {
+	has_deployed_air_force_size = {
+		size > 491
+	}
+	has_deployed_air_force_size = {
+		size < 493
+	}
+}
+plane_number_493  = {
+	has_deployed_air_force_size = {
+		size > 492
+	}
+	has_deployed_air_force_size = {
+		size < 494
+	}
+}
+plane_number_494  = {
+	has_deployed_air_force_size = {
+		size > 493
+	}
+	has_deployed_air_force_size = {
+		size < 495
+	}
+}
+plane_number_495  = {
+	has_deployed_air_force_size = {
+		size > 494
+	}
+	has_deployed_air_force_size = {
+		size < 496
+	}
+}
+plane_number_496  = {
+	has_deployed_air_force_size = {
+		size > 495
+	}
+	has_deployed_air_force_size = {
+		size < 497
+	}
+}
+plane_number_497  = {
+	has_deployed_air_force_size = {
+		size > 496
+	}
+	has_deployed_air_force_size = {
+		size < 498
+	}
+}
+plane_number_498  = {
+	has_deployed_air_force_size = {
+		size > 497
+	}
+	has_deployed_air_force_size = {
+		size < 499
+	}
+}
+plane_number_499  = {
+	has_deployed_air_force_size = {
+		size > 498
+	}
+	has_deployed_air_force_size = {
+		size < 500
+	}
+}
+plane_number_500  = {
+	has_deployed_air_force_size = {
+		size > 499
+	}
+	has_deployed_air_force_size = {
+		size < 501
+	}
+}
+plane_number_501  = {
+	has_deployed_air_force_size = {
+		size > 500
+	}
+	has_deployed_air_force_size = {
+		size < 502
+	}
+}
+plane_number_502  = {
+	has_deployed_air_force_size = {
+		size > 501
+	}
+	has_deployed_air_force_size = {
+		size < 503
+	}
+}
+plane_number_503  = {
+	has_deployed_air_force_size = {
+		size > 502
+	}
+	has_deployed_air_force_size = {
+		size < 504
+	}
+}
+plane_number_504  = {
+	has_deployed_air_force_size = {
+		size > 503
+	}
+	has_deployed_air_force_size = {
+		size < 505
+	}
+}
+plane_number_505  = {
+	has_deployed_air_force_size = {
+		size > 504
+	}
+	has_deployed_air_force_size = {
+		size < 506
+	}
+}
+plane_number_506  = {
+	has_deployed_air_force_size = {
+		size > 505
+	}
+	has_deployed_air_force_size = {
+		size < 507
+	}
+}
+plane_number_507  = {
+	has_deployed_air_force_size = {
+		size > 506
+	}
+	has_deployed_air_force_size = {
+		size < 508
+	}
+}
+plane_number_508  = {
+	has_deployed_air_force_size = {
+		size > 507
+	}
+	has_deployed_air_force_size = {
+		size < 509
+	}
+}
+plane_number_509  = {
+	has_deployed_air_force_size = {
+		size > 508
+	}
+	has_deployed_air_force_size = {
+		size < 510
+	}
+}
+plane_number_510  = {
+	has_deployed_air_force_size = {
+		size > 509
+	}
+	has_deployed_air_force_size = {
+		size < 511
+	}
+}
+plane_number_511  = {
+	has_deployed_air_force_size = {
+		size > 510
+	}
+	has_deployed_air_force_size = {
+		size < 512
+	}
+}
+plane_number_512  = {
+	has_deployed_air_force_size = {
+		size > 511
+	}
+	has_deployed_air_force_size = {
+		size < 513
+	}
+}
+plane_number_513  = {
+	has_deployed_air_force_size = {
+		size > 512
+	}
+	has_deployed_air_force_size = {
+		size < 514
+	}
+}
+plane_number_514  = {
+	has_deployed_air_force_size = {
+		size > 513
+	}
+	has_deployed_air_force_size = {
+		size < 515
+	}
+}
+plane_number_515  = {
+	has_deployed_air_force_size = {
+		size > 514
+	}
+	has_deployed_air_force_size = {
+		size < 516
+	}
+}
+plane_number_516  = {
+	has_deployed_air_force_size = {
+		size > 515
+	}
+	has_deployed_air_force_size = {
+		size < 517
+	}
+}
+plane_number_517  = {
+	has_deployed_air_force_size = {
+		size > 516
+	}
+	has_deployed_air_force_size = {
+		size < 518
+	}
+}
+plane_number_518  = {
+	has_deployed_air_force_size = {
+		size > 517
+	}
+	has_deployed_air_force_size = {
+		size < 519
+	}
+}
+plane_number_519  = {
+	has_deployed_air_force_size = {
+		size > 518
+	}
+	has_deployed_air_force_size = {
+		size < 520
+	}
+}
+plane_number_520  = {
+	has_deployed_air_force_size = {
+		size > 519
+	}
+	has_deployed_air_force_size = {
+		size < 521
+	}
+}
+plane_number_521  = {
+	has_deployed_air_force_size = {
+		size > 520
+	}
+	has_deployed_air_force_size = {
+		size < 522
+	}
+}
+plane_number_522  = {
+	has_deployed_air_force_size = {
+		size > 521
+	}
+	has_deployed_air_force_size = {
+		size < 523
+	}
+}
+plane_number_523  = {
+	has_deployed_air_force_size = {
+		size > 522
+	}
+	has_deployed_air_force_size = {
+		size < 524
+	}
+}
+plane_number_524  = {
+	has_deployed_air_force_size = {
+		size > 523
+	}
+	has_deployed_air_force_size = {
+		size < 525
+	}
+}
+plane_number_525  = {
+	has_deployed_air_force_size = {
+		size > 524
+	}
+	has_deployed_air_force_size = {
+		size < 526
+	}
+}
+plane_number_526  = {
+	has_deployed_air_force_size = {
+		size > 525
+	}
+	has_deployed_air_force_size = {
+		size < 527
+	}
+}
+plane_number_527  = {
+	has_deployed_air_force_size = {
+		size > 526
+	}
+	has_deployed_air_force_size = {
+		size < 528
+	}
+}
+plane_number_528  = {
+	has_deployed_air_force_size = {
+		size > 527
+	}
+	has_deployed_air_force_size = {
+		size < 529
+	}
+}
+plane_number_529  = {
+	has_deployed_air_force_size = {
+		size > 528
+	}
+	has_deployed_air_force_size = {
+		size < 530
+	}
+}
+plane_number_530  = {
+	has_deployed_air_force_size = {
+		size > 529
+	}
+	has_deployed_air_force_size = {
+		size < 531
+	}
+}
+plane_number_531  = {
+	has_deployed_air_force_size = {
+		size > 530
+	}
+	has_deployed_air_force_size = {
+		size < 532
+	}
+}
+plane_number_532  = {
+	has_deployed_air_force_size = {
+		size > 531
+	}
+	has_deployed_air_force_size = {
+		size < 533
+	}
+}
+plane_number_533  = {
+	has_deployed_air_force_size = {
+		size > 532
+	}
+	has_deployed_air_force_size = {
+		size < 534
+	}
+}
+plane_number_534  = {
+	has_deployed_air_force_size = {
+		size > 533
+	}
+	has_deployed_air_force_size = {
+		size < 535
+	}
+}
+plane_number_535  = {
+	has_deployed_air_force_size = {
+		size > 534
+	}
+	has_deployed_air_force_size = {
+		size < 536
+	}
+}
+plane_number_536  = {
+	has_deployed_air_force_size = {
+		size > 535
+	}
+	has_deployed_air_force_size = {
+		size < 537
+	}
+}
+plane_number_537  = {
+	has_deployed_air_force_size = {
+		size > 536
+	}
+	has_deployed_air_force_size = {
+		size < 538
+	}
+}
+plane_number_538  = {
+	has_deployed_air_force_size = {
+		size > 537
+	}
+	has_deployed_air_force_size = {
+		size < 539
+	}
+}
+plane_number_539  = {
+	has_deployed_air_force_size = {
+		size > 538
+	}
+	has_deployed_air_force_size = {
+		size < 540
+	}
+}
+plane_number_540  = {
+	has_deployed_air_force_size = {
+		size > 539
+	}
+	has_deployed_air_force_size = {
+		size < 541
+	}
+}
+plane_number_541  = {
+	has_deployed_air_force_size = {
+		size > 540
+	}
+	has_deployed_air_force_size = {
+		size < 542
+	}
+}
+plane_number_542  = {
+	has_deployed_air_force_size = {
+		size > 541
+	}
+	has_deployed_air_force_size = {
+		size < 543
+	}
+}
+plane_number_543  = {
+	has_deployed_air_force_size = {
+		size > 542
+	}
+	has_deployed_air_force_size = {
+		size < 544
+	}
+}
+plane_number_544  = {
+	has_deployed_air_force_size = {
+		size > 543
+	}
+	has_deployed_air_force_size = {
+		size < 545
+	}
+}
+plane_number_545  = {
+	has_deployed_air_force_size = {
+		size > 544
+	}
+	has_deployed_air_force_size = {
+		size < 546
+	}
+}
+plane_number_546  = {
+	has_deployed_air_force_size = {
+		size > 545
+	}
+	has_deployed_air_force_size = {
+		size < 547
+	}
+}
+plane_number_547  = {
+	has_deployed_air_force_size = {
+		size > 546
+	}
+	has_deployed_air_force_size = {
+		size < 548
+	}
+}
+plane_number_548  = {
+	has_deployed_air_force_size = {
+		size > 547
+	}
+	has_deployed_air_force_size = {
+		size < 549
+	}
+}
+plane_number_549  = {
+	has_deployed_air_force_size = {
+		size > 548
+	}
+	has_deployed_air_force_size = {
+		size < 550
+	}
+}
+plane_number_550  = {
+	has_deployed_air_force_size = {
+		size > 549
+	}
+	has_deployed_air_force_size = {
+		size < 551
+	}
+}
+plane_number_551  = {
+	has_deployed_air_force_size = {
+		size > 550
+	}
+	has_deployed_air_force_size = {
+		size < 552
+	}
+}
+plane_number_552  = {
+	has_deployed_air_force_size = {
+		size > 551
+	}
+	has_deployed_air_force_size = {
+		size < 553
+	}
+}
+plane_number_553  = {
+	has_deployed_air_force_size = {
+		size > 552
+	}
+	has_deployed_air_force_size = {
+		size < 554
+	}
+}
+plane_number_554  = {
+	has_deployed_air_force_size = {
+		size > 553
+	}
+	has_deployed_air_force_size = {
+		size < 555
+	}
+}
+plane_number_555  = {
+	has_deployed_air_force_size = {
+		size > 554
+	}
+	has_deployed_air_force_size = {
+		size < 556
+	}
+}
+plane_number_556  = {
+	has_deployed_air_force_size = {
+		size > 555
+	}
+	has_deployed_air_force_size = {
+		size < 557
+	}
+}
+plane_number_557  = {
+	has_deployed_air_force_size = {
+		size > 556
+	}
+	has_deployed_air_force_size = {
+		size < 558
+	}
+}
+plane_number_558  = {
+	has_deployed_air_force_size = {
+		size > 557
+	}
+	has_deployed_air_force_size = {
+		size < 559
+	}
+}
+plane_number_559  = {
+	has_deployed_air_force_size = {
+		size > 558
+	}
+	has_deployed_air_force_size = {
+		size < 560
+	}
+}
+plane_number_560  = {
+	has_deployed_air_force_size = {
+		size > 559
+	}
+	has_deployed_air_force_size = {
+		size < 561
+	}
+}
+plane_number_561  = {
+	has_deployed_air_force_size = {
+		size > 560
+	}
+	has_deployed_air_force_size = {
+		size < 562
+	}
+}
+plane_number_562  = {
+	has_deployed_air_force_size = {
+		size > 561
+	}
+	has_deployed_air_force_size = {
+		size < 563
+	}
+}
+plane_number_563  = {
+	has_deployed_air_force_size = {
+		size > 562
+	}
+	has_deployed_air_force_size = {
+		size < 564
+	}
+}
+plane_number_564  = {
+	has_deployed_air_force_size = {
+		size > 563
+	}
+	has_deployed_air_force_size = {
+		size < 565
+	}
+}
+plane_number_565  = {
+	has_deployed_air_force_size = {
+		size > 564
+	}
+	has_deployed_air_force_size = {
+		size < 566
+	}
+}
+plane_number_566  = {
+	has_deployed_air_force_size = {
+		size > 565
+	}
+	has_deployed_air_force_size = {
+		size < 567
+	}
+}
+plane_number_567  = {
+	has_deployed_air_force_size = {
+		size > 566
+	}
+	has_deployed_air_force_size = {
+		size < 568
+	}
+}
+plane_number_568  = {
+	has_deployed_air_force_size = {
+		size > 567
+	}
+	has_deployed_air_force_size = {
+		size < 569
+	}
+}
+plane_number_569  = {
+	has_deployed_air_force_size = {
+		size > 568
+	}
+	has_deployed_air_force_size = {
+		size < 570
+	}
+}
+plane_number_570  = {
+	has_deployed_air_force_size = {
+		size > 569
+	}
+	has_deployed_air_force_size = {
+		size < 571
+	}
+}
+plane_number_571  = {
+	has_deployed_air_force_size = {
+		size > 570
+	}
+	has_deployed_air_force_size = {
+		size < 572
+	}
+}
+plane_number_572  = {
+	has_deployed_air_force_size = {
+		size > 571
+	}
+	has_deployed_air_force_size = {
+		size < 573
+	}
+}
+plane_number_573  = {
+	has_deployed_air_force_size = {
+		size > 572
+	}
+	has_deployed_air_force_size = {
+		size < 574
+	}
+}
+plane_number_574  = {
+	has_deployed_air_force_size = {
+		size > 573
+	}
+	has_deployed_air_force_size = {
+		size < 575
+	}
+}
+plane_number_575  = {
+	has_deployed_air_force_size = {
+		size > 574
+	}
+	has_deployed_air_force_size = {
+		size < 576
+	}
+}
+plane_number_576  = {
+	has_deployed_air_force_size = {
+		size > 575
+	}
+	has_deployed_air_force_size = {
+		size < 577
+	}
+}
+plane_number_577  = {
+	has_deployed_air_force_size = {
+		size > 576
+	}
+	has_deployed_air_force_size = {
+		size < 578
+	}
+}
+plane_number_578  = {
+	has_deployed_air_force_size = {
+		size > 577
+	}
+	has_deployed_air_force_size = {
+		size < 579
+	}
+}
+plane_number_579  = {
+	has_deployed_air_force_size = {
+		size > 578
+	}
+	has_deployed_air_force_size = {
+		size < 580
+	}
+}
+plane_number_580  = {
+	has_deployed_air_force_size = {
+		size > 579
+	}
+	has_deployed_air_force_size = {
+		size < 581
+	}
+}
+plane_number_581  = {
+	has_deployed_air_force_size = {
+		size > 580
+	}
+	has_deployed_air_force_size = {
+		size < 582
+	}
+}
+plane_number_582  = {
+	has_deployed_air_force_size = {
+		size > 581
+	}
+	has_deployed_air_force_size = {
+		size < 583
+	}
+}
+plane_number_583  = {
+	has_deployed_air_force_size = {
+		size > 582
+	}
+	has_deployed_air_force_size = {
+		size < 584
+	}
+}
+plane_number_584  = {
+	has_deployed_air_force_size = {
+		size > 583
+	}
+	has_deployed_air_force_size = {
+		size < 585
+	}
+}
+plane_number_585  = {
+	has_deployed_air_force_size = {
+		size > 584
+	}
+	has_deployed_air_force_size = {
+		size < 586
+	}
+}
+plane_number_586  = {
+	has_deployed_air_force_size = {
+		size > 585
+	}
+	has_deployed_air_force_size = {
+		size < 587
+	}
+}
+plane_number_587  = {
+	has_deployed_air_force_size = {
+		size > 586
+	}
+	has_deployed_air_force_size = {
+		size < 588
+	}
+}
+plane_number_588  = {
+	has_deployed_air_force_size = {
+		size > 587
+	}
+	has_deployed_air_force_size = {
+		size < 589
+	}
+}
+plane_number_589  = {
+	has_deployed_air_force_size = {
+		size > 588
+	}
+	has_deployed_air_force_size = {
+		size < 590
+	}
+}
+plane_number_590  = {
+	has_deployed_air_force_size = {
+		size > 589
+	}
+	has_deployed_air_force_size = {
+		size < 591
+	}
+}
+plane_number_591  = {
+	has_deployed_air_force_size = {
+		size > 590
+	}
+	has_deployed_air_force_size = {
+		size < 592
+	}
+}
+plane_number_592  = {
+	has_deployed_air_force_size = {
+		size > 591
+	}
+	has_deployed_air_force_size = {
+		size < 593
+	}
+}
+plane_number_593  = {
+	has_deployed_air_force_size = {
+		size > 592
+	}
+	has_deployed_air_force_size = {
+		size < 594
+	}
+}
+plane_number_594  = {
+	has_deployed_air_force_size = {
+		size > 593
+	}
+	has_deployed_air_force_size = {
+		size < 595
+	}
+}
+plane_number_595  = {
+	has_deployed_air_force_size = {
+		size > 594
+	}
+	has_deployed_air_force_size = {
+		size < 596
+	}
+}
+plane_number_596  = {
+	has_deployed_air_force_size = {
+		size > 595
+	}
+	has_deployed_air_force_size = {
+		size < 597
+	}
+}
+plane_number_597  = {
+	has_deployed_air_force_size = {
+		size > 596
+	}
+	has_deployed_air_force_size = {
+		size < 598
+	}
+}
+plane_number_598  = {
+	has_deployed_air_force_size = {
+		size > 597
+	}
+	has_deployed_air_force_size = {
+		size < 599
+	}
+}
+plane_number_599  = {
+	has_deployed_air_force_size = {
+		size > 598
+	}
+	has_deployed_air_force_size = {
+		size < 600
+	}
+}
+plane_number_600  = {
+	has_deployed_air_force_size = {
+		size > 599
+	}
+	has_deployed_air_force_size = {
+		size < 601
+	}
+}
+plane_number_601  = {
+	has_deployed_air_force_size = {
+		size > 600
+	}
+	has_deployed_air_force_size = {
+		size < 602
+	}
+}
+plane_number_602  = {
+	has_deployed_air_force_size = {
+		size > 601
+	}
+	has_deployed_air_force_size = {
+		size < 603
+	}
+}
+plane_number_603  = {
+	has_deployed_air_force_size = {
+		size > 602
+	}
+	has_deployed_air_force_size = {
+		size < 604
+	}
+}
+plane_number_604  = {
+	has_deployed_air_force_size = {
+		size > 603
+	}
+	has_deployed_air_force_size = {
+		size < 605
+	}
+}
+plane_number_605  = {
+	has_deployed_air_force_size = {
+		size > 604
+	}
+	has_deployed_air_force_size = {
+		size < 606
+	}
+}
+plane_number_606  = {
+	has_deployed_air_force_size = {
+		size > 605
+	}
+	has_deployed_air_force_size = {
+		size < 607
+	}
+}
+plane_number_607  = {
+	has_deployed_air_force_size = {
+		size > 606
+	}
+	has_deployed_air_force_size = {
+		size < 608
+	}
+}
+plane_number_608  = {
+	has_deployed_air_force_size = {
+		size > 607
+	}
+	has_deployed_air_force_size = {
+		size < 609
+	}
+}
+plane_number_609  = {
+	has_deployed_air_force_size = {
+		size > 608
+	}
+	has_deployed_air_force_size = {
+		size < 610
+	}
+}
+plane_number_610  = {
+	has_deployed_air_force_size = {
+		size > 609
+	}
+	has_deployed_air_force_size = {
+		size < 611
+	}
+}
+plane_number_611  = {
+	has_deployed_air_force_size = {
+		size > 610
+	}
+	has_deployed_air_force_size = {
+		size < 612
+	}
+}
+plane_number_612  = {
+	has_deployed_air_force_size = {
+		size > 611
+	}
+	has_deployed_air_force_size = {
+		size < 613
+	}
+}
+plane_number_613  = {
+	has_deployed_air_force_size = {
+		size > 612
+	}
+	has_deployed_air_force_size = {
+		size < 614
+	}
+}
+plane_number_614  = {
+	has_deployed_air_force_size = {
+		size > 613
+	}
+	has_deployed_air_force_size = {
+		size < 615
+	}
+}
+plane_number_615  = {
+	has_deployed_air_force_size = {
+		size > 614
+	}
+	has_deployed_air_force_size = {
+		size < 616
+	}
+}
+plane_number_616  = {
+	has_deployed_air_force_size = {
+		size > 615
+	}
+	has_deployed_air_force_size = {
+		size < 617
+	}
+}
+plane_number_617  = {
+	has_deployed_air_force_size = {
+		size > 616
+	}
+	has_deployed_air_force_size = {
+		size < 618
+	}
+}
+plane_number_618  = {
+	has_deployed_air_force_size = {
+		size > 617
+	}
+	has_deployed_air_force_size = {
+		size < 619
+	}
+}
+plane_number_619  = {
+	has_deployed_air_force_size = {
+		size > 618
+	}
+	has_deployed_air_force_size = {
+		size < 620
+	}
+}
+plane_number_620  = {
+	has_deployed_air_force_size = {
+		size > 619
+	}
+	has_deployed_air_force_size = {
+		size < 621
+	}
+}
+plane_number_621  = {
+	has_deployed_air_force_size = {
+		size > 620
+	}
+	has_deployed_air_force_size = {
+		size < 622
+	}
+}
+plane_number_622  = {
+	has_deployed_air_force_size = {
+		size > 621
+	}
+	has_deployed_air_force_size = {
+		size < 623
+	}
+}
+plane_number_623  = {
+	has_deployed_air_force_size = {
+		size > 622
+	}
+	has_deployed_air_force_size = {
+		size < 624
+	}
+}
+plane_number_624  = {
+	has_deployed_air_force_size = {
+		size > 623
+	}
+	has_deployed_air_force_size = {
+		size < 625
+	}
+}
+plane_number_625  = {
+	has_deployed_air_force_size = {
+		size > 624
+	}
+	has_deployed_air_force_size = {
+		size < 626
+	}
+}
+plane_number_626  = {
+	has_deployed_air_force_size = {
+		size > 625
+	}
+	has_deployed_air_force_size = {
+		size < 627
+	}
+}
+plane_number_627  = {
+	has_deployed_air_force_size = {
+		size > 626
+	}
+	has_deployed_air_force_size = {
+		size < 628
+	}
+}
+plane_number_628  = {
+	has_deployed_air_force_size = {
+		size > 627
+	}
+	has_deployed_air_force_size = {
+		size < 629
+	}
+}
+plane_number_629  = {
+	has_deployed_air_force_size = {
+		size > 628
+	}
+	has_deployed_air_force_size = {
+		size < 630
+	}
+}
+plane_number_630  = {
+	has_deployed_air_force_size = {
+		size > 629
+	}
+	has_deployed_air_force_size = {
+		size < 631
+	}
+}
+plane_number_631  = {
+	has_deployed_air_force_size = {
+		size > 630
+	}
+	has_deployed_air_force_size = {
+		size < 632
+	}
+}
+plane_number_632  = {
+	has_deployed_air_force_size = {
+		size > 631
+	}
+	has_deployed_air_force_size = {
+		size < 633
+	}
+}
+plane_number_633  = {
+	has_deployed_air_force_size = {
+		size > 632
+	}
+	has_deployed_air_force_size = {
+		size < 634
+	}
+}
+plane_number_634  = {
+	has_deployed_air_force_size = {
+		size > 633
+	}
+	has_deployed_air_force_size = {
+		size < 635
+	}
+}
+plane_number_635  = {
+	has_deployed_air_force_size = {
+		size > 634
+	}
+	has_deployed_air_force_size = {
+		size < 636
+	}
+}
+plane_number_636  = {
+	has_deployed_air_force_size = {
+		size > 635
+	}
+	has_deployed_air_force_size = {
+		size < 637
+	}
+}
+plane_number_637  = {
+	has_deployed_air_force_size = {
+		size > 636
+	}
+	has_deployed_air_force_size = {
+		size < 638
+	}
+}
+plane_number_638  = {
+	has_deployed_air_force_size = {
+		size > 637
+	}
+	has_deployed_air_force_size = {
+		size < 639
+	}
+}
+plane_number_639  = {
+	has_deployed_air_force_size = {
+		size > 638
+	}
+	has_deployed_air_force_size = {
+		size < 640
+	}
+}
+plane_number_640  = {
+	has_deployed_air_force_size = {
+		size > 639
+	}
+	has_deployed_air_force_size = {
+		size < 641
+	}
+}
+plane_number_641  = {
+	has_deployed_air_force_size = {
+		size > 640
+	}
+	has_deployed_air_force_size = {
+		size < 642
+	}
+}
+plane_number_642  = {
+	has_deployed_air_force_size = {
+		size > 641
+	}
+	has_deployed_air_force_size = {
+		size < 643
+	}
+}
+plane_number_643  = {
+	has_deployed_air_force_size = {
+		size > 642
+	}
+	has_deployed_air_force_size = {
+		size < 644
+	}
+}
+plane_number_644  = {
+	has_deployed_air_force_size = {
+		size > 643
+	}
+	has_deployed_air_force_size = {
+		size < 645
+	}
+}
+plane_number_645  = {
+	has_deployed_air_force_size = {
+		size > 644
+	}
+	has_deployed_air_force_size = {
+		size < 646
+	}
+}
+plane_number_646  = {
+	has_deployed_air_force_size = {
+		size > 645
+	}
+	has_deployed_air_force_size = {
+		size < 647
+	}
+}
+plane_number_647  = {
+	has_deployed_air_force_size = {
+		size > 646
+	}
+	has_deployed_air_force_size = {
+		size < 648
+	}
+}
+plane_number_648  = {
+	has_deployed_air_force_size = {
+		size > 647
+	}
+	has_deployed_air_force_size = {
+		size < 649
+	}
+}
+plane_number_649  = {
+	has_deployed_air_force_size = {
+		size > 648
+	}
+	has_deployed_air_force_size = {
+		size < 650
+	}
+}
+plane_number_650  = {
+	has_deployed_air_force_size = {
+		size > 649
+	}
+	has_deployed_air_force_size = {
+		size < 651
+	}
+}
+plane_number_651  = {
+	has_deployed_air_force_size = {
+		size > 650
+	}
+	has_deployed_air_force_size = {
+		size < 652
+	}
+}
+plane_number_652  = {
+	has_deployed_air_force_size = {
+		size > 651
+	}
+	has_deployed_air_force_size = {
+		size < 653
+	}
+}
+plane_number_653  = {
+	has_deployed_air_force_size = {
+		size > 652
+	}
+	has_deployed_air_force_size = {
+		size < 654
+	}
+}
+plane_number_654  = {
+	has_deployed_air_force_size = {
+		size > 653
+	}
+	has_deployed_air_force_size = {
+		size < 655
+	}
+}
+plane_number_655  = {
+	has_deployed_air_force_size = {
+		size > 654
+	}
+	has_deployed_air_force_size = {
+		size < 656
+	}
+}
+plane_number_656  = {
+	has_deployed_air_force_size = {
+		size > 655
+	}
+	has_deployed_air_force_size = {
+		size < 657
+	}
+}
+plane_number_657  = {
+	has_deployed_air_force_size = {
+		size > 656
+	}
+	has_deployed_air_force_size = {
+		size < 658
+	}
+}
+plane_number_658  = {
+	has_deployed_air_force_size = {
+		size > 657
+	}
+	has_deployed_air_force_size = {
+		size < 659
+	}
+}
+plane_number_659  = {
+	has_deployed_air_force_size = {
+		size > 658
+	}
+	has_deployed_air_force_size = {
+		size < 660
+	}
+}
+plane_number_660  = {
+	has_deployed_air_force_size = {
+		size > 659
+	}
+	has_deployed_air_force_size = {
+		size < 661
+	}
+}
+plane_number_661  = {
+	has_deployed_air_force_size = {
+		size > 660
+	}
+	has_deployed_air_force_size = {
+		size < 662
+	}
+}
+plane_number_662  = {
+	has_deployed_air_force_size = {
+		size > 661
+	}
+	has_deployed_air_force_size = {
+		size < 663
+	}
+}
+plane_number_663  = {
+	has_deployed_air_force_size = {
+		size > 662
+	}
+	has_deployed_air_force_size = {
+		size < 664
+	}
+}
+plane_number_664  = {
+	has_deployed_air_force_size = {
+		size > 663
+	}
+	has_deployed_air_force_size = {
+		size < 665
+	}
+}
+plane_number_665  = {
+	has_deployed_air_force_size = {
+		size > 664
+	}
+	has_deployed_air_force_size = {
+		size < 666
+	}
+}
+plane_number_666  = {
+	has_deployed_air_force_size = {
+		size > 665
+	}
+	has_deployed_air_force_size = {
+		size < 667
+	}
+}
+plane_number_667  = {
+	has_deployed_air_force_size = {
+		size > 666
+	}
+	has_deployed_air_force_size = {
+		size < 668
+	}
+}
+plane_number_668  = {
+	has_deployed_air_force_size = {
+		size > 667
+	}
+	has_deployed_air_force_size = {
+		size < 669
+	}
+}
+plane_number_669  = {
+	has_deployed_air_force_size = {
+		size > 668
+	}
+	has_deployed_air_force_size = {
+		size < 670
+	}
+}
+plane_number_670  = {
+	has_deployed_air_force_size = {
+		size > 669
+	}
+	has_deployed_air_force_size = {
+		size < 671
+	}
+}
+plane_number_671  = {
+	has_deployed_air_force_size = {
+		size > 670
+	}
+	has_deployed_air_force_size = {
+		size < 672
+	}
+}
+plane_number_672  = {
+	has_deployed_air_force_size = {
+		size > 671
+	}
+	has_deployed_air_force_size = {
+		size < 673
+	}
+}
+plane_number_673  = {
+	has_deployed_air_force_size = {
+		size > 672
+	}
+	has_deployed_air_force_size = {
+		size < 674
+	}
+}
+plane_number_674  = {
+	has_deployed_air_force_size = {
+		size > 673
+	}
+	has_deployed_air_force_size = {
+		size < 675
+	}
+}
+plane_number_675  = {
+	has_deployed_air_force_size = {
+		size > 674
+	}
+	has_deployed_air_force_size = {
+		size < 676
+	}
+}
+plane_number_676  = {
+	has_deployed_air_force_size = {
+		size > 675
+	}
+	has_deployed_air_force_size = {
+		size < 677
+	}
+}
+plane_number_677  = {
+	has_deployed_air_force_size = {
+		size > 676
+	}
+	has_deployed_air_force_size = {
+		size < 678
+	}
+}
+plane_number_678  = {
+	has_deployed_air_force_size = {
+		size > 677
+	}
+	has_deployed_air_force_size = {
+		size < 679
+	}
+}
+plane_number_679  = {
+	has_deployed_air_force_size = {
+		size > 678
+	}
+	has_deployed_air_force_size = {
+		size < 680
+	}
+}
+plane_number_680  = {
+	has_deployed_air_force_size = {
+		size > 679
+	}
+	has_deployed_air_force_size = {
+		size < 681
+	}
+}
+plane_number_681  = {
+	has_deployed_air_force_size = {
+		size > 680
+	}
+	has_deployed_air_force_size = {
+		size < 682
+	}
+}
+plane_number_682  = {
+	has_deployed_air_force_size = {
+		size > 681
+	}
+	has_deployed_air_force_size = {
+		size < 683
+	}
+}
+plane_number_683  = {
+	has_deployed_air_force_size = {
+		size > 682
+	}
+	has_deployed_air_force_size = {
+		size < 684
+	}
+}
+plane_number_684  = {
+	has_deployed_air_force_size = {
+		size > 683
+	}
+	has_deployed_air_force_size = {
+		size < 685
+	}
+}
+plane_number_685  = {
+	has_deployed_air_force_size = {
+		size > 684
+	}
+	has_deployed_air_force_size = {
+		size < 686
+	}
+}
+plane_number_686  = {
+	has_deployed_air_force_size = {
+		size > 685
+	}
+	has_deployed_air_force_size = {
+		size < 687
+	}
+}
+plane_number_687  = {
+	has_deployed_air_force_size = {
+		size > 686
+	}
+	has_deployed_air_force_size = {
+		size < 688
+	}
+}
+plane_number_688  = {
+	has_deployed_air_force_size = {
+		size > 687
+	}
+	has_deployed_air_force_size = {
+		size < 689
+	}
+}
+plane_number_689  = {
+	has_deployed_air_force_size = {
+		size > 688
+	}
+	has_deployed_air_force_size = {
+		size < 690
+	}
+}
+plane_number_690  = {
+	has_deployed_air_force_size = {
+		size > 689
+	}
+	has_deployed_air_force_size = {
+		size < 691
+	}
+}
+plane_number_691  = {
+	has_deployed_air_force_size = {
+		size > 690
+	}
+	has_deployed_air_force_size = {
+		size < 692
+	}
+}
+plane_number_692  = {
+	has_deployed_air_force_size = {
+		size > 691
+	}
+	has_deployed_air_force_size = {
+		size < 693
+	}
+}
+plane_number_693  = {
+	has_deployed_air_force_size = {
+		size > 692
+	}
+	has_deployed_air_force_size = {
+		size < 694
+	}
+}
+plane_number_694  = {
+	has_deployed_air_force_size = {
+		size > 693
+	}
+	has_deployed_air_force_size = {
+		size < 695
+	}
+}
+plane_number_695  = {
+	has_deployed_air_force_size = {
+		size > 694
+	}
+	has_deployed_air_force_size = {
+		size < 696
+	}
+}
+plane_number_696  = {
+	has_deployed_air_force_size = {
+		size > 695
+	}
+	has_deployed_air_force_size = {
+		size < 697
+	}
+}
+plane_number_697  = {
+	has_deployed_air_force_size = {
+		size > 696
+	}
+	has_deployed_air_force_size = {
+		size < 698
+	}
+}
+plane_number_698  = {
+	has_deployed_air_force_size = {
+		size > 697
+	}
+	has_deployed_air_force_size = {
+		size < 699
+	}
+}
+plane_number_699  = {
+	has_deployed_air_force_size = {
+		size > 698
+	}
+	has_deployed_air_force_size = {
+		size < 700
+	}
+}
+plane_number_700  = {
+	has_deployed_air_force_size = {
+		size > 699
+	}
+	has_deployed_air_force_size = {
+		size < 701
+	}
+}
+plane_number_701  = {
+	has_deployed_air_force_size = {
+		size > 700
+	}
+	has_deployed_air_force_size = {
+		size < 702
+	}
+}
+plane_number_702  = {
+	has_deployed_air_force_size = {
+		size > 701
+	}
+	has_deployed_air_force_size = {
+		size < 703
+	}
+}
+plane_number_703  = {
+	has_deployed_air_force_size = {
+		size > 702
+	}
+	has_deployed_air_force_size = {
+		size < 704
+	}
+}
+plane_number_704  = {
+	has_deployed_air_force_size = {
+		size > 703
+	}
+	has_deployed_air_force_size = {
+		size < 705
+	}
+}
+plane_number_705  = {
+	has_deployed_air_force_size = {
+		size > 704
+	}
+	has_deployed_air_force_size = {
+		size < 706
+	}
+}
+plane_number_706  = {
+	has_deployed_air_force_size = {
+		size > 705
+	}
+	has_deployed_air_force_size = {
+		size < 707
+	}
+}
+plane_number_707  = {
+	has_deployed_air_force_size = {
+		size > 706
+	}
+	has_deployed_air_force_size = {
+		size < 708
+	}
+}
+plane_number_708  = {
+	has_deployed_air_force_size = {
+		size > 707
+	}
+	has_deployed_air_force_size = {
+		size < 709
+	}
+}
+plane_number_709  = {
+	has_deployed_air_force_size = {
+		size > 708
+	}
+	has_deployed_air_force_size = {
+		size < 710
+	}
+}
+plane_number_710  = {
+	has_deployed_air_force_size = {
+		size > 709
+	}
+	has_deployed_air_force_size = {
+		size < 711
+	}
+}
+plane_number_711  = {
+	has_deployed_air_force_size = {
+		size > 710
+	}
+	has_deployed_air_force_size = {
+		size < 712
+	}
+}
+plane_number_712  = {
+	has_deployed_air_force_size = {
+		size > 711
+	}
+	has_deployed_air_force_size = {
+		size < 713
+	}
+}
+plane_number_713  = {
+	has_deployed_air_force_size = {
+		size > 712
+	}
+	has_deployed_air_force_size = {
+		size < 714
+	}
+}
+plane_number_714  = {
+	has_deployed_air_force_size = {
+		size > 713
+	}
+	has_deployed_air_force_size = {
+		size < 715
+	}
+}
+plane_number_715  = {
+	has_deployed_air_force_size = {
+		size > 714
+	}
+	has_deployed_air_force_size = {
+		size < 716
+	}
+}
+plane_number_716  = {
+	has_deployed_air_force_size = {
+		size > 715
+	}
+	has_deployed_air_force_size = {
+		size < 717
+	}
+}
+plane_number_717  = {
+	has_deployed_air_force_size = {
+		size > 716
+	}
+	has_deployed_air_force_size = {
+		size < 718
+	}
+}
+plane_number_718  = {
+	has_deployed_air_force_size = {
+		size > 717
+	}
+	has_deployed_air_force_size = {
+		size < 719
+	}
+}
+plane_number_719  = {
+	has_deployed_air_force_size = {
+		size > 718
+	}
+	has_deployed_air_force_size = {
+		size < 720
+	}
+}
+plane_number_720  = {
+	has_deployed_air_force_size = {
+		size > 719
+	}
+	has_deployed_air_force_size = {
+		size < 721
+	}
+}
+plane_number_721  = {
+	has_deployed_air_force_size = {
+		size > 720
+	}
+	has_deployed_air_force_size = {
+		size < 722
+	}
+}
+plane_number_722  = {
+	has_deployed_air_force_size = {
+		size > 721
+	}
+	has_deployed_air_force_size = {
+		size < 723
+	}
+}
+plane_number_723  = {
+	has_deployed_air_force_size = {
+		size > 722
+	}
+	has_deployed_air_force_size = {
+		size < 724
+	}
+}
+plane_number_724  = {
+	has_deployed_air_force_size = {
+		size > 723
+	}
+	has_deployed_air_force_size = {
+		size < 725
+	}
+}
+plane_number_725  = {
+	has_deployed_air_force_size = {
+		size > 724
+	}
+	has_deployed_air_force_size = {
+		size < 726
+	}
+}
+plane_number_726  = {
+	has_deployed_air_force_size = {
+		size > 725
+	}
+	has_deployed_air_force_size = {
+		size < 727
+	}
+}
+plane_number_727  = {
+	has_deployed_air_force_size = {
+		size > 726
+	}
+	has_deployed_air_force_size = {
+		size < 728
+	}
+}
+plane_number_728  = {
+	has_deployed_air_force_size = {
+		size > 727
+	}
+	has_deployed_air_force_size = {
+		size < 729
+	}
+}
+plane_number_729  = {
+	has_deployed_air_force_size = {
+		size > 728
+	}
+	has_deployed_air_force_size = {
+		size < 730
+	}
+}
+plane_number_730  = {
+	has_deployed_air_force_size = {
+		size > 729
+	}
+	has_deployed_air_force_size = {
+		size < 731
+	}
+}
+plane_number_731  = {
+	has_deployed_air_force_size = {
+		size > 730
+	}
+	has_deployed_air_force_size = {
+		size < 732
+	}
+}
+plane_number_732  = {
+	has_deployed_air_force_size = {
+		size > 731
+	}
+	has_deployed_air_force_size = {
+		size < 733
+	}
+}
+plane_number_733  = {
+	has_deployed_air_force_size = {
+		size > 732
+	}
+	has_deployed_air_force_size = {
+		size < 734
+	}
+}
+plane_number_734  = {
+	has_deployed_air_force_size = {
+		size > 733
+	}
+	has_deployed_air_force_size = {
+		size < 735
+	}
+}
+plane_number_735  = {
+	has_deployed_air_force_size = {
+		size > 734
+	}
+	has_deployed_air_force_size = {
+		size < 736
+	}
+}
+plane_number_736  = {
+	has_deployed_air_force_size = {
+		size > 735
+	}
+	has_deployed_air_force_size = {
+		size < 737
+	}
+}
+plane_number_737  = {
+	has_deployed_air_force_size = {
+		size > 736
+	}
+	has_deployed_air_force_size = {
+		size < 738
+	}
+}
+plane_number_738  = {
+	has_deployed_air_force_size = {
+		size > 737
+	}
+	has_deployed_air_force_size = {
+		size < 739
+	}
+}
+plane_number_739  = {
+	has_deployed_air_force_size = {
+		size > 738
+	}
+	has_deployed_air_force_size = {
+		size < 740
+	}
+}
+plane_number_740  = {
+	has_deployed_air_force_size = {
+		size > 739
+	}
+	has_deployed_air_force_size = {
+		size < 741
+	}
+}
+plane_number_741  = {
+	has_deployed_air_force_size = {
+		size > 740
+	}
+	has_deployed_air_force_size = {
+		size < 742
+	}
+}
+plane_number_742  = {
+	has_deployed_air_force_size = {
+		size > 741
+	}
+	has_deployed_air_force_size = {
+		size < 743
+	}
+}
+plane_number_743  = {
+	has_deployed_air_force_size = {
+		size > 742
+	}
+	has_deployed_air_force_size = {
+		size < 744
+	}
+}
+plane_number_744  = {
+	has_deployed_air_force_size = {
+		size > 743
+	}
+	has_deployed_air_force_size = {
+		size < 745
+	}
+}
+plane_number_745  = {
+	has_deployed_air_force_size = {
+		size > 744
+	}
+	has_deployed_air_force_size = {
+		size < 746
+	}
+}
+plane_number_746  = {
+	has_deployed_air_force_size = {
+		size > 745
+	}
+	has_deployed_air_force_size = {
+		size < 747
+	}
+}
+plane_number_747  = {
+	has_deployed_air_force_size = {
+		size > 746
+	}
+	has_deployed_air_force_size = {
+		size < 748
+	}
+}
+plane_number_748  = {
+	has_deployed_air_force_size = {
+		size > 747
+	}
+	has_deployed_air_force_size = {
+		size < 749
+	}
+}
+plane_number_749  = {
+	has_deployed_air_force_size = {
+		size > 748
+	}
+	has_deployed_air_force_size = {
+		size < 750
+	}
+}
+plane_number_750  = {
+	has_deployed_air_force_size = {
+		size > 749
+	}
+	has_deployed_air_force_size = {
+		size < 751
+	}
+}
+plane_number_751  = {
+	has_deployed_air_force_size = {
+		size > 750
+	}
+	has_deployed_air_force_size = {
+		size < 752
+	}
+}
+plane_number_752  = {
+	has_deployed_air_force_size = {
+		size > 751
+	}
+	has_deployed_air_force_size = {
+		size < 753
+	}
+}
+plane_number_753  = {
+	has_deployed_air_force_size = {
+		size > 752
+	}
+	has_deployed_air_force_size = {
+		size < 754
+	}
+}
+plane_number_754  = {
+	has_deployed_air_force_size = {
+		size > 753
+	}
+	has_deployed_air_force_size = {
+		size < 755
+	}
+}
+plane_number_755  = {
+	has_deployed_air_force_size = {
+		size > 754
+	}
+	has_deployed_air_force_size = {
+		size < 756
+	}
+}
+plane_number_756  = {
+	has_deployed_air_force_size = {
+		size > 755
+	}
+	has_deployed_air_force_size = {
+		size < 757
+	}
+}
+plane_number_757  = {
+	has_deployed_air_force_size = {
+		size > 756
+	}
+	has_deployed_air_force_size = {
+		size < 758
+	}
+}
+plane_number_758  = {
+	has_deployed_air_force_size = {
+		size > 757
+	}
+	has_deployed_air_force_size = {
+		size < 759
+	}
+}
+plane_number_759  = {
+	has_deployed_air_force_size = {
+		size > 758
+	}
+	has_deployed_air_force_size = {
+		size < 760
+	}
+}
+plane_number_760  = {
+	has_deployed_air_force_size = {
+		size > 759
+	}
+	has_deployed_air_force_size = {
+		size < 761
+	}
+}
+plane_number_761  = {
+	has_deployed_air_force_size = {
+		size > 760
+	}
+	has_deployed_air_force_size = {
+		size < 762
+	}
+}
+plane_number_762  = {
+	has_deployed_air_force_size = {
+		size > 761
+	}
+	has_deployed_air_force_size = {
+		size < 763
+	}
+}
+plane_number_763  = {
+	has_deployed_air_force_size = {
+		size > 762
+	}
+	has_deployed_air_force_size = {
+		size < 764
+	}
+}
+plane_number_764  = {
+	has_deployed_air_force_size = {
+		size > 763
+	}
+	has_deployed_air_force_size = {
+		size < 765
+	}
+}
+plane_number_765  = {
+	has_deployed_air_force_size = {
+		size > 764
+	}
+	has_deployed_air_force_size = {
+		size < 766
+	}
+}
+plane_number_766  = {
+	has_deployed_air_force_size = {
+		size > 765
+	}
+	has_deployed_air_force_size = {
+		size < 767
+	}
+}
+plane_number_767  = {
+	has_deployed_air_force_size = {
+		size > 766
+	}
+	has_deployed_air_force_size = {
+		size < 768
+	}
+}
+plane_number_768  = {
+	has_deployed_air_force_size = {
+		size > 767
+	}
+	has_deployed_air_force_size = {
+		size < 769
+	}
+}
+plane_number_769  = {
+	has_deployed_air_force_size = {
+		size > 768
+	}
+	has_deployed_air_force_size = {
+		size < 770
+	}
+}
+plane_number_770  = {
+	has_deployed_air_force_size = {
+		size > 769
+	}
+	has_deployed_air_force_size = {
+		size < 771
+	}
+}
+plane_number_771  = {
+	has_deployed_air_force_size = {
+		size > 770
+	}
+	has_deployed_air_force_size = {
+		size < 772
+	}
+}
+plane_number_772  = {
+	has_deployed_air_force_size = {
+		size > 771
+	}
+	has_deployed_air_force_size = {
+		size < 773
+	}
+}
+plane_number_773  = {
+	has_deployed_air_force_size = {
+		size > 772
+	}
+	has_deployed_air_force_size = {
+		size < 774
+	}
+}
+plane_number_774  = {
+	has_deployed_air_force_size = {
+		size > 773
+	}
+	has_deployed_air_force_size = {
+		size < 775
+	}
+}
+plane_number_775  = {
+	has_deployed_air_force_size = {
+		size > 774
+	}
+	has_deployed_air_force_size = {
+		size < 776
+	}
+}
+plane_number_776  = {
+	has_deployed_air_force_size = {
+		size > 775
+	}
+	has_deployed_air_force_size = {
+		size < 777
+	}
+}
+plane_number_777  = {
+	has_deployed_air_force_size = {
+		size > 776
+	}
+	has_deployed_air_force_size = {
+		size < 778
+	}
+}
+plane_number_778  = {
+	has_deployed_air_force_size = {
+		size > 777
+	}
+	has_deployed_air_force_size = {
+		size < 779
+	}
+}
+plane_number_779  = {
+	has_deployed_air_force_size = {
+		size > 778
+	}
+	has_deployed_air_force_size = {
+		size < 780
+	}
+}
+plane_number_780  = {
+	has_deployed_air_force_size = {
+		size > 779
+	}
+	has_deployed_air_force_size = {
+		size < 781
+	}
+}
+plane_number_781  = {
+	has_deployed_air_force_size = {
+		size > 780
+	}
+	has_deployed_air_force_size = {
+		size < 782
+	}
+}
+plane_number_782  = {
+	has_deployed_air_force_size = {
+		size > 781
+	}
+	has_deployed_air_force_size = {
+		size < 783
+	}
+}
+plane_number_783  = {
+	has_deployed_air_force_size = {
+		size > 782
+	}
+	has_deployed_air_force_size = {
+		size < 784
+	}
+}
+plane_number_784  = {
+	has_deployed_air_force_size = {
+		size > 783
+	}
+	has_deployed_air_force_size = {
+		size < 785
+	}
+}
+plane_number_785  = {
+	has_deployed_air_force_size = {
+		size > 784
+	}
+	has_deployed_air_force_size = {
+		size < 786
+	}
+}
+plane_number_786  = {
+	has_deployed_air_force_size = {
+		size > 785
+	}
+	has_deployed_air_force_size = {
+		size < 787
+	}
+}
+plane_number_787  = {
+	has_deployed_air_force_size = {
+		size > 786
+	}
+	has_deployed_air_force_size = {
+		size < 788
+	}
+}
+plane_number_788  = {
+	has_deployed_air_force_size = {
+		size > 787
+	}
+	has_deployed_air_force_size = {
+		size < 789
+	}
+}
+plane_number_789  = {
+	has_deployed_air_force_size = {
+		size > 788
+	}
+	has_deployed_air_force_size = {
+		size < 790
+	}
+}
+plane_number_790  = {
+	has_deployed_air_force_size = {
+		size > 789
+	}
+	has_deployed_air_force_size = {
+		size < 791
+	}
+}
+plane_number_791  = {
+	has_deployed_air_force_size = {
+		size > 790
+	}
+	has_deployed_air_force_size = {
+		size < 792
+	}
+}
+plane_number_792  = {
+	has_deployed_air_force_size = {
+		size > 791
+	}
+	has_deployed_air_force_size = {
+		size < 793
+	}
+}
+plane_number_793  = {
+	has_deployed_air_force_size = {
+		size > 792
+	}
+	has_deployed_air_force_size = {
+		size < 794
+	}
+}
+plane_number_794  = {
+	has_deployed_air_force_size = {
+		size > 793
+	}
+	has_deployed_air_force_size = {
+		size < 795
+	}
+}
+plane_number_795  = {
+	has_deployed_air_force_size = {
+		size > 794
+	}
+	has_deployed_air_force_size = {
+		size < 796
+	}
+}
+plane_number_796  = {
+	has_deployed_air_force_size = {
+		size > 795
+	}
+	has_deployed_air_force_size = {
+		size < 797
+	}
+}
+plane_number_797  = {
+	has_deployed_air_force_size = {
+		size > 796
+	}
+	has_deployed_air_force_size = {
+		size < 798
+	}
+}
+plane_number_798  = {
+	has_deployed_air_force_size = {
+		size > 797
+	}
+	has_deployed_air_force_size = {
+		size < 799
+	}
+}
+plane_number_799  = {
+	has_deployed_air_force_size = {
+		size > 798
+	}
+	has_deployed_air_force_size = {
+		size < 800
+	}
+}
+plane_number_800  = {
+	has_deployed_air_force_size = {
+		size > 799
+	}
+	has_deployed_air_force_size = {
+		size < 801
+	}
+}
+plane_number_801  = {
+	has_deployed_air_force_size = {
+		size > 800
+	}
+	has_deployed_air_force_size = {
+		size < 802
+	}
+}
+plane_number_802  = {
+	has_deployed_air_force_size = {
+		size > 801
+	}
+	has_deployed_air_force_size = {
+		size < 803
+	}
+}
+plane_number_803  = {
+	has_deployed_air_force_size = {
+		size > 802
+	}
+	has_deployed_air_force_size = {
+		size < 804
+	}
+}
+plane_number_804  = {
+	has_deployed_air_force_size = {
+		size > 803
+	}
+	has_deployed_air_force_size = {
+		size < 805
+	}
+}
+plane_number_805  = {
+	has_deployed_air_force_size = {
+		size > 804
+	}
+	has_deployed_air_force_size = {
+		size < 806
+	}
+}
+plane_number_806  = {
+	has_deployed_air_force_size = {
+		size > 805
+	}
+	has_deployed_air_force_size = {
+		size < 807
+	}
+}
+plane_number_807  = {
+	has_deployed_air_force_size = {
+		size > 806
+	}
+	has_deployed_air_force_size = {
+		size < 808
+	}
+}
+plane_number_808  = {
+	has_deployed_air_force_size = {
+		size > 807
+	}
+	has_deployed_air_force_size = {
+		size < 809
+	}
+}
+plane_number_809  = {
+	has_deployed_air_force_size = {
+		size > 808
+	}
+	has_deployed_air_force_size = {
+		size < 810
+	}
+}
+plane_number_810  = {
+	has_deployed_air_force_size = {
+		size > 809
+	}
+	has_deployed_air_force_size = {
+		size < 811
+	}
+}
+plane_number_811  = {
+	has_deployed_air_force_size = {
+		size > 810
+	}
+	has_deployed_air_force_size = {
+		size < 812
+	}
+}
+plane_number_812  = {
+	has_deployed_air_force_size = {
+		size > 811
+	}
+	has_deployed_air_force_size = {
+		size < 813
+	}
+}
+plane_number_813  = {
+	has_deployed_air_force_size = {
+		size > 812
+	}
+	has_deployed_air_force_size = {
+		size < 814
+	}
+}
+plane_number_814  = {
+	has_deployed_air_force_size = {
+		size > 813
+	}
+	has_deployed_air_force_size = {
+		size < 815
+	}
+}
+plane_number_815  = {
+	has_deployed_air_force_size = {
+		size > 814
+	}
+	has_deployed_air_force_size = {
+		size < 816
+	}
+}
+plane_number_816  = {
+	has_deployed_air_force_size = {
+		size > 815
+	}
+	has_deployed_air_force_size = {
+		size < 817
+	}
+}
+plane_number_817  = {
+	has_deployed_air_force_size = {
+		size > 816
+	}
+	has_deployed_air_force_size = {
+		size < 818
+	}
+}
+plane_number_818  = {
+	has_deployed_air_force_size = {
+		size > 817
+	}
+	has_deployed_air_force_size = {
+		size < 819
+	}
+}
+plane_number_819  = {
+	has_deployed_air_force_size = {
+		size > 818
+	}
+	has_deployed_air_force_size = {
+		size < 820
+	}
+}
+plane_number_820  = {
+	has_deployed_air_force_size = {
+		size > 819
+	}
+	has_deployed_air_force_size = {
+		size < 821
+	}
+}
+plane_number_821  = {
+	has_deployed_air_force_size = {
+		size > 820
+	}
+	has_deployed_air_force_size = {
+		size < 822
+	}
+}
+plane_number_822  = {
+	has_deployed_air_force_size = {
+		size > 821
+	}
+	has_deployed_air_force_size = {
+		size < 823
+	}
+}
+plane_number_823  = {
+	has_deployed_air_force_size = {
+		size > 822
+	}
+	has_deployed_air_force_size = {
+		size < 824
+	}
+}
+plane_number_824  = {
+	has_deployed_air_force_size = {
+		size > 823
+	}
+	has_deployed_air_force_size = {
+		size < 825
+	}
+}
+plane_number_825  = {
+	has_deployed_air_force_size = {
+		size > 824
+	}
+	has_deployed_air_force_size = {
+		size < 826
+	}
+}
+plane_number_826  = {
+	has_deployed_air_force_size = {
+		size > 825
+	}
+	has_deployed_air_force_size = {
+		size < 827
+	}
+}
+plane_number_827  = {
+	has_deployed_air_force_size = {
+		size > 826
+	}
+	has_deployed_air_force_size = {
+		size < 828
+	}
+}
+plane_number_828  = {
+	has_deployed_air_force_size = {
+		size > 827
+	}
+	has_deployed_air_force_size = {
+		size < 829
+	}
+}
+plane_number_829  = {
+	has_deployed_air_force_size = {
+		size > 828
+	}
+	has_deployed_air_force_size = {
+		size < 830
+	}
+}
+plane_number_830  = {
+	has_deployed_air_force_size = {
+		size > 829
+	}
+	has_deployed_air_force_size = {
+		size < 831
+	}
+}
+plane_number_831  = {
+	has_deployed_air_force_size = {
+		size > 830
+	}
+	has_deployed_air_force_size = {
+		size < 832
+	}
+}
+plane_number_832  = {
+	has_deployed_air_force_size = {
+		size > 831
+	}
+	has_deployed_air_force_size = {
+		size < 833
+	}
+}
+plane_number_833  = {
+	has_deployed_air_force_size = {
+		size > 832
+	}
+	has_deployed_air_force_size = {
+		size < 834
+	}
+}
+plane_number_834  = {
+	has_deployed_air_force_size = {
+		size > 833
+	}
+	has_deployed_air_force_size = {
+		size < 835
+	}
+}
+plane_number_835  = {
+	has_deployed_air_force_size = {
+		size > 834
+	}
+	has_deployed_air_force_size = {
+		size < 836
+	}
+}
+plane_number_836  = {
+	has_deployed_air_force_size = {
+		size > 835
+	}
+	has_deployed_air_force_size = {
+		size < 837
+	}
+}
+plane_number_837  = {
+	has_deployed_air_force_size = {
+		size > 836
+	}
+	has_deployed_air_force_size = {
+		size < 838
+	}
+}
+plane_number_838  = {
+	has_deployed_air_force_size = {
+		size > 837
+	}
+	has_deployed_air_force_size = {
+		size < 839
+	}
+}
+plane_number_839  = {
+	has_deployed_air_force_size = {
+		size > 838
+	}
+	has_deployed_air_force_size = {
+		size < 840
+	}
+}
+plane_number_840  = {
+	has_deployed_air_force_size = {
+		size > 839
+	}
+	has_deployed_air_force_size = {
+		size < 841
+	}
+}
+plane_number_841  = {
+	has_deployed_air_force_size = {
+		size > 840
+	}
+	has_deployed_air_force_size = {
+		size < 842
+	}
+}
+plane_number_842  = {
+	has_deployed_air_force_size = {
+		size > 841
+	}
+	has_deployed_air_force_size = {
+		size < 843
+	}
+}
+plane_number_843  = {
+	has_deployed_air_force_size = {
+		size > 842
+	}
+	has_deployed_air_force_size = {
+		size < 844
+	}
+}
+plane_number_844  = {
+	has_deployed_air_force_size = {
+		size > 843
+	}
+	has_deployed_air_force_size = {
+		size < 845
+	}
+}
+plane_number_845  = {
+	has_deployed_air_force_size = {
+		size > 844
+	}
+	has_deployed_air_force_size = {
+		size < 846
+	}
+}
+plane_number_846  = {
+	has_deployed_air_force_size = {
+		size > 845
+	}
+	has_deployed_air_force_size = {
+		size < 847
+	}
+}
+plane_number_847  = {
+	has_deployed_air_force_size = {
+		size > 846
+	}
+	has_deployed_air_force_size = {
+		size < 848
+	}
+}
+plane_number_848  = {
+	has_deployed_air_force_size = {
+		size > 847
+	}
+	has_deployed_air_force_size = {
+		size < 849
+	}
+}
+plane_number_849  = {
+	has_deployed_air_force_size = {
+		size > 848
+	}
+	has_deployed_air_force_size = {
+		size < 850
+	}
+}
+plane_number_850  = {
+	has_deployed_air_force_size = {
+		size > 849
+	}
+	has_deployed_air_force_size = {
+		size < 851
+	}
+}
+plane_number_851  = {
+	has_deployed_air_force_size = {
+		size > 850
+	}
+	has_deployed_air_force_size = {
+		size < 852
+	}
+}
+plane_number_852  = {
+	has_deployed_air_force_size = {
+		size > 851
+	}
+	has_deployed_air_force_size = {
+		size < 853
+	}
+}
+plane_number_853  = {
+	has_deployed_air_force_size = {
+		size > 852
+	}
+	has_deployed_air_force_size = {
+		size < 854
+	}
+}
+plane_number_854  = {
+	has_deployed_air_force_size = {
+		size > 853
+	}
+	has_deployed_air_force_size = {
+		size < 855
+	}
+}
+plane_number_855  = {
+	has_deployed_air_force_size = {
+		size > 854
+	}
+	has_deployed_air_force_size = {
+		size < 856
+	}
+}
+plane_number_856  = {
+	has_deployed_air_force_size = {
+		size > 855
+	}
+	has_deployed_air_force_size = {
+		size < 857
+	}
+}
+plane_number_857  = {
+	has_deployed_air_force_size = {
+		size > 856
+	}
+	has_deployed_air_force_size = {
+		size < 858
+	}
+}
+plane_number_858  = {
+	has_deployed_air_force_size = {
+		size > 857
+	}
+	has_deployed_air_force_size = {
+		size < 859
+	}
+}
+plane_number_859  = {
+	has_deployed_air_force_size = {
+		size > 858
+	}
+	has_deployed_air_force_size = {
+		size < 860
+	}
+}
+plane_number_860  = {
+	has_deployed_air_force_size = {
+		size > 859
+	}
+	has_deployed_air_force_size = {
+		size < 861
+	}
+}
+plane_number_861  = {
+	has_deployed_air_force_size = {
+		size > 860
+	}
+	has_deployed_air_force_size = {
+		size < 862
+	}
+}
+plane_number_862  = {
+	has_deployed_air_force_size = {
+		size > 861
+	}
+	has_deployed_air_force_size = {
+		size < 863
+	}
+}
+plane_number_863  = {
+	has_deployed_air_force_size = {
+		size > 862
+	}
+	has_deployed_air_force_size = {
+		size < 864
+	}
+}
+plane_number_864  = {
+	has_deployed_air_force_size = {
+		size > 863
+	}
+	has_deployed_air_force_size = {
+		size < 865
+	}
+}
+plane_number_865  = {
+	has_deployed_air_force_size = {
+		size > 864
+	}
+	has_deployed_air_force_size = {
+		size < 866
+	}
+}
+plane_number_866  = {
+	has_deployed_air_force_size = {
+		size > 865
+	}
+	has_deployed_air_force_size = {
+		size < 867
+	}
+}
+plane_number_867  = {
+	has_deployed_air_force_size = {
+		size > 866
+	}
+	has_deployed_air_force_size = {
+		size < 868
+	}
+}
+plane_number_868  = {
+	has_deployed_air_force_size = {
+		size > 867
+	}
+	has_deployed_air_force_size = {
+		size < 869
+	}
+}
+plane_number_869  = {
+	has_deployed_air_force_size = {
+		size > 868
+	}
+	has_deployed_air_force_size = {
+		size < 870
+	}
+}
+plane_number_870  = {
+	has_deployed_air_force_size = {
+		size > 869
+	}
+	has_deployed_air_force_size = {
+		size < 871
+	}
+}
+plane_number_871  = {
+	has_deployed_air_force_size = {
+		size > 870
+	}
+	has_deployed_air_force_size = {
+		size < 872
+	}
+}
+plane_number_872  = {
+	has_deployed_air_force_size = {
+		size > 871
+	}
+	has_deployed_air_force_size = {
+		size < 873
+	}
+}
+plane_number_873  = {
+	has_deployed_air_force_size = {
+		size > 872
+	}
+	has_deployed_air_force_size = {
+		size < 874
+	}
+}
+plane_number_874  = {
+	has_deployed_air_force_size = {
+		size > 873
+	}
+	has_deployed_air_force_size = {
+		size < 875
+	}
+}
+plane_number_875  = {
+	has_deployed_air_force_size = {
+		size > 874
+	}
+	has_deployed_air_force_size = {
+		size < 876
+	}
+}
+plane_number_876  = {
+	has_deployed_air_force_size = {
+		size > 875
+	}
+	has_deployed_air_force_size = {
+		size < 877
+	}
+}
+plane_number_877  = {
+	has_deployed_air_force_size = {
+		size > 876
+	}
+	has_deployed_air_force_size = {
+		size < 878
+	}
+}
+plane_number_878  = {
+	has_deployed_air_force_size = {
+		size > 877
+	}
+	has_deployed_air_force_size = {
+		size < 879
+	}
+}
+plane_number_879  = {
+	has_deployed_air_force_size = {
+		size > 878
+	}
+	has_deployed_air_force_size = {
+		size < 880
+	}
+}
+plane_number_880  = {
+	has_deployed_air_force_size = {
+		size > 879
+	}
+	has_deployed_air_force_size = {
+		size < 881
+	}
+}
+plane_number_881  = {
+	has_deployed_air_force_size = {
+		size > 880
+	}
+	has_deployed_air_force_size = {
+		size < 882
+	}
+}
+plane_number_882  = {
+	has_deployed_air_force_size = {
+		size > 881
+	}
+	has_deployed_air_force_size = {
+		size < 883
+	}
+}
+plane_number_883  = {
+	has_deployed_air_force_size = {
+		size > 882
+	}
+	has_deployed_air_force_size = {
+		size < 884
+	}
+}
+plane_number_884  = {
+	has_deployed_air_force_size = {
+		size > 883
+	}
+	has_deployed_air_force_size = {
+		size < 885
+	}
+}
+plane_number_885  = {
+	has_deployed_air_force_size = {
+		size > 884
+	}
+	has_deployed_air_force_size = {
+		size < 886
+	}
+}
+plane_number_886  = {
+	has_deployed_air_force_size = {
+		size > 885
+	}
+	has_deployed_air_force_size = {
+		size < 887
+	}
+}
+plane_number_887  = {
+	has_deployed_air_force_size = {
+		size > 886
+	}
+	has_deployed_air_force_size = {
+		size < 888
+	}
+}
+plane_number_888  = {
+	has_deployed_air_force_size = {
+		size > 887
+	}
+	has_deployed_air_force_size = {
+		size < 889
+	}
+}
+plane_number_889  = {
+	has_deployed_air_force_size = {
+		size > 888
+	}
+	has_deployed_air_force_size = {
+		size < 890
+	}
+}
+plane_number_890  = {
+	has_deployed_air_force_size = {
+		size > 889
+	}
+	has_deployed_air_force_size = {
+		size < 891
+	}
+}
+plane_number_891  = {
+	has_deployed_air_force_size = {
+		size > 890
+	}
+	has_deployed_air_force_size = {
+		size < 892
+	}
+}
+plane_number_892  = {
+	has_deployed_air_force_size = {
+		size > 891
+	}
+	has_deployed_air_force_size = {
+		size < 893
+	}
+}
+plane_number_893  = {
+	has_deployed_air_force_size = {
+		size > 892
+	}
+	has_deployed_air_force_size = {
+		size < 894
+	}
+}
+plane_number_894  = {
+	has_deployed_air_force_size = {
+		size > 893
+	}
+	has_deployed_air_force_size = {
+		size < 895
+	}
+}
+plane_number_895  = {
+	has_deployed_air_force_size = {
+		size > 894
+	}
+	has_deployed_air_force_size = {
+		size < 896
+	}
+}
+plane_number_896  = {
+	has_deployed_air_force_size = {
+		size > 895
+	}
+	has_deployed_air_force_size = {
+		size < 897
+	}
+}
+plane_number_897  = {
+	has_deployed_air_force_size = {
+		size > 896
+	}
+	has_deployed_air_force_size = {
+		size < 898
+	}
+}
+plane_number_898  = {
+	has_deployed_air_force_size = {
+		size > 897
+	}
+	has_deployed_air_force_size = {
+		size < 899
+	}
+}
+plane_number_899  = {
+	has_deployed_air_force_size = {
+		size > 898
+	}
+	has_deployed_air_force_size = {
+		size < 900
+	}
+}
+plane_number_900  = {
+	has_deployed_air_force_size = {
+		size > 899
+	}
+	has_deployed_air_force_size = {
+		size < 901
+	}
+}
+plane_number_901  = {
+	has_deployed_air_force_size = {
+		size > 900
+	}
+	has_deployed_air_force_size = {
+		size < 902
+	}
+}
+plane_number_902  = {
+	has_deployed_air_force_size = {
+		size > 901
+	}
+	has_deployed_air_force_size = {
+		size < 903
+	}
+}
+plane_number_903  = {
+	has_deployed_air_force_size = {
+		size > 902
+	}
+	has_deployed_air_force_size = {
+		size < 904
+	}
+}
+plane_number_904  = {
+	has_deployed_air_force_size = {
+		size > 903
+	}
+	has_deployed_air_force_size = {
+		size < 905
+	}
+}
+plane_number_905  = {
+	has_deployed_air_force_size = {
+		size > 904
+	}
+	has_deployed_air_force_size = {
+		size < 906
+	}
+}
+plane_number_906  = {
+	has_deployed_air_force_size = {
+		size > 905
+	}
+	has_deployed_air_force_size = {
+		size < 907
+	}
+}
+plane_number_907  = {
+	has_deployed_air_force_size = {
+		size > 906
+	}
+	has_deployed_air_force_size = {
+		size < 908
+	}
+}
+plane_number_908  = {
+	has_deployed_air_force_size = {
+		size > 907
+	}
+	has_deployed_air_force_size = {
+		size < 909
+	}
+}
+plane_number_909  = {
+	has_deployed_air_force_size = {
+		size > 908
+	}
+	has_deployed_air_force_size = {
+		size < 910
+	}
+}
+plane_number_910  = {
+	has_deployed_air_force_size = {
+		size > 909
+	}
+	has_deployed_air_force_size = {
+		size < 911
+	}
+}
+plane_number_911  = {
+	has_deployed_air_force_size = {
+		size > 910
+	}
+	has_deployed_air_force_size = {
+		size < 912
+	}
+}
+plane_number_912  = {
+	has_deployed_air_force_size = {
+		size > 911
+	}
+	has_deployed_air_force_size = {
+		size < 913
+	}
+}
+plane_number_913  = {
+	has_deployed_air_force_size = {
+		size > 912
+	}
+	has_deployed_air_force_size = {
+		size < 914
+	}
+}
+plane_number_914  = {
+	has_deployed_air_force_size = {
+		size > 913
+	}
+	has_deployed_air_force_size = {
+		size < 915
+	}
+}
+plane_number_915  = {
+	has_deployed_air_force_size = {
+		size > 914
+	}
+	has_deployed_air_force_size = {
+		size < 916
+	}
+}
+plane_number_916  = {
+	has_deployed_air_force_size = {
+		size > 915
+	}
+	has_deployed_air_force_size = {
+		size < 917
+	}
+}
+plane_number_917  = {
+	has_deployed_air_force_size = {
+		size > 916
+	}
+	has_deployed_air_force_size = {
+		size < 918
+	}
+}
+plane_number_918  = {
+	has_deployed_air_force_size = {
+		size > 917
+	}
+	has_deployed_air_force_size = {
+		size < 919
+	}
+}
+plane_number_919  = {
+	has_deployed_air_force_size = {
+		size > 918
+	}
+	has_deployed_air_force_size = {
+		size < 920
+	}
+}
+plane_number_920  = {
+	has_deployed_air_force_size = {
+		size > 919
+	}
+	has_deployed_air_force_size = {
+		size < 921
+	}
+}
+plane_number_921  = {
+	has_deployed_air_force_size = {
+		size > 920
+	}
+	has_deployed_air_force_size = {
+		size < 922
+	}
+}
+plane_number_922  = {
+	has_deployed_air_force_size = {
+		size > 921
+	}
+	has_deployed_air_force_size = {
+		size < 923
+	}
+}
+plane_number_923  = {
+	has_deployed_air_force_size = {
+		size > 922
+	}
+	has_deployed_air_force_size = {
+		size < 924
+	}
+}
+plane_number_924  = {
+	has_deployed_air_force_size = {
+		size > 923
+	}
+	has_deployed_air_force_size = {
+		size < 925
+	}
+}
+plane_number_925  = {
+	has_deployed_air_force_size = {
+		size > 924
+	}
+	has_deployed_air_force_size = {
+		size < 926
+	}
+}
+plane_number_926  = {
+	has_deployed_air_force_size = {
+		size > 925
+	}
+	has_deployed_air_force_size = {
+		size < 927
+	}
+}
+plane_number_927  = {
+	has_deployed_air_force_size = {
+		size > 926
+	}
+	has_deployed_air_force_size = {
+		size < 928
+	}
+}
+plane_number_928  = {
+	has_deployed_air_force_size = {
+		size > 927
+	}
+	has_deployed_air_force_size = {
+		size < 929
+	}
+}
+plane_number_929  = {
+	has_deployed_air_force_size = {
+		size > 928
+	}
+	has_deployed_air_force_size = {
+		size < 930
+	}
+}
+plane_number_930  = {
+	has_deployed_air_force_size = {
+		size > 929
+	}
+	has_deployed_air_force_size = {
+		size < 931
+	}
+}
+plane_number_931  = {
+	has_deployed_air_force_size = {
+		size > 930
+	}
+	has_deployed_air_force_size = {
+		size < 932
+	}
+}
+plane_number_932  = {
+	has_deployed_air_force_size = {
+		size > 931
+	}
+	has_deployed_air_force_size = {
+		size < 933
+	}
+}
+plane_number_933  = {
+	has_deployed_air_force_size = {
+		size > 932
+	}
+	has_deployed_air_force_size = {
+		size < 934
+	}
+}
+plane_number_934  = {
+	has_deployed_air_force_size = {
+		size > 933
+	}
+	has_deployed_air_force_size = {
+		size < 935
+	}
+}
+plane_number_935  = {
+	has_deployed_air_force_size = {
+		size > 934
+	}
+	has_deployed_air_force_size = {
+		size < 936
+	}
+}
+plane_number_936  = {
+	has_deployed_air_force_size = {
+		size > 935
+	}
+	has_deployed_air_force_size = {
+		size < 937
+	}
+}
+plane_number_937  = {
+	has_deployed_air_force_size = {
+		size > 936
+	}
+	has_deployed_air_force_size = {
+		size < 938
+	}
+}
+plane_number_938  = {
+	has_deployed_air_force_size = {
+		size > 937
+	}
+	has_deployed_air_force_size = {
+		size < 939
+	}
+}
+plane_number_939  = {
+	has_deployed_air_force_size = {
+		size > 938
+	}
+	has_deployed_air_force_size = {
+		size < 940
+	}
+}
+plane_number_940  = {
+	has_deployed_air_force_size = {
+		size > 939
+	}
+	has_deployed_air_force_size = {
+		size < 941
+	}
+}
+plane_number_941  = {
+	has_deployed_air_force_size = {
+		size > 940
+	}
+	has_deployed_air_force_size = {
+		size < 942
+	}
+}
+plane_number_942  = {
+	has_deployed_air_force_size = {
+		size > 941
+	}
+	has_deployed_air_force_size = {
+		size < 943
+	}
+}
+plane_number_943  = {
+	has_deployed_air_force_size = {
+		size > 942
+	}
+	has_deployed_air_force_size = {
+		size < 944
+	}
+}
+plane_number_944  = {
+	has_deployed_air_force_size = {
+		size > 943
+	}
+	has_deployed_air_force_size = {
+		size < 945
+	}
+}
+plane_number_945  = {
+	has_deployed_air_force_size = {
+		size > 944
+	}
+	has_deployed_air_force_size = {
+		size < 946
+	}
+}
+plane_number_946  = {
+	has_deployed_air_force_size = {
+		size > 945
+	}
+	has_deployed_air_force_size = {
+		size < 947
+	}
+}
+plane_number_947  = {
+	has_deployed_air_force_size = {
+		size > 946
+	}
+	has_deployed_air_force_size = {
+		size < 948
+	}
+}
+plane_number_948  = {
+	has_deployed_air_force_size = {
+		size > 947
+	}
+	has_deployed_air_force_size = {
+		size < 949
+	}
+}
+plane_number_949  = {
+	has_deployed_air_force_size = {
+		size > 948
+	}
+	has_deployed_air_force_size = {
+		size < 950
+	}
+}
+plane_number_950  = {
+	has_deployed_air_force_size = {
+		size > 949
+	}
+	has_deployed_air_force_size = {
+		size < 951
+	}
+}
+plane_number_951  = {
+	has_deployed_air_force_size = {
+		size > 950
+	}
+	has_deployed_air_force_size = {
+		size < 952
+	}
+}
+plane_number_952  = {
+	has_deployed_air_force_size = {
+		size > 951
+	}
+	has_deployed_air_force_size = {
+		size < 953
+	}
+}
+plane_number_953  = {
+	has_deployed_air_force_size = {
+		size > 952
+	}
+	has_deployed_air_force_size = {
+		size < 954
+	}
+}
+plane_number_954  = {
+	has_deployed_air_force_size = {
+		size > 953
+	}
+	has_deployed_air_force_size = {
+		size < 955
+	}
+}
+plane_number_955  = {
+	has_deployed_air_force_size = {
+		size > 954
+	}
+	has_deployed_air_force_size = {
+		size < 956
+	}
+}
+plane_number_956  = {
+	has_deployed_air_force_size = {
+		size > 955
+	}
+	has_deployed_air_force_size = {
+		size < 957
+	}
+}
+plane_number_957  = {
+	has_deployed_air_force_size = {
+		size > 956
+	}
+	has_deployed_air_force_size = {
+		size < 958
+	}
+}
+plane_number_958  = {
+	has_deployed_air_force_size = {
+		size > 957
+	}
+	has_deployed_air_force_size = {
+		size < 959
+	}
+}
+plane_number_959  = {
+	has_deployed_air_force_size = {
+		size > 958
+	}
+	has_deployed_air_force_size = {
+		size < 960
+	}
+}
+plane_number_960  = {
+	has_deployed_air_force_size = {
+		size > 959
+	}
+	has_deployed_air_force_size = {
+		size < 961
+	}
+}
+plane_number_961  = {
+	has_deployed_air_force_size = {
+		size > 960
+	}
+	has_deployed_air_force_size = {
+		size < 962
+	}
+}
+plane_number_962  = {
+	has_deployed_air_force_size = {
+		size > 961
+	}
+	has_deployed_air_force_size = {
+		size < 963
+	}
+}
+plane_number_963  = {
+	has_deployed_air_force_size = {
+		size > 962
+	}
+	has_deployed_air_force_size = {
+		size < 964
+	}
+}
+plane_number_964  = {
+	has_deployed_air_force_size = {
+		size > 963
+	}
+	has_deployed_air_force_size = {
+		size < 965
+	}
+}
+plane_number_965  = {
+	has_deployed_air_force_size = {
+		size > 964
+	}
+	has_deployed_air_force_size = {
+		size < 966
+	}
+}
+plane_number_966  = {
+	has_deployed_air_force_size = {
+		size > 965
+	}
+	has_deployed_air_force_size = {
+		size < 967
+	}
+}
+plane_number_967  = {
+	has_deployed_air_force_size = {
+		size > 966
+	}
+	has_deployed_air_force_size = {
+		size < 968
+	}
+}
+plane_number_968  = {
+	has_deployed_air_force_size = {
+		size > 967
+	}
+	has_deployed_air_force_size = {
+		size < 969
+	}
+}
+plane_number_969  = {
+	has_deployed_air_force_size = {
+		size > 968
+	}
+	has_deployed_air_force_size = {
+		size < 970
+	}
+}
+plane_number_970  = {
+	has_deployed_air_force_size = {
+		size > 969
+	}
+	has_deployed_air_force_size = {
+		size < 971
+	}
+}
+plane_number_971  = {
+	has_deployed_air_force_size = {
+		size > 970
+	}
+	has_deployed_air_force_size = {
+		size < 972
+	}
+}
+plane_number_972  = {
+	has_deployed_air_force_size = {
+		size > 971
+	}
+	has_deployed_air_force_size = {
+		size < 973
+	}
+}
+plane_number_973  = {
+	has_deployed_air_force_size = {
+		size > 972
+	}
+	has_deployed_air_force_size = {
+		size < 974
+	}
+}
+plane_number_974  = {
+	has_deployed_air_force_size = {
+		size > 973
+	}
+	has_deployed_air_force_size = {
+		size < 975
+	}
+}
+plane_number_975  = {
+	has_deployed_air_force_size = {
+		size > 974
+	}
+	has_deployed_air_force_size = {
+		size < 976
+	}
+}
+plane_number_976  = {
+	has_deployed_air_force_size = {
+		size > 975
+	}
+	has_deployed_air_force_size = {
+		size < 977
+	}
+}
+plane_number_977  = {
+	has_deployed_air_force_size = {
+		size > 976
+	}
+	has_deployed_air_force_size = {
+		size < 978
+	}
+}
+plane_number_978  = {
+	has_deployed_air_force_size = {
+		size > 977
+	}
+	has_deployed_air_force_size = {
+		size < 979
+	}
+}
+plane_number_979  = {
+	has_deployed_air_force_size = {
+		size > 978
+	}
+	has_deployed_air_force_size = {
+		size < 980
+	}
+}
+plane_number_980  = {
+	has_deployed_air_force_size = {
+		size > 979
+	}
+	has_deployed_air_force_size = {
+		size < 981
+	}
+}
+plane_number_981  = {
+	has_deployed_air_force_size = {
+		size > 980
+	}
+	has_deployed_air_force_size = {
+		size < 982
+	}
+}
+plane_number_982  = {
+	has_deployed_air_force_size = {
+		size > 981
+	}
+	has_deployed_air_force_size = {
+		size < 983
+	}
+}
+plane_number_983  = {
+	has_deployed_air_force_size = {
+		size > 982
+	}
+	has_deployed_air_force_size = {
+		size < 984
+	}
+}
+plane_number_984  = {
+	has_deployed_air_force_size = {
+		size > 983
+	}
+	has_deployed_air_force_size = {
+		size < 985
+	}
+}
+plane_number_985  = {
+	has_deployed_air_force_size = {
+		size > 984
+	}
+	has_deployed_air_force_size = {
+		size < 986
+	}
+}
+plane_number_986  = {
+	has_deployed_air_force_size = {
+		size > 985
+	}
+	has_deployed_air_force_size = {
+		size < 987
+	}
+}
+plane_number_987  = {
+	has_deployed_air_force_size = {
+		size > 986
+	}
+	has_deployed_air_force_size = {
+		size < 988
+	}
+}
+plane_number_988  = {
+	has_deployed_air_force_size = {
+		size > 987
+	}
+	has_deployed_air_force_size = {
+		size < 989
+	}
+}
+plane_number_989  = {
+	has_deployed_air_force_size = {
+		size > 988
+	}
+	has_deployed_air_force_size = {
+		size < 990
+	}
+}
+plane_number_990  = {
+	has_deployed_air_force_size = {
+		size > 989
+	}
+	has_deployed_air_force_size = {
+		size < 991
+	}
+}
+plane_number_991  = {
+	has_deployed_air_force_size = {
+		size > 990
+	}
+	has_deployed_air_force_size = {
+		size < 992
+	}
+}
+plane_number_992  = {
+	has_deployed_air_force_size = {
+		size > 991
+	}
+	has_deployed_air_force_size = {
+		size < 993
+	}
+}
+plane_number_993  = {
+	has_deployed_air_force_size = {
+		size > 992
+	}
+	has_deployed_air_force_size = {
+		size < 994
+	}
+}
+plane_number_994  = {
+	has_deployed_air_force_size = {
+		size > 993
+	}
+	has_deployed_air_force_size = {
+		size < 995
+	}
+}
+plane_number_995  = {
+	has_deployed_air_force_size = {
+		size > 994
+	}
+	has_deployed_air_force_size = {
+		size < 996
+	}
+}
+plane_number_996  = {
+	has_deployed_air_force_size = {
+		size > 995
+	}
+	has_deployed_air_force_size = {
+		size < 997
+	}
+}
+plane_number_997  = {
+	has_deployed_air_force_size = {
+		size > 996
+	}
+	has_deployed_air_force_size = {
+		size < 998
+	}
+}
+plane_number_998  = {
+	has_deployed_air_force_size = {
+		size > 997
+	}
+	has_deployed_air_force_size = {
+		size < 999
+	}
+}
+plane_number_999  = {
+	has_deployed_air_force_size = {
+		size > 998
+	}
+	has_deployed_air_force_size = {
+		size < 1000
+	}
+}
+plane_number_1000  = {
+	has_deployed_air_force_size = {
+		size > 999
+	}
+	has_deployed_air_force_size = {
+		size < 1001
+	}
+}

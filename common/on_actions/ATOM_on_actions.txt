@@ -49247,6 +49247,10008 @@ on_actions = {
 			}
 
 
+			#PLANES COST
+			if = {
+				limit = {
+					plane_number_1 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 3
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_2 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 6
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_3 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 9
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_4 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 12
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_5 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 15
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_6 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 18
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_7 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 21
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_8 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 24
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_9 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 27
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_10 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 30
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_11 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 33
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_12 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 36
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_13 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 39
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_14 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 42
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_15 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 45
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_16 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 48
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_17 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 51
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_18 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 54
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_19 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 57
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_20 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 60
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_21 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 63
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_22 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 66
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_23 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 69
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_24 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 72
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_25 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 75
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_26 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 78
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_27 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 81
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_28 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 84
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_29 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 87
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_30 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 90
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_31 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 93
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_32 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 96
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_33 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 99
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_34 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 102
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_35 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 105
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_36 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 108
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_37 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 111
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_38 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 114
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_39 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 117
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_40 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 120
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_41 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 123
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_42 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 126
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_43 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 129
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_44 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 132
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_45 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 135
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_46 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 138
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_47 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 141
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_48 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 144
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_49 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 147
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_50 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 150
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_51 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 153
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_52 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 156
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_53 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 159
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_54 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 162
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_55 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 165
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_56 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 168
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_57 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 171
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_58 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 174
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_59 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 177
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_60 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 180
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_61 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 183
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_62 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 186
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_63 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 189
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_64 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 192
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_65 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 195
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_66 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 198
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_67 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 201
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_68 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 204
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_69 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 207
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_70 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 210
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_71 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 213
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_72 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 216
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_73 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 219
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_74 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 222
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_75 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 225
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_76 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 228
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_77 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 231
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_78 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 234
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_79 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 237
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_80 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 240
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_81 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 243
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_82 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 246
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_83 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 249
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_84 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 252
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_85 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 255
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_86 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 258
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_87 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 261
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_88 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 264
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_89 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 267
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_90 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 270
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_91 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 273
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_92 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 276
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_93 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 279
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_94 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 282
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_95 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 285
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_96 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 288
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_97 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 291
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_98 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 294
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_99 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 297
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_100 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 300
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_101 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 303
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_102 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 306
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_103 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 309
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_104 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 312
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_105 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 315
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_106 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 318
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_107 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 321
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_108 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 324
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_109 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 327
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_110 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 330
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_111 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 333
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_112 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 336
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_113 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 339
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_114 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 342
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_115 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 345
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_116 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 348
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_117 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 351
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_118 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 354
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_119 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 357
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_120 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 360
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_121 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 363
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_122 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 366
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_123 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 369
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_124 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 372
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_125 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 375
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_126 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 378
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_127 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 381
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_128 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 384
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_129 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 387
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_130 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 390
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_131 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 393
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_132 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 396
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_133 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 399
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_134 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 402
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_135 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 405
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_136 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 408
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_137 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 411
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_138 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 414
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_139 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 417
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_140 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 420
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_141 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 423
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_142 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 426
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_143 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 429
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_144 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 432
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_145 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 435
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_146 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 438
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_147 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 441
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_148 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 444
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_149 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 447
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_150 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 450
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_151 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 453
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_152 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 456
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_153 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 459
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_154 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 462
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_155 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 465
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_156 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 468
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_157 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 471
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_158 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 474
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_159 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 477
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_160 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 480
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_161 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 483
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_162 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 486
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_163 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 489
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_164 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 492
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_165 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 495
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_166 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 498
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_167 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 501
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_168 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 504
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_169 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 507
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_170 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 510
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_171 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 513
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_172 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 516
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_173 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 519
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_174 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 522
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_175 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 525
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_176 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 528
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_177 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 531
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_178 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 534
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_179 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 537
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_180 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 540
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_181 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 543
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_182 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 546
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_183 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 549
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_184 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 552
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_185 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 555
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_186 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 558
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_187 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 561
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_188 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 564
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_189 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 567
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_190 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 570
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_191 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 573
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_192 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 576
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_193 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 579
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_194 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 582
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_195 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 585
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_196 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 588
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_197 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 591
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_198 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 594
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_199 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 597
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_200 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 600
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_201 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 603
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_202 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 606
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_203 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 609
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_204 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 612
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_205 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 615
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_206 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 618
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_207 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 621
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_208 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 624
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_209 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 627
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_210 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 630
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_211 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 633
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_212 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 636
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_213 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 639
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_214 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 642
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_215 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 645
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_216 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 648
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_217 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 651
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_218 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 654
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_219 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 657
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_220 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 660
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_221 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 663
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_222 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 666
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_223 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 669
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_224 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 672
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_225 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 675
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_226 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 678
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_227 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 681
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_228 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 684
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_229 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 687
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_230 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 690
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_231 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 693
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_232 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 696
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_233 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 699
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_234 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 702
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_235 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 705
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_236 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 708
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_237 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 711
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_238 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 714
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_239 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 717
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_240 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 720
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_241 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 723
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_242 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 726
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_243 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 729
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_244 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 732
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_245 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 735
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_246 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 738
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_247 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 741
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_248 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 744
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_249 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 747
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_250 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 750
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_251 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 753
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_252 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 756
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_253 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 759
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_254 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 762
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_255 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 765
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_256 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 768
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_257 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 771
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_258 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 774
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_259 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 777
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_260 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 780
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_261 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 783
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_262 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 786
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_263 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 789
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_264 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 792
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_265 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 795
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_266 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 798
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_267 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 801
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_268 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 804
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_269 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 807
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_270 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 810
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_271 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 813
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_272 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 816
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_273 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 819
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_274 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 822
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_275 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 825
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_276 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 828
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_277 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 831
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_278 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 834
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_279 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 837
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_280 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 840
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_281 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 843
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_282 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 846
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_283 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 849
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_284 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 852
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_285 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 855
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_286 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 858
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_287 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 861
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_288 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 864
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_289 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 867
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_290 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 870
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_291 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 873
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_292 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 876
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_293 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 879
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_294 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 882
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_295 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 885
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_296 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 888
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_297 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 891
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_298 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 894
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_299 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 897
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_300 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 900
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_301 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 903
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_302 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 906
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_303 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 909
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_304 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 912
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_305 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 915
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_306 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 918
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_307 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 921
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_308 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 924
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_309 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 927
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_310 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 930
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_311 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 933
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_312 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 936
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_313 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 939
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_314 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 942
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_315 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 945
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_316 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 948
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_317 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 951
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_318 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 954
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_319 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 957
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_320 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 960
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_321 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 963
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_322 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 966
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_323 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 969
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_324 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 972
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_325 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 975
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_326 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 978
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_327 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 981
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_328 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 984
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_329 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 987
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_330 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 990
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_331 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 993
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_332 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 996
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_333 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 999
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_334 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1002
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_335 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1005
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_336 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1008
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_337 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1011
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_338 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1014
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_339 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1017
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_340 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1020
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_341 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1023
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_342 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1026
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_343 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1029
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_344 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1032
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_345 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1035
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_346 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1038
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_347 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1041
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_348 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1044
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_349 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1047
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_350 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1050
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_351 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1053
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_352 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1056
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_353 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1059
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_354 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1062
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_355 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1065
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_356 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1068
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_357 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1071
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_358 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1074
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_359 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1077
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_360 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1080
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_361 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1083
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_362 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1086
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_363 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1089
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_364 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1092
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_365 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1095
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_366 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1098
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_367 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1101
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_368 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1104
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_369 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1107
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_370 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1110
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_371 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1113
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_372 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1116
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_373 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1119
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_374 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1122
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_375 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1125
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_376 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1128
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_377 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1131
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_378 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1134
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_379 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1137
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_380 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1140
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_381 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1143
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_382 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1146
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_383 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1149
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_384 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1152
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_385 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1155
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_386 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1158
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_387 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1161
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_388 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1164
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_389 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1167
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_390 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1170
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_391 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1173
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_392 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1176
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_393 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1179
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_394 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1182
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_395 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1185
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_396 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1188
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_397 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1191
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_398 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1194
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_399 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1197
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_400 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1200
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_401 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1203
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_402 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1206
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_403 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1209
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_404 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1212
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_405 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1215
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_406 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1218
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_407 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1221
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_408 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1224
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_409 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1227
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_410 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1230
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_411 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1233
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_412 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1236
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_413 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1239
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_414 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1242
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_415 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1245
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_416 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1248
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_417 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1251
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_418 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1254
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_419 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1257
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_420 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1260
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_421 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1263
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_422 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1266
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_423 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1269
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_424 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1272
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_425 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1275
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_426 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1278
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_427 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1281
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_428 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1284
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_429 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1287
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_430 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1290
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_431 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1293
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_432 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1296
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_433 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1299
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_434 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1302
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_435 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1305
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_436 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1308
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_437 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1311
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_438 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1314
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_439 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1317
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_440 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1320
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_441 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1323
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_442 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1326
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_443 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1329
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_444 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1332
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_445 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1335
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_446 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1338
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_447 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1341
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_448 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1344
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_449 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1347
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_450 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1350
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_451 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1353
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_452 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1356
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_453 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1359
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_454 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1362
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_455 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1365
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_456 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1368
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_457 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1371
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_458 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1374
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_459 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1377
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_460 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1380
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_461 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1383
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_462 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1386
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_463 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1389
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_464 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1392
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_465 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1395
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_466 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1398
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_467 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1401
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_468 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1404
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_469 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1407
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_470 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1410
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_471 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1413
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_472 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1416
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_473 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1419
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_474 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1422
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_475 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1425
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_476 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1428
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_477 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1431
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_478 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1434
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_479 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1437
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_480 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1440
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_481 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1443
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_482 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1446
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_483 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1449
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_484 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1452
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_485 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1455
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_486 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1458
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_487 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1461
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_488 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1464
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_489 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1467
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_490 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1470
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_491 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1473
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_492 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1476
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_493 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1479
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_494 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1482
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_495 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1485
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_496 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1488
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_497 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1491
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_498 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1494
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_499 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1497
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_500 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1500
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_501 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1503
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_502 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1506
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_503 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1509
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_504 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1512
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_505 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1515
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_506 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1518
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_507 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1521
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_508 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1524
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_509 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1527
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_510 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1530
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_511 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1533
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_512 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1536
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_513 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1539
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_514 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1542
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_515 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1545
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_516 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1548
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_517 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1551
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_518 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1554
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_519 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1557
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_520 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1560
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_521 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1563
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_522 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1566
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_523 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1569
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_524 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1572
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_525 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1575
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_526 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1578
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_527 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1581
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_528 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1584
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_529 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1587
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_530 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1590
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_531 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1593
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_532 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1596
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_533 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1599
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_534 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1602
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_535 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1605
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_536 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1608
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_537 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1611
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_538 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1614
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_539 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1617
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_540 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1620
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_541 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1623
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_542 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1626
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_543 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1629
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_544 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1632
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_545 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1635
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_546 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1638
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_547 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1641
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_548 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1644
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_549 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1647
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_550 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1650
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_551 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1653
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_552 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1656
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_553 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1659
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_554 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1662
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_555 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1665
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_556 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1668
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_557 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1671
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_558 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1674
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_559 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1677
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_560 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1680
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_561 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1683
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_562 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1686
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_563 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1689
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_564 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1692
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_565 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1695
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_566 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1698
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_567 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1701
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_568 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1704
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_569 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1707
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_570 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1710
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_571 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1713
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_572 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1716
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_573 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1719
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_574 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1722
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_575 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1725
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_576 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1728
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_577 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1731
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_578 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1734
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_579 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1737
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_580 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1740
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_581 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1743
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_582 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1746
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_583 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1749
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_584 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1752
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_585 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1755
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_586 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1758
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_587 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1761
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_588 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1764
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_589 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1767
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_590 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1770
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_591 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1773
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_592 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1776
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_593 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1779
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_594 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1782
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_595 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1785
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_596 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1788
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_597 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1791
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_598 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1794
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_599 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1797
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_600 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1800
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_601 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1803
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_602 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1806
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_603 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1809
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_604 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1812
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_605 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1815
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_606 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1818
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_607 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1821
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_608 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1824
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_609 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1827
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_610 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1830
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_611 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1833
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_612 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1836
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_613 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1839
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_614 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1842
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_615 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1845
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_616 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1848
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_617 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1851
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_618 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1854
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_619 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1857
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_620 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1860
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_621 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1863
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_622 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1866
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_623 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1869
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_624 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1872
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_625 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1875
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_626 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1878
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_627 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1881
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_628 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1884
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_629 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1887
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_630 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1890
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_631 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1893
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_632 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1896
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_633 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1899
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_634 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1902
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_635 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1905
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_636 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1908
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_637 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1911
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_638 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1914
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_639 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1917
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_640 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1920
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_641 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1923
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_642 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1926
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_643 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1929
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_644 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1932
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_645 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1935
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_646 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1938
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_647 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1941
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_648 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1944
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_649 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1947
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_650 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1950
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_651 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1953
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_652 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1956
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_653 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1959
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_654 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1962
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_655 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1965
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_656 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1968
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_657 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1971
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_658 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1974
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_659 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1977
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_660 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1980
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_661 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1983
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_662 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1986
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_663 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1989
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_664 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1992
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_665 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1995
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_666 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 1998
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_667 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2001
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_668 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2004
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_669 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2007
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_670 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2010
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_671 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2013
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_672 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2016
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_673 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2019
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_674 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2022
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_675 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2025
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_676 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2028
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_677 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2031
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_678 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2034
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_679 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2037
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_680 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2040
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_681 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2043
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_682 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2046
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_683 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2049
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_684 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2052
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_685 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2055
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_686 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2058
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_687 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2061
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_688 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2064
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_689 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2067
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_690 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2070
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_691 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2073
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_692 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2076
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_693 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2079
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_694 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2082
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_695 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2085
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_696 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2088
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_697 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2091
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_698 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2094
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_699 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2097
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_700 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2100
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_701 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2103
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_702 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2106
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_703 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2109
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_704 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2112
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_705 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2115
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_706 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2118
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_707 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2121
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_708 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2124
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_709 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2127
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_710 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2130
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_711 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2133
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_712 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2136
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_713 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2139
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_714 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2142
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_715 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2145
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_716 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2148
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_717 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2151
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_718 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2154
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_719 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2157
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_720 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2160
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_721 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2163
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_722 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2166
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_723 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2169
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_724 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2172
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_725 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2175
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_726 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2178
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_727 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2181
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_728 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2184
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_729 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2187
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_730 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2190
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_731 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2193
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_732 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2196
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_733 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2199
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_734 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2202
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_735 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2205
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_736 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2208
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_737 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2211
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_738 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2214
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_739 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2217
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_740 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2220
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_741 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2223
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_742 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2226
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_743 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2229
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_744 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2232
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_745 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2235
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_746 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2238
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_747 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2241
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_748 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2244
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_749 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2247
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_750 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2250
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_751 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2253
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_752 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2256
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_753 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2259
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_754 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2262
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_755 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2265
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_756 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2268
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_757 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2271
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_758 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2274
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_759 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2277
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_760 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2280
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_761 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2283
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_762 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2286
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_763 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2289
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_764 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2292
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_765 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2295
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_766 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2298
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_767 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2301
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_768 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2304
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_769 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2307
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_770 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2310
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_771 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2313
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_772 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2316
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_773 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2319
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_774 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2322
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_775 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2325
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_776 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2328
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_777 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2331
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_778 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2334
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_779 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2337
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_780 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2340
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_781 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2343
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_782 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2346
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_783 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2349
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_784 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2352
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_785 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2355
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_786 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2358
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_787 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2361
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_788 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2364
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_789 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2367
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_790 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2370
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_791 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2373
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_792 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2376
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_793 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2379
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_794 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2382
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_795 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2385
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_796 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2388
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_797 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2391
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_798 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2394
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_799 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2397
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_800 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2400
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_801 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2403
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_802 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2406
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_803 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2409
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_804 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2412
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_805 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2415
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_806 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2418
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_807 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2421
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_808 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2424
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_809 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2427
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_810 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2430
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_811 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2433
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_812 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2436
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_813 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2439
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_814 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2442
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_815 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2445
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_816 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2448
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_817 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2451
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_818 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2454
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_819 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2457
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_820 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2460
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_821 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2463
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_822 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2466
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_823 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2469
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_824 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2472
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_825 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2475
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_826 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2478
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_827 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2481
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_828 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2484
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_829 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2487
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_830 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2490
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_831 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2493
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_832 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2496
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_833 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2499
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_834 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2502
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_835 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2505
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_836 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2508
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_837 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2511
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_838 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2514
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_839 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2517
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_840 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2520
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_841 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2523
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_842 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2526
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_843 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2529
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_844 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2532
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_845 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2535
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_846 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2538
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_847 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2541
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_848 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2544
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_849 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2547
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_850 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2550
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_851 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2553
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_852 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2556
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_853 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2559
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_854 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2562
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_855 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2565
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_856 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2568
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_857 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2571
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_858 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2574
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_859 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2577
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_860 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2580
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_861 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2583
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_862 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2586
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_863 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2589
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_864 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2592
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_865 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2595
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_866 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2598
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_867 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2601
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_868 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2604
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_869 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2607
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_870 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2610
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_871 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2613
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_872 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2616
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_873 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2619
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_874 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2622
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_875 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2625
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_876 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2628
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_877 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2631
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_878 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2634
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_879 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2637
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_880 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2640
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_881 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2643
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_882 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2646
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_883 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2649
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_884 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2652
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_885 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2655
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_886 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2658
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_887 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2661
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_888 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2664
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_889 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2667
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_890 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2670
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_891 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2673
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_892 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2676
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_893 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2679
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_894 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2682
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_895 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2685
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_896 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2688
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_897 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2691
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_898 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2694
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_899 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2697
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_900 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2700
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_901 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2703
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_902 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2706
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_903 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2709
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_904 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2712
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_905 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2715
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_906 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2718
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_907 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2721
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_908 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2724
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_909 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2727
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_910 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2730
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_911 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2733
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_912 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2736
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_913 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2739
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_914 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2742
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_915 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2745
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_916 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2748
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_917 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2751
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_918 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2754
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_919 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2757
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_920 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2760
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_921 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2763
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_922 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2766
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_923 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2769
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_924 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2772
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_925 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2775
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_926 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2778
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_927 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2781
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_928 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2784
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_929 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2787
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_930 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2790
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_931 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2793
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_932 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2796
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_933 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2799
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_934 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2802
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_935 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2805
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_936 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2808
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_937 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2811
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_938 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2814
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_939 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2817
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_940 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2820
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_941 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2823
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_942 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2826
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_943 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2829
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_944 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2832
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_945 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2835
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_946 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2838
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_947 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2841
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_948 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2844
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_949 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2847
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_950 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2850
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_951 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2853
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_952 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2856
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_953 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2859
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_954 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2862
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_955 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2865
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_956 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2868
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_957 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2871
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_958 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2874
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_959 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2877
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_960 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2880
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_961 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2883
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_962 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2886
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_963 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2889
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_964 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2892
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_965 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2895
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_966 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2898
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_967 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2901
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_968 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2904
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_969 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2907
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_970 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2910
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_971 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2913
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_972 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2916
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_973 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2919
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_974 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2922
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_975 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2925
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_976 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2928
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_977 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2931
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_978 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2934
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_979 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2937
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_980 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2940
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_981 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2943
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_982 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2946
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_983 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2949
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_984 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2952
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_985 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2955
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_986 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2958
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_987 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2961
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_988 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2964
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_989 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2967
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_990 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2970
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_991 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2973
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_992 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2976
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_993 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2979
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_994 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2982
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_995 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2985
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_996 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2988
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_997 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2991
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_998 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2994
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_999 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 2997
+				}
+			}
+
+			if = {
+				limit = {
+					plane_number_1000 = yes
+				}
+				subtract_from_variable = {
+					var = budget
+					value = 3000
+				}
+			}
+
+
 			#FORTS COST
 			if = {
 				limit = {

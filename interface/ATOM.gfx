@@ -348,4 +348,167 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
 		alwaystransparent = yes			
 	}
+
+	#POLITICS TAB
+	#NEW SLOTS AND IDEAS
+	SpriteType = {
+		name = "GFX_idea_traits_strip"
+		texturefile = "gfx/interface/ideas/idea_traits_strip.dds"
+		noOfFrames = 14		
+	}
+	
+	spriteType = {
+		name = "GFX_idea_categories"
+		texturefile = "gfx/interface/idea_categories.dds"
+		noOfFrames = 8
+	}
+
+	spriteType = {
+		name = "GFX_idea_slot_head_of_state"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_minister_of_defense"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_foreign_minister"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_interior_minister"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_intel_minister"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_economic_minister"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_security_minister"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_propaganda_minister"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_slot_political_advisor"
+		textureFile = "gfx/interface/idea_slot_political_advisor.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_idea_slot_supreme_commander"
+		textureFile = "gfx/interface/ideas/idea_slot_supreme_commander.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_idea_age_35"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_21.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_age_20"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_20.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_age_19"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_19.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_age_18"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_18.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_age_16"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_17.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_all_must_serve_young"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_all_young.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_age_40"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_40.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_age_50"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_50.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_age_60"
+		texturefile = "gfx/interface/ideas/manpower/idea_mp_60.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_idea_healthy_standard"
+		texturefile = "gfx/interface/ideas/manpower/idea_healthy_standards.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_loose_standard"
+		texturefile = "gfx/interface/ideas/manpower/idea_loose_standards.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_no_exemptions"
+		texturefile = "gfx/interface/ideas/manpower/idea_no_exemptions.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_idea_scraping_the_barrel_standard"
+		texturefile = "gfx/interface/ideas/manpower/idea_the_barrel.dds"
+		legacy_lazy_load = no
+	}
+
+	#New Ministers GFX
+	### France
+
+	# spriteType = {
+	# 	name = "GFX_idea_FRA_albert_lebrun_leader"
+	# 	texturefile = "gfx/leaders/FRA/idea_the_barrel.dds"
+	# 	legacy_lazy_load = no
+	# }
+	spriteType = {
+		name = "GFX_idea_FRA_albert_lebrun"
+		texturefile = "gfx/interface/ideas/FRA/FRA_lebrun.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_FRA_edouard_daladier"
+		texturefile = "gfx/interface/ideas/FRA/FRA_daladier.dds"
+		legacy_lazy_load = no
+	}
 }

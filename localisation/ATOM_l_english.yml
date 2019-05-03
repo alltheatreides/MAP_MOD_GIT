@@ -17,3 +17,41 @@
  increase_military_budget_desc:0 "I want magic money plz"
  unlock_some_funds_for_state_construction:0 "Unlock Funds for construction projects. Will cost 50M"
  division_number_value:0 "[?num_divisions]"
+
+ #Politic tab
+ ### New Ideas
+ ###### Slots
+ limited_conscription:0 "One Year Draft"
+ extensive_conscription:0 "Two Year Draft"
+ service_by_requirement:0 "Expanded Draft"
+ government:1 "Laws"
+ minimum_age_laws:0 "Recruitement Minimum Age"
+ age_20:0 "20 years old"
+ age_21:0 "21 years old"
+ age_19:0 "19 years old"
+ age_18:0 "18 years old"
+ age_17:0 "17 years old"
+ age_16:0 "16 years old"
+ age_15:0 "15 years old"
+ age_14:0 "14 years old"
+ all_must_serve_young:0 "All Must Serve"
+ maximum_age_laws:0 "Recruitement Maximum Age"
+ all_must_serve_old:0 "All Must Serve"
+ age_35:0 "35 years old"
+ age_40:0 "40 years old"
+ age_50:0 "45 years old"
+ age_60:0 "55 years old"
+ recruitment_standard_laws:0 "Service Exemption Law"
+ healthy_standard:0 "Healthy only"
+ loose_standard:0 "Loose Standards"
+ no_exemptions:0 "No Exemptions"
+ scraping_the_barrel_standard:0 "Scraping the Barrel"
+ 
+ female_do_not_fight:0 "Female Population"
+ the_15_65_bracket:0 "Children and Elderly"
+
+
+ ##### Ministers
+ ####### FRA
+ FRA_albert_lebrun:0 "Albert Lebrun"
+ FRA_edouard_daladier:0 "Edouard Daladier"

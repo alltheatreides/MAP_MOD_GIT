@@ -49,6 +49,7 @@ budget_decisions = {
 				type = industrial_complex
 				level = 5
 			}
+			set_country_flag = using_some_funds_for_construction
 		}
 
 		days_re_enable = 5
@@ -66,10 +67,12 @@ budget_decisions = {
 
 		allowed = {
 			always = yes
+			#has_country_flag = using_some_funds_for_construction
 		}
 
 		available = {
 			always = yes
+			has_country_flag = using_some_funds_for_construction
 		}
 
 		complete_effect = {
