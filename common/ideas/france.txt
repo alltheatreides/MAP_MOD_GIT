@@ -359,7 +359,7 @@ ideas = {
 			available = {
 				#blank
 			}
-			traits = { elder_statesman  }
+			traits = { center_right elder_statesman  }
 			do_effect = {
 			
 			}
@@ -370,6 +370,21 @@ ideas = {
 	}
 
 	minister_of_defense = {
+		FRA_pierre_fabry = {
+			allowed = {
+				original_tag = FRA
+			}			
+			available = {
+				#blank
+			}
+			traits = { center_right }
+			do_effect = {
+			
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
 		FRA_edouard_daladier = {
 			allowed = {
 				original_tag = FRA
@@ -377,7 +392,7 @@ ideas = {
 			available = {
 				#blank
 			}
-			traits = { silent_workhorse  }
+			traits = { center_left silent_workhorse  }
 			do_effect = {
 			
 			}
@@ -456,7 +471,21 @@ ideas = {
 			ai_will_do = {
 				factor = 0
 			}
-		}		
+		}
+		FRA_charles_tillon = {
+			allowed = {
+				original_tag = "FRA"
+			}
+			picture = generic_political_advisor_europe_3
+			traits = { armaments_organizer }
+			on_add = {
+			}
+			do_effect = {
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}	
 	}
 
 	political_advisor = {
@@ -474,10 +503,92 @@ ideas = {
 			ai_will_do = {
 				factor = 0
 			}
-		}		
+		}
+		maurice_thorez = {	
+			allowed = {
+				original_tag = "FRA"
+			}			
+			available = {
+				has_completed_focus = FRA_leftist_rhetoric
+				if = {
+					limit = { has_dlc = "Man the Guns" }	
+					NOT = { has_autonomy_state = autonomy_supervised_state }
+				}
+			}			
+			traits = { communist_revolutionary }
+			do_effect = {
+				NOT = {
+					has_government = communism
+				}
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		marcel_bucard = {			
+			allowed = {
+				original_tag = "FRA"
+			}
+			available ={
+				has_completed_focus = FRA_right_wing_rhetoric
+				if = {
+					limit = { has_dlc = "Man the Guns" }	
+					NOT = { has_autonomy_state = autonomy_supervised_state }
+				}
+			}			
+			traits = { fascist_demagogue }
+			do_effect = {
+				NOT = {
+					has_government = fascism
+				}
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}	
 	}
 		
 	# MILITARY
+	supreme_commander = {
+		de_gaulle_sc = {
+			allowed = {
+				original_tag = FRA
+			}
+			available = {
+				has_country_flag = free_france
+			}
+			traits = { supreme_com_aggressive }
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		de_tassigny_sc = {
+			allowed = {
+				original_tag = FRA
+			}
+			available = {
+				has_country_flag = free_france
+			}
+			traits = { supreme_com_organizer }
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		gamelin_sc = {
+			allowed = {
+				original_tag = FRA
+			}
+			available = {
+				NOT = { has_country_flag = free_france }
+			}
+			traits = { supreme_com_defensive }
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
 	army_chief = {
 		
 		

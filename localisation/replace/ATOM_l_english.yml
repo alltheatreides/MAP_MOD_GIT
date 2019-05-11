@@ -1,5 +1,20 @@
 ﻿l_english:
+ #IDEAS
  limited_conscription:0 "One Year Draft"
  extensive_conscription:0 "Two Year Draft"
+ #COUNTRIES
  BUL_neutrality: "Kingdom of Bulgaria"
  YUG_neutrality: "Kingdom of Yugoslavia"
+ SPR_democratic:0 "Spanish Republic"
+ SPR_democratic_DEF:0 "The Spanish Republic"
+ ITA_fascism:0 "Kingdom of Italy"
+ #POLITICS
+ IDEOLOGY:0 "Political Spectrum"
+ POLITICS_IDEOLOGY:0 "§TPolitical Spectrum: $IDEOLOGY|H$§!"
+ democratic:0 "Center"
+ fascism:0 "Far-Right"
+ communism:0 "Far-Left"
+ neutrality:0 "Right"
+ FRA_neutrality_party:0 "Alliance Démocratique"
+ FRA_democratic_party:0 "Parti Démocrate Populaire"
+

@@ -52,7 +52,7 @@ budget_decisions = {
 			set_country_flag = using_some_funds_for_construction
 		}
 
-		days_re_enable = 5
+		days_re_enable = 0
 
 		ai_will_do = {
 			factor = 1
@@ -86,7 +86,7 @@ budget_decisions = {
 			}
 		}
 
-		days_re_enable = 5
+		days_re_enable = 1
 
 		ai_will_do = {
 			factor = 1

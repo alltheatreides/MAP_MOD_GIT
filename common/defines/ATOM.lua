@@ -1,10 +1,14 @@
 NDefines.NBuildings.SUPPLY_PORT_LEVEL_THROUGHPUT = 4
+--NDefines.NCountry.
 NDefines.NCountry.SUPPLY_PATH_MAX_DISTANCE = 7
 NDefines.NCountry.REINFORCEMENT_DELIVERY_SPEED_MIN = 0.5 
 NDefines.NCountry.REINFORCEMENT_EQUIPMENT_DELIVERY_SPEED = 0.012
 NDefines.NCountry.REINFORCEMENT_MANPOWER_DELIVERY_SPEED = 80
 NDefines.NCountry.VP_TO_SUPPLY_BASE = 1
 NDefines.NBuildings.INFRA_TO_SUPPLY = 1
+NDefines.NMilitary.BASE_DIVISION_BRIGADE_GROUP_COST = 500 	--Base cost to unlock a regiment slot,
+NDefines.NMilitary.BASE_DIVISION_BRIGADE_CHANGE_COST = 500	--Base cost to change a regiment column.
+NDefines.NMilitary.BASE_DIVISION_SUPPORT_SLOT_COST = 500 	--Base cost to unlock a support slot
 NDefines.NMilitary.RECON_SKILL_IMPACT = 10
 NDefines.NMilitary.LAND_COMBAT_STR_DICE_SIZE = 3
 NDefines.NMilitary.LAND_COMBAT_STR_DAMAGE_MODIFIER = 0.075

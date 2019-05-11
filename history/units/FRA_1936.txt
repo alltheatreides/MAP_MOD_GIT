@@ -81,6 +81,9 @@ division_template = {
 		mountaineers = { x = 3 y = 1 }	# Chasseurs Alpins (HOI3 elites)
 		mountaineers = { x = 3 y = 2 }	# Chasseurs Alpins (HOI3 elites)
 	}
+	support = {
+		DIV_HQ = { x = 0 y = 0 }
+	}
 }
 division_template = {
 	name = "Division de Cavalerie" 	# Division de Cavalerie
@@ -123,6 +126,9 @@ division_template = {
 		light_armor = { x = 1 y = 0 }
 		light_armor = { x = 1 y = 1 }
 	}
+	support = {
+		DIV_HQ = { x = 0 y = 0 }
+	}
 }
 division_template = {
 	name = "Brigade Coloniale"			# Represents: 2xRgt colonial forces and , usually with old equipment
@@ -135,6 +141,9 @@ division_template = {
 		infantry = { x = 1 y = 0 }
 		infantry = { x = 1 y = 1 }
 		infantry = { x = 1 y = 2 }
+	}
+	support = {
+		DIV_HQ = { x = 0 y = 0 }
 	}
 	priority = 0
 }
@@ -1018,23 +1027,53 @@ air_wings = {
 instant_effect = {
 	add_equipment_production = {
 		equipment = {
-			type = infantry_equipment_1
+			type = small_arms_ammunition_0
 			creator = "FRA"
 		}
-		requested_factories = 2
+		requested_factories = 1
+		progress = 0.1
+		efficiency = 50
+	}
+	
+	add_equipment_production = {
+		equipment = {
+			type = shells_ammunition_0
+			creator = "FRA"
+		}
+		requested_factories = 1
 		progress = 0.1
 		efficiency = 50
 	}
 
 	add_equipment_production = {
 		equipment = {
-			type = support_equipment_1
-			creator = "FRA" 
+			type = infantry_equipment_1
+			creator = "FRA"
 		}
 		requested_factories = 1
-		progress = 0.3
+		progress = 0.1
 		efficiency = 50
 	}
+
+	add_equipment_production = {
+		equipment = {
+			type = heavy_infantry_equipment_0
+			creator = "FRA"
+		}
+		requested_factories = 1
+		progress = 0.1
+		efficiency = 50
+	}
+
+	# add_equipment_production = {
+	# 	equipment = {
+	# 		type = support_equipment_1
+	# 		creator = "FRA" 
+	# 	}
+	# 	requested_factories = 1
+	# 	progress = 0.3
+	# 	efficiency = 50
+	# }
 
 	add_equipment_production = {
 		equipment = {
@@ -1048,7 +1087,7 @@ instant_effect = {
 
 	add_equipment_production = {
 		equipment = {
-			type = light_tank_equipment_2
+			type = anti_air_equipment_1
 			creator = "FRA" 
 		}
 		requested_factories = 1
@@ -1058,12 +1097,14 @@ instant_effect = {
 
 	add_equipment_production = {
 		equipment = {
-			type = motorized_equipment_1
+			type = light_tank_equipment_2
 			creator = "FRA" 
 		}
 		requested_factories = 1
 		progress = 0.4
 		efficiency = 50
 	}
+
+	
 
 ###################

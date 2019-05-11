@@ -1,0 +1,45 @@
+﻿add_namespace = ATOM_startup
+
+#Armament Industries
+country_event = {
+	id = ATOM_startup.1
+	title = ATOM_startup.1.t
+	desc = ATOM_startup.1.desc
+	
+	is_triggered_only = yes
+	hidden = yes
+
+	immediate = {
+		hidden_effect = {
+			set_technology = {
+				the_15_65_bracket = 1
+				female_do_not_fight = 1
+			}
+		}
+	}
+
+}
+
+#Armament Industries
+# country_event = {
+# 	id = ATOM_startup.2
+# 	title = ATOM_startup.1.t
+# 	desc = ATOM_startup.1.desc
+	
+# 	is_triggered_only = yes
+# 	hidden = yes
+
+# 	immediate = {
+# 		if = {
+# 			limit = {
+# 				nationalized_tank_factory > 0
+# 				nationalized_tank_factory < 2
+# 			}
+# 		}
+# 		set_variable = {
+# 			var_num_nationalized_tank_factory = 1
+# 		}
+# 		add_dynamic_modifier = { modifier = num_nationalized_tank_factory }
+# 	}
+
+# }

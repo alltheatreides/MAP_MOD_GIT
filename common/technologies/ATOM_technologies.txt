@@ -1,16 +1,13 @@
 technologies = {
 	
-	@1918 = 0
-	@1936 = 2
-	@1938 = 4
-	@1939 = 6
-	@1940 = 8
-	@1941 = 10
-	@1942 = 12
-	@1943 = 14
-	@1944 = 16
-	@1945 = 18
-	@1946 = 20
+	#HIDDEN
+	the_15_65_bracket = {
+		conscription_factor = -0.4
+	}
+	
+	female_do_not_fight = {
+		conscription_factor = -0.3
+	}
 
 	afv_tons = {
 

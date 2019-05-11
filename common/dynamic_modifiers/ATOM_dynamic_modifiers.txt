@@ -23,3 +23,15 @@
 #
 #	can be added to countries, states or unit leaders
 #	will only updated daily, unless forced by force_update_dynamic_modifier effect
+
+
+num_nationalized_tank_factory = {
+    icon = "GFX_generic_license_production"
+    enable = { always = yes }
+
+    equipment_bonus = {
+        medium_tank_equipment = {
+            build_cost_ic = -var_num_nationalized_tank_factory instant = yes
+        }
+    }
+}

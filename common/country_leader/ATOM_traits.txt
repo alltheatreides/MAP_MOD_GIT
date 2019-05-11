@@ -1,0 +1,31 @@
+leader_traits = {
+	
+	far_left = {
+		sprite = 15
+	}
+
+	left = {
+		sprite = 16
+	}
+
+	center_left = {
+		sprite = 17
+	}
+
+	center = {
+		sprite = 18
+	}
+
+	center_right = {
+		sprite = 19
+	}
+
+	right = {
+		sprite = 20
+	}
+
+	far_right = {
+		sprite = 21
+	}
+
+}

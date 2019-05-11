@@ -140,6 +140,10 @@ if = {
 		#freedom_level = 0.35
 	}
 	set_autonomy = {
+		target = IRQ
+		autonomous_state = autonomy_unequal_treaty
+	}
+	set_autonomy = {
 		target = CAN
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.4

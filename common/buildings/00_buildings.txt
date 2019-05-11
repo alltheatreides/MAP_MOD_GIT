@@ -30,7 +30,7 @@ buildings = {
 
 	industrial_complex = {
 		show_on_map = 6
-		base_cost = 10800
+		base_cost = 108000
 		base_cost_conversion = 9000
 		general_production = 1
 		icon_frame = 1
@@ -43,6 +43,7 @@ buildings = {
 	air_base = {
 		show_on_map = 1
 		base_cost = 1250
+		per_level_extra_cost = 500
 		icon_frame = 5
 		air_base = yes
 		max_level = 10

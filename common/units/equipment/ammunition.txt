@@ -36,6 +36,7 @@ equipments = {
 		}
 		
 	}
+	
 	small_arms_ammunition_0 = {
 		archetype = small_arms_ammunition
 		active = yes

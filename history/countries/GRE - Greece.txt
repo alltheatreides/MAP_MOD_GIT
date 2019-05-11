@@ -144,20 +144,29 @@ set_convoys = 10
 set_politics = {
 
 	parties = {
+		communism = { 
+			popularity = 9.6
+		}
+		left = { 
+			popularity = 0
+		}
+		center_left = { 
+			popularity = 0
+		}
 		democratic = { 
-			popularity = 10
+			popularity = 6.9
 		}
-
-		fascism = {
-			popularity = 23
+		center_right = { 
+			popularity = 0
 		}
-		
-		communism = {
-			popularity = 2
-		}
-		
 		neutrality = { 
 			popularity = 65
+		}
+		far_right_2 = {
+			popularity = 14.8
+		}
+		fascism = { 
+			popularity = 3.7
 		}
 	}
 	
@@ -172,6 +181,17 @@ create_country_leader = {
 	name = "Ioannis Metaxas"
 	desc = "POLITICS_IOANNIS_METAXAS_DESC"
 	picture = "Portrait_Greece_Ioannis_Metaxas.dds"
+	expire = "1965.1.1"
+	ideology = far_right_2_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "George II"
+	desc = "POLITICS_GEORGE_II_DESC"
+	picture = "GRE_george_2_leader.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

@@ -38,6 +38,9 @@ set_technology = {
 	fuel_silos = 1
 	fuel_refining = 1
 	afv_tons = 1
+
+	the_15_65_bracket = 1
+	female_do_not_fight = 1
 }
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
@@ -223,20 +226,31 @@ set_convoys = 300
 set_politics = {
 
 	parties = {
+		communism = { 
+			popularity = 9.18
+		}
+		left = { 
+			popularity = 19.18
+		}
+		center_left = { 
+			popularity = 25.89
+		}
 		democratic = { 
-			popularity = 69
+			popularity = 13.21
+		}
+		center_right = { 
+			popularity = 18.79
+		}
+		neutrality = { 
+			popularity = 13.74
+		}
+		fascism = { 
+			popularity = 0
 		}
 
-		fascism = {
-			popularity = 1
-		}
-		
-		communism = {
-			popularity = 30
-		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = center_left
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -249,7 +263,7 @@ add_ideas = {
 	limited_conscription
 	#Government
 	FRA_albert_lebrun
-	FRA_edouard_daladier
+	FRA_pierre_fabry
 }
 
 #give_guarantee = CZE
@@ -267,13 +281,68 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Pierre Laval"
+	desc = "POLITICS_PIERRE_LAVAL_DESC"
+	picture = "GFX_portrait_fra_laval_leader"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Léon Blum"
+	desc = "POLITICS_LEON_BLUM_DESC"
+	picture = "GFX_portrait_fra_blum_leader"
+	expire = "1965.1.1"
+	ideology = left_type
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "André Tardieu"
+	desc = "POLITICS_ANDRE_TARDIEU_DESC"
+	picture = "GFX_portrait_fra_tardieu_leader"
+	expire = "1965.1.1"
+	ideology = center_right_type
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Louis Marin"
+	desc = "POLITICS_LOUIS_MARIN_DESC"
+	picture = "GFX_portrait_fra_marin_leader"
+	expire = "1965.1.1"
+	ideology = right_type
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
 	name = "Édouard Daladier"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
 	picture = "Portrait_France_Edouard_Daladier.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = center_left_type
 	traits = {
 		stout_defender
+	}
+}
+
+create_country_leader = {
+	name = "Albert Sarrault"
+	desc = "POLITICS_ALBERT_SARRAULT_DESC"
+	picture = "GFX_portrait_fra_sarrault_leader"
+	expire = "1965.1.1"
+	ideology = center_left_type
+	traits = {
+		
 	}
 }
 
