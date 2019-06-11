@@ -1,31 +1,44 @@
 leader_traits = {
-	
-	far_left = {
-		sprite = 15
+	hitler = {
+		random = no
+		political_power_factor = -0.25
+		ai_will_do = {
+			factor = 1
+		}
 	}
-
-	left = {
-		sprite = 16
+	k_von_neurath = { 
+		random = no 
+		political_power_factor = 0.10
+		local_resources_factor = 0.03
+		opinion_gain_monthly_same_ideology_factor = -0.20
+		ai_will_do = {
+			factor = 1
+		}
 	}
-
-	center_left = {
-		sprite = 17
+	j_von_ribbentrop = {
+		random = no
+		political_power_factor = 0.15
+		local_resources_factor = 0.05
+		trade_opinion_factor = 0.10
+		ai_will_do = {
+			factor = 1
+		}
 	}
-
-	center = {
-		sprite = 18
+	wilhelm_canaris = {
+		random = no
+		stability_factor = 0.2
+		decryption = 2
+		ai_will_do = {
+			factor = 1
+		}
 	}
-
-	center_right = {
-		sprite = 19
+	heinrich_himmler = {
+		random = no
+		stability_factor = 0.125
+		encryption = 1
+		enemy_partisan_effect = -0.50
+		political_power_factor = -0.15
+		ai_will_do = {
+			factor = 1
+		}
 	}
-
-	right = {
-		sprite = 20
-	}
-
-	far_right = {
-		sprite = 21
-	}
-
-}
