@@ -1,9 +1,9 @@
 ﻿l_english:
-  #DIPLOMACY
-  ### NEW AUTONOMY
-  autonomy_mandate:0 "Mandate"
-  autonomy_protectorate:0 "Protectorate"
-  autonomy_unequal_treaty:0 "Unequal Treaty"
+ #DIPLOMACY
+ ### NEW AUTONOMY
+ autonomy_mandate:0 "Mandate"
+ autonomy_protectorate:0 "Protectorate"
+ autonomy_unequal_treaty:0 "Unequal Treaty"
  #Variable
  MONEY_TOOLTIP_BASE:0 "Your military budget is Your military budget is [?budget] Hundreds of Funds"
  MONEY_TOOLTIP:0 "[Root.GetMoneyTooltip]"
@@ -37,6 +37,8 @@
  FRA_center_left_party:0 "Parti Radical"
  FRA_center_right_party:0 "Alliance Démocratique"
  FRA_right_party:0 "Fédération Républicaine"
+ ###### JAP
+ JAP_right_party:0 "Rikken Seiyūkai"
  ### Country Names
  FRA_left:0 "French Republic"
  FRA_center_left:0 "French Republic"

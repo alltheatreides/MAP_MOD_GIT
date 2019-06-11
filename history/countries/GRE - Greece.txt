@@ -140,41 +140,23 @@ set_convoys = 10
 	}
 }
 
-
 set_politics = {
-
-	parties = {
-		communism = { 
-			popularity = 9.6
-		}
-		left = { 
-			popularity = 0
-		}
-		center_left = { 
-			popularity = 0
-		}
-		democratic = { 
-			popularity = 6.9
-		}
-		center_right = { 
-			popularity = 0
-		}
-		neutrality = { 
-			popularity = 65
-		}
-		far_right_2 = {
-			popularity = 14.8
-		}
-		fascism = { 
-			popularity = 3.7
-		}
-	}
-	
 	ruling_party = neutrality
 	last_election = "1935.6.9"
 	election_frequency = 12
 	elections_allowed = yes # none after offset 1
 }
+set_popularities = {
+	communism = 10
+	left = 0
+	center_left = 0
+	democratic = 7
+	center_right = 0
+	neutrality = 65
+	far_right_2 = 15
+	fascism = 4
+}
+
 set_stability = 0.75
 
 create_country_leader = {

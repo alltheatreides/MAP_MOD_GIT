@@ -85,6 +85,7 @@ if = {
 		basic_secondary_battery = 1
 		basic_depth_charges = 1
 		basic_cruiser_armor_scheme = 1
+		cruiser_submarines = 1
 	}
 	set_naval_oob = "JAP_1936_naval"
 }
@@ -229,7 +230,6 @@ create_import = {
 			improved_ship_hull_cruiser = 1
 			improved_ship_hull_carrier = 1
 			ship_hull_super_heavy = 1
-			cruiser_submarines = 1
 		}
 		set_naval_oob = "JAP_1939_naval"
 	}
@@ -254,6 +254,7 @@ set_convoys = 400
 if = {
 	limit = {
 		has_dlc = "Together for Victory"
+		not = { has_dlc = "Waking the Tiger" }
 	}
 	set_autonomy = {
 		target = MEN
@@ -263,7 +264,14 @@ if = {
 		target = MAN
 		autonomous_state = autonomy_integrated_puppet
 	}
-	else = {
+}
+if = {
+	limit = { 
+		not = {
+			has_dlc = "Waking the Tiger"
+			has_dlc = "Together for Victory"
+		}
+	}
 		set_autonomy = {
 			target = MEN
 			autonomous_state = autonomy_puppet
@@ -272,57 +280,32 @@ if = {
 			target = MAN
 			autonomous_state = autonomy_puppet
 		}
+}
+if = {
+	limit = { 
+		has_dlc = "Waking the Tiger"
+		}
+	set_autonomy = {
+		target = MEN
+		autonomous_state = autonomy_wtt_imperial_protectorate
+		}
+	set_autonomy = {
+		target = MAN
+		autonomous_state = autonomy_wtt_imperial_protectorate
 	}
 }
-
 
 set_politics = {
-
-	parties = {
-		democratic = { 
-			popularity = 0
-		}
-
-		fascism = {
-			popularity = 100
-		}
-		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
-	}
-	
-	ruling_party = fascism
-	last_election = "1936.1.1"
+	ruling_party = neutrality
+	last_election = "1932.2.20"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
-
-
-1939.1.1 = {
-	set_politics = {
-
-		parties = {
-			democratic = { 
-				popularity = 0
-			}
-
-			fascism = {
-				popularity = 100
-			}
-			
-			communism = {
-				popularity = 0
-				#banned = no #default is no
-			}
-		}
-		
-		ruling_party = fascism
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
-	}
+set_popularities = {
+	center_left = 3
+	democratic = 35
+	neutrality = 58
+	fascism = 4
 }
 
 create_country_leader = {
@@ -337,6 +320,50 @@ create_country_leader = {
 		imperial_sanction
 	}
 	id = 700 #Hirohito
+}
+
+create_country_leader = {
+	name = "Kōki Hirota"
+	desc = "POLITICS_Koki_Hirota_DESC"
+	picture = "Portrait_Koki_Hirota.dds"
+	expire = "1989.1.1"
+	ideology = fascism_ideology
+	traits = {
+	
+	}
+}
+
+create_country_leader = {
+	name = "Senjūrō Hayashi"
+	desc = "POLITICS_Senjuro_Hayashi_DESC"
+	picture = "Portrait_Senjuro_Hayashi.dds"
+	expire = "1989.1.1"
+	ideology = fascism_ideology
+	traits = {
+	
+	}
+}
+
+create_country_leader = {
+	name = "Fumimaro Konoe"
+	desc = "POLITICS_Fumimaro_Konoe_DESC"
+	picture = "Portrait_Fumimaro_Konoe.dds"
+	expire = "1989.1.1"
+	ideology = fascism_ideology
+	traits = {
+	
+	}
+}
+
+create_country_leader = {
+	name = "Keisuke Okada"
+	desc = "POLITICS_Keisuke_Okada_DESC"
+	picture = "JAP_Okada_leader.dds"
+	expire = "1989.1.1"
+	ideology = right_type
+	traits = {
+	
+	}
 }
 
 create_country_leader = {
