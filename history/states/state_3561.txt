@@ -1,1 +1,1 @@
-state={ id=3561 name="STATE_3561" manpower=34375 state_category = rural resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 1 steel = 0 chromium = 0 } history={ victory_points = { 4819 0 } owner = NZL add_core_of = NZL buildings = { infrastructure = 0  } } provinces = { 4819 } }
+state={ id=3561 name="STATE_3561" manpower=34375 state_category = rural resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 4819 0 } owner = NZL add_core_of = NZL buildings = { infrastructure = 0  } } provinces = { 4819 } }

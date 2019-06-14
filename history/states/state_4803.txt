@@ -1,1 +1,1 @@
-state={ id=4803 name="STATE_4803" manpower=153000 state_category = town resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 1 chromium = 0 } history={ victory_points = { 6998 0 } owner = YUG add_core_of = YUG buildings = { infrastructure = 8  } } provinces = { 6998 } }
+state={ id=4803 name="STATE_4803" manpower=153000 state_category = town resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 6998 0 } owner = YUG add_core_of = YUG buildings = { infrastructure = 8  } } provinces = { 6998 } }

@@ -1,1 +1,1 @@
-state={ id=9594 name="STATE_9594" manpower=185000 state_category = enclave resources = { oil = 0 aluminium = 0 rubber = 1 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 12747 0 } owner = POR add_core_of = POR buildings = { infrastructure = 0  } } provinces = { 12747 } }
+state={ id=9594 name="STATE_9594" manpower=185000 state_category = enclave resources = { oil = 0 aluminium = 0 rubber = 0 tungsten = 0 steel = 0 chromium = 0 } history={ victory_points = { 12747 0 } owner = POR add_core_of = POR buildings = { infrastructure = 0  } } provinces = { 12747 } }
