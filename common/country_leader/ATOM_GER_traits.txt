@@ -1,4 +1,11 @@
 leader_traits = {
+	savior_of_germany = { 
+		random = no
+		offensive_war_stability_factor = 0.10
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	hitler = {
 		random = no
 		political_power_factor = -0.25

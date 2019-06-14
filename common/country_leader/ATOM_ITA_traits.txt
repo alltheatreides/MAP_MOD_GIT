@@ -1,0 +1,9 @@
+leader_traits = {
+	il_duce = {
+		random = no
+		offensive_war_stability_factor = 0.08
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -1,0 +1,17 @@
+leader_traits = {
+	stalin = {
+		random = no
+		political_power_factor = -0.25
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	man_of_steel = {
+		random = no
+		army_morale_factor = 0.05
+		land_reinforce_rate = 0.02
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

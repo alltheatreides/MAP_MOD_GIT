@@ -264,3 +264,7 @@
  ### CONSCRIPTION
  female_do_not_fight:0 "Female Population"
  the_15_65_bracket:0 "Children and Elderly"
+ #LEADER TRAITS
+ man_of_steel:0 "Man of Steel"
+ savior_of_germany:0 "Savior of Germany"
+ il_duce:0 "Il Duce"
