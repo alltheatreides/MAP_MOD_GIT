@@ -362,6 +362,12 @@ spriteTypes = {
 		alwaystransparent = yes			
 	}
 
+	spriteType = {
+		name = "GFX_buy_military_contract"
+		textureFile = "gfx/interface/button_buysell.dds"
+		legacy_lazy_load = no
+	}
+
 	#POLITICS - NEW IDEOLOGIES
 	spriteType = {
 		name = "GFX_ideology_left_group"

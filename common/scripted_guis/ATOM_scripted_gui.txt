@@ -73,6 +73,18 @@ scripted_gui = {
 				}
 			}
 
+			open_military_contract_menu_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab_military_contracts = 0 }
+					}
+					set_variable = { show_budget_tab_military_contracts = 1 }
+					else = {
+						set_variable = { show_budget_tab_military_contracts = 0 }
+					}
+				}
+			}
+
 			exit_button_click = {
 				if = {
 					limit = {
@@ -87,6 +99,56 @@ scripted_gui = {
 		}
 	}
 
+	#BUDGET - SPENDING - military equipment
+	budget_military_contracts = {
+		window_name = "budget_military_contracts_tab_main"
+		context_type = player
+
+		visible = {
+			check_variable = { show_budget_tab_military_contracts = 1 }
+		}
+
+		effects = {
+			infantry_buy_1_click = {
+				set_country_flag = infantry_equipment_order_1
+				subtract_from_variable = {
+					var = budget
+					value = 1000
+				}
+				country_event = { id = ATOM_military_contracts.1 }
+			}
+
+			infantry_buy_2_click = {
+				set_country_flag = infantry_equipment_order_2
+				subtract_from_variable = {
+					var = budget
+					value = 1500
+				}
+				country_event = { id = ATOM_military_contracts.1 }
+			}
+
+			infantry_buy_3_click = {
+				set_country_flag = infantry_equipment_order_3
+				subtract_from_variable = {
+					var = budget
+					value = 2000
+				}
+				country_event = { id = ATOM_military_contracts.1 }
+			}
+
+			exit_button_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab_military_contracts = 1 }
+					}
+					set_variable = { show_budget_tab_military_contracts = 0 }
+					else = {
+						set_variable = { show_budget_tab_military_contracts = 1 }
+					}
+				}
+			}
+		}
+	}
 
 }
 
