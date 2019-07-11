@@ -1,0 +1,79 @@
+nationalized_tank_factory_1 = {
+	nationalized_tank_factory > 0
+	nationalized_tank_factory < 2
+}
+nationalized_tank_factory_2 = {
+	nationalized_tank_factory > 1
+	nationalized_tank_factory < 3
+}
+nationalized_tank_factory_3 = {
+	nationalized_tank_factory > 2
+	nationalized_tank_factory < 4
+}
+nationalized_tank_factory_4 = {
+	nationalized_tank_factory > 3
+	nationalized_tank_factory < 5
+}
+nationalized_tank_factory_5 = {
+	nationalized_tank_factory > 4
+	nationalized_tank_factory < 6
+}
+nationalized_tank_factory_6 = {
+	nationalized_tank_factory > 5
+	nationalized_tank_factory < 7
+}
+nationalized_tank_factory_7 = {
+	nationalized_tank_factory > 6
+	nationalized_tank_factory < 8
+}
+nationalized_tank_factory_8 = {
+	nationalized_tank_factory > 7
+	nationalized_tank_factory < 9
+}
+nationalized_tank_factory_9 = {
+	nationalized_tank_factory > 8
+	nationalized_tank_factory < 10
+}
+nationalized_tank_factory_10 = {
+	nationalized_tank_factory > 9
+	nationalized_tank_factory < 11
+}
+nationalized_tank_factory_11 = {
+	nationalized_tank_factory > 10
+	nationalized_tank_factory < 12
+}
+nationalized_tank_factory_12 = {
+	nationalized_tank_factory > 11
+	nationalized_tank_factory < 13
+}
+nationalized_tank_factory_13 = {
+	nationalized_tank_factory > 12
+	nationalized_tank_factory < 14
+}
+nationalized_tank_factory_14 = {
+	nationalized_tank_factory > 13
+	nationalized_tank_factory < 15
+}
+nationalized_tank_factory_15 = {
+	nationalized_tank_factory > 14
+	nationalized_tank_factory < 16
+}
+nationalized_tank_factory_16 = {
+	nationalized_tank_factory > 15
+	nationalized_tank_factory < 17
+}
+nationalized_tank_factory_17 = {
+	nationalized_tank_factory > 16
+	nationalized_tank_factory < 18
+}
+nationalized_tank_factory_18 = {
+	nationalized_tank_factory > 17
+	nationalized_tank_factory < 19
+}
+nationalized_tank_factory_19 = {
+	nationalized_tank_factory > 18
+	nationalized_tank_factory < 20
+}
+nationalized_tank_factory_20 = {
+	nationalized_tank_factory > 20 
+}

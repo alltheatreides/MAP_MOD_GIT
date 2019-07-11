@@ -1,0 +1,246 @@
+on_actions = {
+	on_startup = {
+		if = {
+			limit = {
+				nationalized_tank_factory > 0
+				nationalized_tank_factory < 2
+			}
+			add_ideas = tank_bonus_1
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_2 = yes
+			}
+			add_ideas = tank_bonus_2
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_3 = yes
+			}
+			add_ideas = tank_bonus_3
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_4 = yes
+			}
+			add_ideas = tank_bonus_4
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_5 = yes
+			}
+			add_ideas = tank_bonus_5
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_6 = yes
+			}
+			add_ideas = tank_bonus_6
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_7 = yes
+			}
+			add_ideas = tank_bonus_7
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_8 = yes
+			}
+			add_ideas = tank_bonus_8
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_9 = yes
+			}
+			add_ideas = tank_bonus_9
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_10 = yes
+			}
+			add_ideas = tank_bonus_10
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_11 = yes
+			}
+			add_ideas = tank_bonus_11
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_12 = yes
+			}
+			add_ideas = tank_bonus_12
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_13 = yes
+			}
+			add_ideas = tank_bonus_13
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_14 = yes
+			}
+			add_ideas = tank_bonus_14
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_15 = yes
+			}
+			add_ideas = tank_bonus_15
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_16 = yes
+			}
+			add_ideas = tank_bonus_16
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_17 = yes
+			}
+			add_ideas = tank_bonus_17
+		}		if = {
+			limit = {
+				nationalized_tank_factory_18 = yes
+			}
+			add_ideas = tank_bonus_18
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_19 = yes
+			}
+			add_ideas = tank_bonus_19
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_20 = yes
+			}
+			add_ideas = tank_bonus_20
+		}
+	}
+	on_daily = {
+		if = {
+			limit = {
+				nationalized_tank_factory_1 = yes
+			}
+			add_ideas = tank_bonus_1
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_2 = yes
+			}
+			add_ideas = tank_bonus_2
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_3 = yes
+			}
+			add_ideas = tank_bonus_3
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_4 = yes
+			}
+			add_ideas = tank_bonus_4
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_5 = yes
+			}
+			add_ideas = tank_bonus_5
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_6 = yes
+			}
+			add_ideas = tank_bonus_6
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_7 = yes
+			}
+			add_ideas = tank_bonus_7
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_8 = yes
+			}
+			add_ideas = tank_bonus_8
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_9 = yes
+			}
+			add_ideas = tank_bonus_9
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_10 = yes
+			}
+			add_ideas = tank_bonus_10
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_11 = yes
+			}
+			add_ideas = tank_bonus_11
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_12 = yes
+			}
+			add_ideas = tank_bonus_12
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_13 = yes
+			}
+			add_ideas = tank_bonus_13
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_14 = yes
+			}
+			add_ideas = tank_bonus_14
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_15 = yes
+			}
+			add_ideas = tank_bonus_15
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_16 = yes
+			}
+			add_ideas = tank_bonus_16
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_17 = yes
+			}
+			add_ideas = tank_bonus_17
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_18 = yes
+			}
+			add_ideas = tank_bonus_18
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_19 = yes
+			}
+			add_ideas = tank_bonus_19
+		}
+		if = {
+			limit = {
+				nationalized_tank_factory_20 = yes
+			}
+			add_ideas = tank_bonus_20
+		}
+	}
+}

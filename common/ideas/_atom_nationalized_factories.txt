@@ -1,0 +1,285 @@
+ideas = {
+	national_armor_bonus = {
+		law = yes
+		tank_bonus_1 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.02
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_2 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.02
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_3 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.03
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_4 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.04
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_5 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.05
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_6 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.06
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_7 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.07
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_8 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.08
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_9 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.09
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_10 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.10
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_11 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.11
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_12 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.12
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_13 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.13
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_14 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.14
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_15 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.15
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_16 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.16
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_17 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.17
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_18 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.18
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_19 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.19
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+		tank_bonus_20 = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			equipment_bonus = {
+				armor = {
+				build_cost_ic = -0.20
+				}
+			}
+			allowed_to_remove = {
+				always = no
+			}
+		}
+	}
+}
