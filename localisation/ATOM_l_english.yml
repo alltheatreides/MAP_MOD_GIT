@@ -5,7 +5,7 @@
  autonomy_protectorate:0 "Protectorate"
  autonomy_unequal_treaty:0 "Unequal Treaty"
  #Variable
- MONEY_TOOLTIP_BASE:0 "Your military budget is Your military budget is [?budget] Hundreds of Funds"
+ MONEY_TOOLTIP_BASE:0 "Your military budget is [?budget] Hundreds of Funds"
  MONEY_TOOLTIP:0 "[Root.GetMoneyTooltip]"
  MARK_TOOLTIP:0 "Your military budget is [?budget] Hundreds of Funds"
  RUBLE_TOOLTIP:0 "Your military budget is [?budget] Hundreds of Funds"
@@ -15,7 +15,7 @@
  LIRA_TOOLTIP:0 "Your military budget is [?budget] Hundreds of Funds"
  YEN_TOOLTIP:0 "Your military budget is [?budget] Hundreds of Funds"
  budget_decisions:0 "Budget Decisions"
- budget_value:0 "[?budget] M"
+ budget_value:0 "[?budget]"
  increase_military_budget:0 "Increase Budget by 1000"
  increase_military_budget_desc:0 "I want magic money plz"
  unlock_some_funds_for_state_construction:0 "Unlock Funds for construction projects. Will cost 50M"

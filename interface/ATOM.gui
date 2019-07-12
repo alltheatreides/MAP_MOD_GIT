@@ -41,14 +41,17 @@ guiTypes = {
 	#Budget Tab
 	containerWindowType = {
 		name = "budget_tab_main"
-		position = { x=-606 y=78 }	
-		show_position = { x=-6 y =78 }
+		position = { x=975 y= 25 }	
+		show_position = { x= 975 y = 30 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300
-		size = { width=550 height=100%% }
+		size = { width=550 height=800 }
 		
-		#hide_sound = menu_close_window
+		# fade_time = 10000
+		# fade_type = linear
+
+		hide_sound = menu_close_window
 		show_sound = menu_open_window
 		
 		background = {
@@ -82,8 +85,8 @@ guiTypes = {
 			position = { x = 45 y = 8 }
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
-			text = "BUDGET"
-			maxWidth = 240
+			text = "MILITARY BUDGET"
+			maxWidth = 400
 			maxHeight = 20
 			format = left	
 		}
@@ -92,7 +95,7 @@ guiTypes = {
 			name = "expenditures_income"
 			position = { x = 0 y = 47 }
 			size = { width = 550 height = -98 }
-			margin = { top = 0 bottom = 123}
+			margin = { top = 0 bottom = 0}
 			verticalScrollbar = "right_vertical_slider"
 
 			background = {
@@ -111,83 +114,380 @@ guiTypes = {
 				name = "expenditures"
 				position = { x = 35 y = 45 }
 				font = "hoi4_typewriter22"
-				text = "EXPENDITURES"
-				maxWidth = 200
+				text = "FIXED ASSETS EXPENDITURES"
+				maxWidth = 500
 				maxHeight = 20
 				fixedsize = yes
 				format = left
 			}
 
+			instantTextBoxType = {
+				name = "construction_project_cost_title"
+				position = { x = 35 y = 80 }
+				font = "hoi4_typewriter16"
+				text = "CONSTRUCTION PROJECTS COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "construction_project_cost"
+				position = { x = 350 y = 80 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_num_of_available_civilian_factories]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "nationalized_military_factories_cost_title"
+				position = { x = 35 y = 110 }
+				font = "hoi4_typewriter16"
+				text = "NATIONALIZED MILITARY FACTORIES COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "nationalized_military_factories_cost"
+				position = { x = 350 y = 110 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_num_of_military_factories]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "dockyard_cost_title"
+				position = { x = 35 y = 140 }
+				font = "hoi4_typewriter16"
+				text = "NATIONALIZED DOCKYARD COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "dockyard_cost"
+				position = { x = 350 y = 140 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_num_of_naval_factories]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "research_slot_cost_title"
+				position = { x = 35 y = 170 }
+				font = "hoi4_typewriter16"
+				text = "RESEARCH PROJECTS COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "research_slot_cost"
+				position = { x = 350 y = 170 }
+				font = "hoi4_typewriter16"
+				text = "[?cost_of_research_slots]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+			
+
 			instantTextboxType = {
-				name = "income"
-				position = { x = 250 y = 45 }
+				name = "army_expenditures"
+				position = { x = 35 y = 220 }
 				font = "hoi4_typewriter22"
-				text = "INCOME"
-				maxWidth = 200
+				text = "ARMY EXPENDITURES"
+				maxWidth = 500
 				maxHeight = 20
 				fixedsize = yes
-				format = right
+				format = left
 			}
 
-
-			background = {
-				name = "Background"		
-				quadTextureSprite ="GFX_tiled_budget_overlay_bg1"
+			instantTextBoxType = {
+				name = "division_numbers_title"
+				position = { x = 35 y = 255 }
+				font = "hoi4_typewriter16"
+				text = "LAND FORCES COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
 			}
-		}
-		instantTextBoxType = {
-			name = "division_numbers_title"
-			position = { x = 50 y = 150 }
-			font = "hoi4_typewriter16"
-			text = "DIVISION NUMBERS"
-			maxWidth = 500
-			maxHeight = 24
-			fixedsize = yes		
-		}
+			
 
-		instantTextBoxType = {
-			name = "division_numbers"
-			position = { x = 200 y = 150 }
-			font = "hoi4_typewriter16"
-			text = "division_number_value"
-			maxWidth = 500
-			maxHeight = 24
-			fixedsize = yes		
-		}
+			instantTextBoxType = {
+				name = "division_numbers"
+				position = { x = 350 y = 255 }
+				font = "hoi4_typewriter16"
+				text = "division_number_value"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
 
-		instantTextBoxType = {
-			name ="Increase Taxes"
-			position = { x= 280 y = 505 }
-			font = "hoi4_typewriter16"
-			text = "Gimme 1000 Funds"
-			format = center
-			maxWidth = 200
-			maxHeight = 24
-			fixedsize = yes
-		}
+			instantTextBoxType = {
+				name = "airplanes_numbers_title"
+				position = { x = 35 y = 285 }
+				font = "hoi4_typewriter16"
+				text = "AIRFORCE COST (not counted in net income)"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
 
-		buttonType = {
-			name = "increase_taxes" 
-			position = {x=280 y=502}	
-			spriteType = "GFX_naval_increase_amount"
-			# pdx_tooltip = "INCREASE_TAXES_TOOLTIP"
-			scale = 0.8
+			instantTextBoxType = {
+				name = "airplanes_numbers"
+				position = { x = 350 y = 285 }
+				font = "hoi4_typewriter16"
+				text = "0"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "ships_numbers_title"
+				position = { x = 35 y = 315 }
+				font = "hoi4_typewriter16"
+				text = "NAVY COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "ships_cost"
+				position = { x = 350 y = 315 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_total_navy_cost]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			# instantTextBoxType = {
+			# 	name = "carrier_numbers"
+			# 	position = { x = 395 y = 315 }
+			# 	font = "hoi4_typewriter16"
+			# 	text = "[?gui_num_carriers]"
+			# 	maxWidth = 500
+			# 	maxHeight = 24
+			# 	fixedsize = yes		
+			# }
+
+			# instantTextBoxType = {
+			# 	name = "capital_ships_numbers"
+			# 	position = { x = 420 y = 315 }
+			# 	font = "hoi4_typewriter16"
+			# 	text = "[?gui_num_planes]"
+			# 	maxWidth = 500
+			# 	maxHeight = 24
+			# 	fixedsize = yes		
+			# }
+
+			instantTextboxType = {
+				name = "other_expenditures"
+				position = { x = 35 y = 365 }
+				font = "hoi4_typewriter22"
+				text = "OTHER EXPENDITURES"
+				maxWidth = 500
+				maxHeight = 20
+				fixedsize = yes
+				format = left
+			}
+
+			instantTextBoxType = {
+				name = "occupied_states_numbers_title"
+				position = { x = 35 y = 400 }
+				font = "hoi4_typewriter16"
+				text = "OCCUPIED STATES COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "occupied_states_numbers"
+				position = { x = 350 y = 400 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_num_occupied_states]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "military_service_title"
+				position = { x = 35 y = 430 }
+				font = "hoi4_typewriter16"
+				text = "MILITARY SERVICE COST"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextBoxType = {
+				name = "military_service_cost_numbers"
+				position = { x = 350 y = 430 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_military_service_cost]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextboxType = {
+				name = "total_expenditures"
+				position = { x = 35 y = 500 }
+				font = "hoi4_typewriter22"
+				text = "TOTAL EXPENDITURES"
+				maxWidth = 500
+				maxHeight = 20
+				fixedsize = yes
+				format = left
+			}
+
+			instantTextBoxType = {
+				name = "total_expenditures_cost_numbers"
+				position = { x = 350 y = 500 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_total_expenditures]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextboxType = {
+				name = "total_income"
+				position = { x = 35 y = 530 }
+				font = "hoi4_typewriter22"
+				text = "INCOME"
+				maxWidth = 500
+				maxHeight = 20
+				fixedsize = yes
+				format = left
+			}
+
+			instantTextBoxType = {
+				name = "total_income_numbers"
+				position = { x = 350 y = 530 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_gdp_gain_daily]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			instantTextboxType = {
+				name = "net_income"
+				position = { x = 35 y = 560 }
+				font = "hoi4_typewriter22"
+				text = "NET INCOME"
+				maxWidth = 500
+				maxHeight = 20
+				fixedsize = yes
+				format = left
+			}
+
+			instantTextBoxType = {
+				name = "net_income_numbers"
+				position = { x = 350 y = 560 }
+				font = "hoi4_typewriter16"
+				text = "[?gui_net_income]"
+				maxWidth = 500
+				maxHeight = 24
+				fixedsize = yes		
+			}
+
+			# instantTextboxType = {
+			# 	name = "income"
+			# 	position = { x = 250 y = 45 }
+			# 	font = "hoi4_typewriter22"
+			# 	text = "INCOME"
+			# 	maxWidth = 200
+			# 	maxHeight = 20
+			# 	fixedsize = yes
+			# 	format = right
+			# }
+
+
+			# background = {
+			# 	name = "Background"		
+			# 	quadTextureSprite ="GFX_tiled_budget_overlay_bg1"
+			# }
 		}
+		# instantTextBoxType = {
+		# 	name = "division_numbers_title"
+		# 	position = { x = 50 y = 150 }
+		# 	font = "hoi4_typewriter16"
+		# 	text = "DIVISION NUMBERS"
+		# 	maxWidth = 500
+		# 	maxHeight = 24
+		# 	fixedsize = yes		
+		# }
+
+		# instantTextBoxType = {
+		# 	name = "division_numbers"
+		# 	position = { x = 200 y = 150 }
+		# 	font = "hoi4_typewriter16"
+		# 	text = "division_number_value"
+		# 	maxWidth = 500
+		# 	maxHeight = 24
+		# 	fixedsize = yes		
+		# }
+
+		# instantTextBoxType = {
+		# 	name ="Increase Taxes"
+		# 	position = { x= 280 y = 505 }
+		# 	font = "hoi4_typewriter16"
+		# 	text = "Gimme 1000 Funds"
+		# 	format = center
+		# 	maxWidth = 200
+		# 	maxHeight = 24
+		# 	fixedsize = yes
+		# }
+
+		# buttonType = {
+		# 	name = "increase_taxes" 
+		# 	position = {x=280 y=502}	
+		# 	spriteType = "GFX_naval_increase_amount"
+		# 	# pdx_tooltip = "INCREASE_TAXES_TOOLTIP"
+		# 	scale = 0.8
+		# }
 		
-		buttonType = {
-			name = "decrease_taxes" 
-			position = {x=255 y=502}	
-			spriteType = "GFX_naval_decrease_amount"
-			# pdx_tooltip = "DECREASE_TAXES_TOOLTIP"
-			scale = 0.8
-		}
+		# buttonType = {
+		# 	name = "decrease_taxes" 
+		# 	position = {x=255 y=502}	
+		# 	spriteType = "GFX_naval_decrease_amount"
+		# 	# pdx_tooltip = "DECREASE_TAXES_TOOLTIP"
+		# 	scale = 0.8
+		# }
 
 		buttonType = {
 			name = "open_military_contract_menu" 
-			position = {x=280 y=602}	
-			spriteType = "GFX_naval_increase_amount"
+			position = {x=25 y=722}	
+			spriteType = "GFX_endgame_industry_button"
 			# pdx_tooltip = "INCREASE_TAXES_TOOLTIP"
 			scale = 0.8
+		}
+
+		instantTextBoxType = {
+			name = "military_contract_button_open_menu"
+			position = { x = 75 y = 732 }
+			font = "hoi_18mbs"
+			text = "OPEN MILITARY CONTRACT MENU"
+			maxWidth = 500
+			maxHeight = 24
+			fixedsize = yes		
 		}
 
 		buttonType = {

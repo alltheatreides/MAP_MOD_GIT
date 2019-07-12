@@ -55,15 +55,15 @@ idea_categories = {
 		removal_cost = 0
 
 	}
-	national_factories = {
+	nationalized_factories = {
 		slot = national_armor_bonus
 		slot = national_aircraft_bonus
 		slot = national_motorized_bonus
 		slot = national_arty_bonus
 		slot = national_small_arms_bonus
 		slot = national_munitions_bonus
-		cost = 1
-		removal_cost = 1
+		cost = -1
+		removal_cost = -1
 	}
 	military_staff = {
 		slot = supreme_commander

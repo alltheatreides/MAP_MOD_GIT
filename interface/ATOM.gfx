@@ -298,7 +298,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_buildings_strip"
 		textureFile = "gfx/interface/buildings/building_icon_strip.dds"
-		noOfFrames = 26
+		noOfFrames = 30
 		legacy_lazy_load = no
 	}
 
@@ -558,5 +558,26 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_fra_marin_leader"
 		texturefile = "gfx/leaders/FRA/FRA_marin_leader.dds"		
+	}
+
+
+	#### RESOURCES
+	spriteType = {
+		name = "GFX_trade_header_bg"
+		texturefile = "gfx/interface/trade_header_bg.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_resources_strip"
+		texturefile = "gfx/interface/resources_strip.dds"
+		noOfFrames = 9
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_missing_resources_strip"
+		texturefile = "gfx/interface/missing_resources_strip.dds"
+		noOfFrames = 9
+		legacy_lazy_load = no
 	}
 }
