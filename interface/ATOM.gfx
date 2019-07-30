@@ -1,6 +1,5 @@
 spriteTypes = {
-
-#####large icons (used in the division template screen)#####
+	####large icons (used in the division template screen)#####
 	spriteType = {	    name = "GFX_unit_militia_icon_medium"	                        textureFile = "gfx/interface/counters/divisions_large/unit_militia_icon.dds"	                            noOfFrames = 2	}
 	spriteType = {	    name = "GFX_unit_light_infantry_icon_medium"	                textureFile = "gfx/interface/counters/divisions_large/unit_light_infantry_icon.dds"	                        noOfFrames = 2	}
 	spriteType = {	    name = "GFX_unit_special_infantry_icon_medium"	                textureFile = "gfx/interface/counters/divisions_large/unit_special_infantry_icon.dds"	                    noOfFrames = 2	}
@@ -18,7 +17,7 @@ spriteTypes = {
 	spriteType = {	    name = "GFX_unit_fascist_heavy_armor_icon_medium"	            textureFile = "gfx/interface/counters/divisions_large/unit_fascist_heavy_armor_icon.dds"	                noOfFrames = 2	}
 	
 	
-#####small icons (when hovering over the division)#####
+	####small icons (when hovering over the division)#####
 	spriteType = {	    name = "GFX_unit_militia_icon_medium_white"	                    textureFile = "gfx/interface/counters/divisions_small/onmap_unit_militia_icon.dds"	                        noOfFrames = 2	}
 	spriteType = {	    name = "GFX_unit_light_infantry_icon_medium_white"	            textureFile = "gfx/interface/counters/divisions_small/onmap_unit_light_infantry_icon.dds"	                noOfFrames = 2	}
 	spriteType = {	    name = "GFX_unit_special_infantry_icon_medium_white"	        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_special_infantry_icon.dds"	                noOfFrames = 2	}
@@ -35,7 +34,8 @@ spriteTypes = {
 	spriteType = {	    name = "GFX_unit_fascist_medium_armor_icon_medium_white"	    textureFile = "gfx/interface/counters/divisions_small/onmap_unit_fascist_medium_armor_icon.dds"	            noOfFrames = 2	}
 	spriteType = {	    name = "GFX_unit_fascist_heavy_armor_icon_medium_white"	        textureFile = "gfx/interface/counters/divisions_small/onmap_unit_fascist_heavy_armor_icon.dds"	            noOfFrames = 2	}
 
-#####text-icons##### (when hovering the division on the map)
+
+	####text-icons##### (when hovering the division on the map)
 	spriteType = {		name = "GFX_unit_militia_icon_small"		                    texturefile = "gfx/texticons/nato_unit_militia_icon_small.dds"		                    legacy_lazy_load = no		noOfFrames = 2	}
 	spriteType = {		name = "GFX_unit_light_infantry_icon_small"		                texturefile = "gfx/texticons/nato_unit_light_infantry_icon_small.dds"		            legacy_lazy_load = no		noOfFrames = 2	}
 	spriteType = {		name = "GFX_unit_special_infantry_icon_small"		            texturefile = "gfx/texticons/nato_unit_special_infantry_icon_small.dds"		            legacy_lazy_load = no		noOfFrames = 2	}
@@ -53,7 +53,7 @@ spriteTypes = {
 	spriteType = {		name = "GFX_unit_fascist_medium_armor_icon_small"		        texturefile = "gfx/texticons/nato_unit_fascist_medium_armor_icon_small.dds"		        legacy_lazy_load = no		noOfFrames = 2	}
 	spriteType = {		name = "GFX_unit_fascist_heavy_armor_icon_small"		        texturefile = "gfx/texticons/nato_unit_fascist_heavy_armor_icon_small.dds"		        legacy_lazy_load = no		noOfFrames = 2	}
 
-### Others
+	## Others
 	#### Others
 	spriteType = { name = "GFX_unit_heavy_artillery_brigade_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_heavy_art_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_heavy_artillery_brigade_icon_medium_white"				textureFile = "gfx/interface/counters/divisions_small/onmap_unit_art_icon.dds" noOfFrames = 2}
@@ -268,11 +268,11 @@ spriteTypes = {
 	
 	
 	###Big Division designer
-	SpriteType = {
+	spriteType = {
 		name = "GFX_big_division_designer_popup_bg"
 		textureFile = "gfx//interface//big_division_designer_popup_bg.dds"
 	}
-	SpriteType = {
+	spriteType = {
 		name = "GFX_big_unit_stats_template_tab_bg"
 		textureFile = "gfx//interface//big_unit_stats_template_tab_bg.dds"
 	}
@@ -302,21 +302,65 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 
+	spriteType = {
+		name = "GFX_buildings_strip"
+		textureFile = "gfx/interface/buildings/building_icon_strip.dds"
+		noOfFrames = 30
+		legacy_lazy_load = no
+	}
+
+	#TERRAIN
+	spriteType = {
+		name = "GFX_terrain_urban_paris"
+		textureFile = "gfx/interface/terrains/terrain_urban_paris.dds"
+	}
+
 	#TECHNOLOGIES
 		#AMMUNITION
-	SpriteType = {
+	spriteType = {
 		name = "GFX_small_arms_ammunition_0_medium"
 		texturefile = "gfx/interface/technologies/small_arms_ammunition_0.dds"
 	}
 	
-	SpriteType = {
+	spriteType = {
 		name = "GFX_shells_ammunition_0_medium"
 		texturefile = "gfx/interface/technologies/shells_ammunition_0.dds"
 	}
 	
-	SpriteType = {
+	spriteType = {
 		name = "GFX_gasoline_equipment_0_medium"
 		texturefile = "gfx/interface/technologies/gasoline_equipment_0.dds"
+	}
+
+	#MILITARY CONTRACTS
+	spriteType = {
+		name = "GFX_military_contracts"
+		texturefile = "gfx/interface/icon_military_contracts.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_military_contracts_item_background"
+		texturefile = "gfx/interface/military_item_entry.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_military_contracts_contractor_overlay"
+		texturefile = "gfx/interface/minor_portrait_overlay_small.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_military_contracts_contractor_overlay_black"
+		textureFile = "gfx/interface/minor_portrait_overlay_black.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_military_contractor_entry"
+		textureFile = "gfx/interface/military_contractor_entry_2.dds"
+		legacy_lazy_load = no
 	}
 
 	#BUDGET
@@ -343,7 +387,7 @@ spriteTypes = {
 		textureFile = "gfx//interface//vertical_separator.dds"
 	}
 
-	corneredTileSpriteType = {
+	corneredTilespriteType = {
 		name = "GFX_budget_tab_main_background"
 		size= { x=192 y=192 }
 		texturefile = "gfx/interface/tiled_window2_1b_border_paper.dds"
@@ -352,7 +396,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
 	}
 
-	corneredTileSpriteType = {
+	corneredTilespriteType = {
 		name = "GFX_tiled_budget_overlay_bg1"
 		size= { x=549 y=600 }
 		textureFile = "gfx//interface//tiled_budget_overlay_bg1.dds"
@@ -387,7 +431,7 @@ spriteTypes = {
 
 	#POLITICS TAB
 	#NEW SLOTS AND IDEAS
-	SpriteType = {
+	spriteType = {
 		name = "GFX_idea_traits_strip"
 		texturefile = "gfx/interface/ideas/idea_traits_strip.dds"
 		noOfFrames = 21
@@ -577,6 +621,13 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_missing_resources_strip"
 		texturefile = "gfx/interface/missing_resources_strip.dds"
+		noOfFrames = 9
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_resources_strip"
+		texturefile = "gfx/interface/resources_strip.dds"
 		noOfFrames = 9
 		legacy_lazy_load = no
 	}

@@ -1,5 +1,48 @@
 scripted_gui = {
 
+	#MILITARY CONTRACTS
+	military_contracts = {
+		window_name = military_contracts_main
+
+		context_type = player
+		parent_window_token = top_bar
+		visible = {
+			always = yes
+		}
+
+		effects = {
+			military_contract_icon_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab_military_contracts = 0 }
+					}
+					set_variable = { show_budget_tab_military_contracts = 1 }
+					else = {
+						set_variable = { show_budget_tab_military_contracts = 0 }
+					}
+				}
+				if = {
+					limit = { original_tag = FRA }
+					set_variable = { FRA_icons = 1 }
+				}
+			}
+			military_contract_bg_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab_military_contracts = 0 }
+					}
+					set_variable = { show_budget_tab_military_contracts = 1 }
+					else = {
+						set_variable = { show_budget_tab_military_contracts = 0 }
+					}
+				}
+				if = {
+					limit = { original_tag = FRA }
+					set_variable = { FRA_icons = 1 }
+				}
+			}
+		}
+	}
 
 	#BUDGET TOP BAR
 	budget = {
@@ -24989,6 +25032,15 @@ scripted_gui = {
 					}
 				}
 			}
+		}
+	}
+
+	infantry_equipment_contractor_FRA_1_icon = {
+		window_name = infantry_equipment_contractor_FRA_1
+		context_type = player
+		# parent_window_token = league_of_nations_focuses_list_window
+		visible = {
+			check_variable = { FRA_icons = 1 }
 		}
 	}
 
