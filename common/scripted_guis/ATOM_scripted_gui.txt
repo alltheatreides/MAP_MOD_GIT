@@ -25,6 +25,18 @@ scripted_gui = {
 					limit = { original_tag = FRA }
 					set_variable = { FRA_icons = 1 }
 				}
+				set_variable = {
+					var = inf_eq_order_amount
+					value = 0
+				}
+				set_variable = {
+					var = h_inf_eq_order_amount
+					value = 0
+				}
+				set_variable = {
+					var = support_eq_order_amount
+					value = 0
+				}
 			}
 			military_contract_bg_click = {
 				if = {
@@ -39,6 +51,18 @@ scripted_gui = {
 				if = {
 					limit = { original_tag = FRA }
 					set_variable = { FRA_icons = 1 }
+				}
+				set_variable = {
+					var = inf_eq_order_amount
+					value = 0
+				}
+				set_variable = {
+					var = h_inf_eq_order_amount
+					value = 0
+				}
+				set_variable = {
+					var = support_eq_order_amount
+					value = 0
 				}
 			}
 		}
@@ -24994,30 +25018,78 @@ scripted_gui = {
 		}
 
 		effects = {
-			infantry_buy_1_click = {
-				set_country_flag = infantry_equipment_order_1
-				subtract_from_variable = {
-					var = budget
+			increase_inf_eq_number_click = {
+				add_to_variable = {
+					var = inf_eq_order_amount
 					value = 1000
 				}
+			}
+			decrease_inf_eq_number_click = {
+				if = {
+					limit = {
+						check_variable = { inf_eq_order_amount < 1 }
+					}
+					else = {
+						subtract_from_variable = {
+							var = inf_eq_order_amount
+							value = 1000
+						}
+					}
+				}
+			}
+
+			increase_h_inf_eq_number_click = {
+				add_to_variable = {
+					var = h_inf_eq_order_amount
+					value = 500
+				}
+			}
+			decrease_h_inf_eq_number_click = {
+				if = {
+					limit = {
+						check_variable = { h_inf_eq_order_amount < 1 }
+					}
+					else = {
+						subtract_from_variable = {
+							var = h_inf_eq_order_amount
+							value = 500
+						}
+					}
+				}
+			}
+
+			increase_support_eq_number_click = {
+				add_to_variable = {
+					var = support_eq_order_amount
+					value = 500
+				}
+			}
+			decrease_support_eq_number_click = {
+				if = {
+					limit = {
+						check_variable = { support_eq_order_amount < 1 }
+					}
+					else = {
+						subtract_from_variable = {
+							var = support_eq_order_amount
+							value = 500
+						}
+					}
+				}
+			}
+
+			infantry_buy_click = {
+				set_country_flag = infantry_equipment_order_1
 				country_event = { id = ATOM_military_contracts.1 }
 			}
 
-			infantry_buy_2_click = {
+			h_infantry_buy_click = {
 				set_country_flag = infantry_equipment_order_2
-				subtract_from_variable = {
-					var = budget
-					value = 1500
-				}
 				country_event = { id = ATOM_military_contracts.1 }
 			}
 
-			infantry_buy_3_click = {
+			support_buy_click = {
 				set_country_flag = infantry_equipment_order_3
-				subtract_from_variable = {
-					var = budget
-					value = 2000
-				}
 				country_event = { id = ATOM_military_contracts.1 }
 			}
 

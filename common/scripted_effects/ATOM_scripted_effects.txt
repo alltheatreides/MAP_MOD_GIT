@@ -33,20 +33,20 @@ budget_increase_peacetime_fra = {
 #####################################
 #ATREIDES
 
-military_contractor_set_up_array = {
-    add_to_array = {
-        array = military_contractor_list_FRA
-        value = 1
-        index = 1
-    }
-    add_to_array = {
-        array = military_contractor_list_FRA
-        value = 2
-        index = 2
-    }
-    add_to_array = {
-        array = military_contractor_list_FRA
-        value = 3
-        index = 3
-    }
-}
+# military_contractor_set_up_array = {
+#     add_to_array = {
+#         array = military_contractor_list_FRA
+#         value = 1
+#         index = 1
+#     }
+#     add_to_array = {
+#         array = military_contractor_list_FRA
+#         value = 2
+#         index = 2
+#     }
+#     add_to_array = {
+#         array = military_contractor_list_FRA
+#         value = 3
+#         index = 3
+#     }
+# }

@@ -15,7 +15,7 @@ country_event = {
 				the_15_65_bracket = 1
 				female_do_not_fight = 1
 			}
-			military_contractor_set_up_array = yes
+			# military_contractor_set_up_array = yes
 		}
 	}
 

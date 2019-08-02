@@ -4,7 +4,31 @@
 country_event = {
 	id = ATOM_military_contracts.1
 	title = ATOM_military_contracts.1.t
-	desc = ATOM_military_contracts.1.desc
+	desc = {
+		text = ATOM_military_contracts.1.desc.a
+		trigger = {
+			check_variable = { inf_eq_order_amount > 1 }
+		}
+	}
+	desc = {
+		text = ATOM_military_contracts.1.desc.b
+		trigger = {
+			check_variable = { h_inf_eq_order_amount > 1 }
+		}
+	}
+	desc = {
+		text = ATOM_military_contracts.1.desc.c
+		trigger = {
+			check_variable = { h_inf_eq_order_amount < 1 }
+			check_variable = { inf_eq_order_amount < 1 }
+		}
+	}
+	desc = {
+		text = ATOM_military_contracts.1.desc.d
+		trigger = {
+			check_variable = { support_eq_order_amount > 1 }
+		}
+	}
 	
 	is_triggered_only = yes
 
@@ -15,9 +39,10 @@ country_event = {
 	option = {
 		name = ATOM_military_contracts.1.a
 		trigger = {
-			has_country_flag = infantry_equipment_order_1
+			check_variable = { inf_eq_order_amount > 1 }
 		}
 		hidden_effect = {
+			#Make some conditions for the time it takes to fulfull the order depending on the size of the order
 			country_event = {
 				id = ATOM_military_contracts.2 
 				days = 150
@@ -28,12 +53,25 @@ country_event = {
 	option = {
 		name = ATOM_military_contracts.1.b
 		trigger = {
-			has_country_flag = infantry_equipment_order_2
+			check_variable = { h_inf_eq_order_amount > 1 }
 		}
 		hidden_effect = {
 			country_event = {
 				id = ATOM_military_contracts.2 
-				days = 150
+				days = 1
+			}
+		}
+	}
+
+	option = {
+		name = ATOM_military_contracts.1.e
+		trigger = {
+			check_variable = { support_eq_order_amount > 1 }
+		}
+		hidden_effect = {
+			country_event = {
+				id = ATOM_military_contracts.2 
+				days = 1
 			}
 		}
 	}
@@ -41,12 +79,19 @@ country_event = {
 	option = {
 		name = ATOM_military_contracts.1.c
 		trigger = {
-			has_country_flag = infantry_equipment_order_3
+			check_variable = { h_inf_eq_order_amount < 1 }
+			check_variable = { inf_eq_order_amount < 1 }
+			check_variable = { support_eq_order_amount < 1 }
 		}
-		hidden_effect = {
-			country_event = {
-				id = ATOM_military_contracts.2 
-				days = 150
+	}
+
+	option = {
+		name = ATOM_military_contracts.1.d
+		trigger = {
+			OR = {
+				check_variable = { h_inf_eq_order_amount > 1 }
+				check_variable = { inf_eq_order_amount > 1 }
+				check_variable = { support_eq_order_amount > 1 }
 			}
 		}
 	}
@@ -65,12 +110,42 @@ country_event = {
 	}
 
 	option = {
-		name = ATOM_military_contracts.2.
+		name = ATOM_military_contracts.2.a
+		trigger = {
+			check_variable = { inf_eq_order_amount > 1 }
+		}
 		add_equipment_to_stockpile = {
 			type = infantry_equipment
-			amount = 10000
-			producer = GER
+			amount = inf_eq_order_amount
+			producer = ROOT
 		}
+		clr_country_flag = infantry_equipment_order_1
+	}
+
+	option = {
+		name = ATOM_military_contracts.2.b
+		trigger = {
+			check_variable = { h_inf_eq_order_amount > 1 }
+		}
+		add_equipment_to_stockpile = {
+			type = heavy_infantry_equipment
+			amount = h_inf_eq_order_amount
+			producer = ROOT
+		}
+		clr_country_flag = infantry_equipment_order_2
+	}
+
+	option = {
+		name = ATOM_military_contracts.2.c
+		trigger = {
+			check_variable = { support_eq_order_amount > 1 }
+		}
+		add_equipment_to_stockpile = {
+			type = support_equipment
+			amount = support_eq_order_amount
+			producer = ROOT
+		}
+		clr_country_flag = infantry_equipment_order_3
 	}
 }
 

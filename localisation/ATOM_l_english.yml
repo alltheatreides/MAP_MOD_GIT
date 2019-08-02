@@ -1,5 +1,18 @@
 ﻿l_english:
  #DIPLOMACY
+ ### NEW COUNTRIES
+ DNZ_fascism:0 "Free City of Danzig"
+ DNZ_democratic:0 "Free City of Danzig"
+ DNZ_neutrality:0 "Free City of Danzig"
+ DNZ_communism:0 "Free City of Danzig"
+ DNZ_fascism_DEF:0 "Danzig"
+ DNZ_democratic_DEF:0 "Danzig"
+ DNZ_neutrality_DEF:0 "Danzig"
+ DNZ_communism_DEF:0 "Danzig"
+ DNZ_fascism_ADJ:0 "Danziger"
+ DNZ_democratic_ADJ:0 "Danziger"
+ DNZ_neutrality_ADJ:0 "Danziger"
+ DNZ_communism_ADJ:0 "Danziger"
  ### NEW AUTONOMY
  autonomy_mandate:0 "Mandate"
  autonomy_protectorate:0 "Protectorate"
@@ -32,18 +45,25 @@
  center_right:0 "Democratic Regime"
  right_desc:0 "Democratic Regime"
  ### Party Names
- ###### FRA
+ ###### FRA party names
  FRA_left_party:0 "Section Française de l’Internationale Ouvrière"
  FRA_center_left_party:0 "Parti Radical"
  FRA_center_right_party:0 "Alliance Démocratique"
  FRA_right_party:0 "Fédération Républicaine"
- ###### JAP
+ ###### JAP party names
  JAP_right_party:0 "Rikken Seiyūkai"
+ ###### ITA party names
+ ITA_center_left_party:0 "Unitary Socialist Party"
+ ITA_left_party:0 "Italian Socialist Party"
+ ITA_center_right_party:0 "Italian Liberal Party"
+ ###### ENG party names
+ ENG_center_right_party:0 "Conservative Party"
  ### Country Names
  FRA_left:0 "French Republic"
  FRA_center_left:0 "French Republic"
  FRA_center_right:0 "French Republic"
  FRA_neutrality:0 "French Republic"
+ ENG_center_right:0 "United Kingdom"
  ### New Ideas
  ###### Laws slots
  limited_conscription:0 "One Year Draft"
@@ -268,3 +288,20 @@
  man_of_steel:0 "Man of Steel"
  savior_of_germany:0 "Savior of Germany"
  il_duce:0 "Il Duce"
+ 
+ 
+ #EVENTS
+ ### MILITARY CONTRACTS EVENTS
+ ATOM_military_contracts.1.t:0 "Ordering Infantry Equipment"
+ ATOM_military_contracts.1.desc.a:0 "Are you sure you want to order [?inf_eq_order_amount] Infantry Equipment. They sould arrive in 150 days. It will cost XX Funds."
+ ATOM_military_contracts.1.desc.b:0 "Are you sure you want to order [?h_inf_eq_order_amount] Heavy Infantry Equipment. They sould arrive in 150 days. It will cost XX Funds."
+ ATOM_military_contracts.1.desc.c:0 "It seems you have not ordered anything."
+ ATOM_military_contracts.1.desc.d:0 "Are you sure you want to order [?support_eq_order_amount] Support Equipment. They sould arrive in 150 days. It will cost XX Funds."
+ ATOM_military_contracts.1.a:0 "Order [?inf_eq_order_amount] Infantry Equipment."
+ ATOM_military_contracts.1.b:0 "Order [?h_inf_eq_order_amount] Heavy Infantry Equipment"
+ ATOM_military_contracts.1.e:0 "Order [?support_eq_order_amount] Support Equipment"
+ ATOM_military_contracts.1.c:0 "Apologies."
+ ATOM_military_contracts.1.d:0 "On second thought cancel this."
+ ATOM_military_contracts.2.desc:0 "Your order has arrived"
+ ATOM_military_contracts.2.b:0 "Thanks."
+ 

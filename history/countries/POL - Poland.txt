@@ -8,6 +8,18 @@ if = {
 		set_naval_oob = "POL_1936_naval_legacy"
 	}
 }
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = DNZ
+		autonomous_state = autonomy_mandate
+	}
+}
 
 set_research_slots = 3
 

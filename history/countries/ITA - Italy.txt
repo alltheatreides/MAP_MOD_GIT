@@ -216,14 +216,17 @@ set_convoys = 200
 
 set_politics = {
 	ruling_party = fascism
-	last_election = "1934.3.26"
+	last_election = "1924.4.6"
 	election_frequency = 60
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 22
-	fascism = 76
-	communism = 2
+	democratic = 9
+	fascism = 65
+	center_left = 12
+	left = 5
+	communism = 4
+	center_right = 5
 }
 
 create_country_leader = {
@@ -243,6 +246,17 @@ create_country_leader = {
 	picture = "GFX_portrait_italy_ferruccio_parri"
 	expire = "1965.1.1"
 	ideology = socialism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = " Alcide De Gasperi"
+	desc = "POLITICS_DE_GASPERI_DESC"
+	picture = "GFX_portrait_italy_alcide_de_gasperi"
+	expire = "1954.7.19"
+	ideology = conservatism
 	traits = {
 		
 	}

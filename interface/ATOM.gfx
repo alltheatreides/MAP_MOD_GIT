@@ -334,6 +334,12 @@ spriteTypes = {
 
 	#MILITARY CONTRACTS
 	spriteType = {
+		name = "GFX_military_contracts_topbar_bg"
+		texturefile = "gfx/interface/military_contracts_topbar_bg_picture.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
 		name = "GFX_military_contracts"
 		texturefile = "gfx/interface/icon_military_contracts.dds"
 		legacy_lazy_load = no

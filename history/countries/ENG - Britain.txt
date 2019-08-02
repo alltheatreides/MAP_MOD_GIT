@@ -336,15 +336,17 @@ create_country_leader = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = center_right
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = yes ##suspended through duration of war, which is handled via event
 }
 set_popularities = {
-	democratic = 97
-	fascism = 2
-	communism = 1
+	democratic = 13
+	center_left = 39
+	center_right = 48
+	fascism = 0
+	communism = 0
 }
 
 
@@ -369,7 +371,7 @@ create_country_leader = {
 	desc = "POLITICS_WINSTON_CHURCHILL_DESC"
 	picture = "Portrait_Britain_Winston_Churchill.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = center_right_type
 	traits = {
 		#traits here need to also be added to events britain.9 and britain.10. Don't ask why.
 	}
@@ -381,9 +383,20 @@ create_country_leader = {
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
 	picture = "gfx//leaders//ENG//Portrait_Britain_Stanley_Baldwin.dds"
 	expire = "1938.1.1"
-	ideology = liberalism
+	ideology = center_right_type
 	traits = {
 		conservative_grandee
+	}
+}
+
+create_country_leader = {
+	name = "Clement Atlee"
+	desc = "POLITICS_CLEMENT_ATLEE_DESC"
+	picture = "gfx//leaders//ENG//Portrait_Britain_Clement_Atlee.dds"
+	expire = "1938.1.1"
+	ideology = center_left_type
+	traits = {
+		
 	}
 }
 
