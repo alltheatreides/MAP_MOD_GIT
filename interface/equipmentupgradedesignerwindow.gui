@@ -95,6 +95,19 @@ guiTypes = {
 			Orientation = "LOWER_RIGHT"
 			clicksound = click_default
 		}
+		
+		# containerWindowType = {
+			# name = "blocker"
+			# size = { width = 100% height = 100% }
+			
+			# iconType = {
+				# name = "cover_up"
+				# position = { x=-140 y=-53 }
+				# quadTextureSprite ="GFX_button_123x34"
+				# Orientation = "LOWER_RIGHT"
+			# }
+		# }
+		
 	}
 	
 	containerWindowType = {

@@ -1,6 +1,6 @@
 scripted_gui = {
 
-	#MILITARY CONTRACTS
+	#MILITARY CONTRACTS TOP BAR
 	military_contracts = {
 		window_name = military_contracts_main
 
@@ -24959,7 +24959,38 @@ scripted_gui = {
 
 	}
 	
-	#BUDGET OPEN WINDOW
+	#RESEARCH SPENDING TOP BAR
+	research_spending_top_bar = {
+		window_name = research_spending_top_bar
+		
+		context_type = player
+		parent_window_token = top_bar
+
+		research_spending_icon_click = {
+			if = {
+				limit = {
+					check_variable = { show_research_design_tab_main = 0 }
+				}
+				set_variable = { show_research_design_tab_main = 1 }
+				else = {
+					set_variable = { show_research_design_tab_main = 0 }
+				}
+			}
+		}
+		research_spending_bg_click = {
+			if = {
+				limit = {
+					check_variable = { show_research_design_tab_main = 0 }
+				}
+				set_variable = { show_research_design_tab_main = 1 }
+				else = {
+					set_variable = { show_research_design_tab_main = 0 }
+				}
+			}
+		}
+	}
+
+	#BUDGET WINDOW
 	budget_tab = {
 		window_name = budget_tab_main
 		context_type = player
@@ -25008,7 +25039,7 @@ scripted_gui = {
 		}
 	}
 
-	#BUDGET - SPENDING - military equipment
+	#MILITARY CONTRACTS WINDOW
 	budget_military_contracts = {
 		window_name = budget_military_contracts_tab_main
 		context_type = player
@@ -25033,6 +25064,25 @@ scripted_gui = {
 						subtract_from_variable = {
 							var = inf_eq_order_amount
 							value = 1000
+						}
+					}
+				}
+			}
+			increase_inf_eq_number_shift_click = {
+				add_to_variable = {
+					var = inf_eq_order_amount
+					value = 10000
+				}
+			}
+			decrease_inf_eq_number_shift_click = {
+				if = {
+					limit = {
+						check_variable = { inf_eq_order_amount < 1 }
+					}
+					else = {
+						subtract_from_variable = {
+							var = inf_eq_order_amount
+							value = 10000
 						}
 					}
 				}
@@ -25085,14 +25135,25 @@ scripted_gui = {
 
 			h_infantry_buy_click = {
 				set_country_flag = infantry_equipment_order_2
-				country_event = { id = ATOM_military_contracts.1 }
+				country_event = { id = ATOM_military_contracts.2 }
 			}
 
 			support_buy_click = {
 				set_country_flag = infantry_equipment_order_3
-				country_event = { id = ATOM_military_contracts.1 }
+				country_event = { id = ATOM_military_contracts.3 }
 			}
 
+
+			research_a_thing_click = {
+				# create_equipment_variant = {
+				# 	name = "Pew pEw"
+				# 	type = infantry_equipment_1
+				# 	upgrades = {
+
+				# 	}
+				# }
+			}
+			
 			exit_button_click = {
 				if = {
 					limit = {
@@ -25113,6 +25174,30 @@ scripted_gui = {
 		# parent_window_token = league_of_nations_focuses_list_window
 		visible = {
 			check_variable = { FRA_icons = 1 }
+		}
+	}
+
+	#RESEARCH DESIGN WINDOW
+	research_spending_menu = {
+		name = research_design_tab_main
+		context_type = player
+
+		visible = {
+			check_variable = { show_research_design_tab_main = 1 }
+		}
+
+		effects = {
+			exit_button_click = {
+				if = {
+					limit = {
+						check_variable = { show_budget_tab = 1 }
+					}
+					set_variable = { show_budget_tab = 0 }
+					else = {
+						set_variable = { show_budget_tab = 1 }
+					}
+				}
+			}
 		}
 	}
 

@@ -6,6 +6,7 @@ NDefines.NCountry.REINFORCEMENT_EQUIPMENT_DELIVERY_SPEED = 0.012
 NDefines.NCountry.REINFORCEMENT_MANPOWER_DELIVERY_SPEED = 80
 NDefines.NCountry.VP_TO_SUPPLY_BASE = 1
 NDefines.NBuildings.INFRA_TO_SUPPLY = 1
+-- NDefines.NMilitary
 NDefines.NMilitary.BASE_DIVISION_BRIGADE_GROUP_COST = 1000 	--Base cost to unlock a regiment slot,
 NDefines.NMilitary.BASE_DIVISION_BRIGADE_CHANGE_COST = 1000	--Base cost to change a regiment column.
 NDefines.NMilitary.BASE_DIVISION_SUPPORT_SLOT_COST = 1000 	--Base cost to unlock a support slot
@@ -33,7 +34,11 @@ NDefines.NMilitary.OUT_OF_SUPPLY_MORALE = -0.4
 NDefines.NMilitary.STRATEGIC_INFRA_SPEED = 5
 NDefines.NMilitary.STRATEGIC_SPEED_BASE = 6
 NDefines.NMilitary.OUT_OF_SUPPLY_ATTRITION = 0
+NDefines.NMilitary.LAND_EQUIPMENT_BASE_COST = 0.1
+NDefines.NMilitary.LAND_EQUIPMENT_RAMP_COST = 0
+-- NDefines.NAir
 NDefines.NAir.AIR_WING_MAX_SIZE = 100
 NDefines.NAir.DETECT_CHANCE_FROM_NIGHT = -0.4
 NDefines.NAir.COMBAT_MULTIPLANE_CAP = 2.0
+
 -- NDefines.NMilitary.SPEED_REINFORCEMENT_BONUS = 0.1

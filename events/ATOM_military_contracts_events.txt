@@ -1,6 +1,6 @@
 ﻿add_namespace = ATOM_military_contracts
 
-#Popup window
+#Popup window for military contracts - Infantry Equipment
 country_event = {
 	id = ATOM_military_contracts.1
 	title = ATOM_military_contracts.1.t
@@ -8,25 +8,6 @@ country_event = {
 		text = ATOM_military_contracts.1.desc.a
 		trigger = {
 			check_variable = { inf_eq_order_amount > 1 }
-		}
-	}
-	desc = {
-		text = ATOM_military_contracts.1.desc.b
-		trigger = {
-			check_variable = { h_inf_eq_order_amount > 1 }
-		}
-	}
-	desc = {
-		text = ATOM_military_contracts.1.desc.c
-		trigger = {
-			check_variable = { h_inf_eq_order_amount < 1 }
-			check_variable = { inf_eq_order_amount < 1 }
-		}
-	}
-	desc = {
-		text = ATOM_military_contracts.1.desc.d
-		trigger = {
-			check_variable = { support_eq_order_amount > 1 }
 		}
 	}
 	
@@ -39,69 +20,89 @@ country_event = {
 	option = {
 		name = ATOM_military_contracts.1.a
 		trigger = {
-			check_variable = { inf_eq_order_amount > 1 }
+			check_variable = { 
+				inf_eq_order_amount > 1 
+			}
 		}
 		hidden_effect = {
 			#Make some conditions for the time it takes to fulfull the order depending on the size of the order
 			country_event = {
-				id = ATOM_military_contracts.2 
+				id = ATOM_military_contracts.4 
 				days = 150
-			}
-		}
-	}
-
-	option = {
-		name = ATOM_military_contracts.1.b
-		trigger = {
-			check_variable = { h_inf_eq_order_amount > 1 }
-		}
-		hidden_effect = {
-			country_event = {
-				id = ATOM_military_contracts.2 
-				days = 1
-			}
-		}
-	}
-
-	option = {
-		name = ATOM_military_contracts.1.e
-		trigger = {
-			check_variable = { support_eq_order_amount > 1 }
-		}
-		hidden_effect = {
-			country_event = {
-				id = ATOM_military_contracts.2 
-				days = 1
-			}
-		}
-	}
-
-	option = {
-		name = ATOM_military_contracts.1.c
-		trigger = {
-			check_variable = { h_inf_eq_order_amount < 1 }
-			check_variable = { inf_eq_order_amount < 1 }
-			check_variable = { support_eq_order_amount < 1 }
-		}
-	}
-
-	option = {
-		name = ATOM_military_contracts.1.d
-		trigger = {
-			OR = {
-				check_variable = { h_inf_eq_order_amount > 1 }
-				check_variable = { inf_eq_order_amount > 1 }
-				check_variable = { support_eq_order_amount > 1 }
 			}
 		}
 	}
 
 }
 
+#Popup window for military contracts - Heavy Infantry Equipment
 country_event = {
 	id = ATOM_military_contracts.2
 	title = ATOM_military_contracts.2.t
-	desc = ATOM_military_contracts.2.desc
+	desc = {
+		text = ATOM_military_contracts.2.desc
+		trigger = {
+			check_variable = { h_inf_eq_order_amount > 1 }
+		}
+	}
+	
+	is_triggered_only = yes
+
+	immediate = {
+		
+	}
+
+	option = {
+		name = ATOM_military_contracts.2.b
+		trigger = {
+			check_variable = { h_inf_eq_order_amount > 1 }
+		}
+		hidden_effect = {
+			country_event = {
+				id = ATOM_military_contracts.4 
+				days = 1
+			}
+		}
+	}
+}
+
+#Popup window for military contracts - Support Equipment
+country_event = {
+	id = ATOM_military_contracts.3
+	title = ATOM_military_contracts.3.t
+	
+	desc = {
+		text = ATOM_military_contracts.3.desc.d
+		trigger = {
+			check_variable = { support_eq_order_amount > 1 }
+		}
+	}
+	
+	is_triggered_only = yes
+
+	immediate = {
+		
+	}
+
+	option = {
+		name = ATOM_military_contracts.3.e
+		trigger = {
+			check_variable = { support_eq_order_amount > 1 }
+		}
+		hidden_effect = {
+			country_event = {
+				id = ATOM_military_contracts.4
+				days = 1
+			}
+		}
+	}
+}
+
+#Event for checking amount ordered and giving them to the player after a certain time defined in previous order event
+country_event = {
+	id = ATOM_military_contracts.4
+	title = ATOM_military_contracts.4.t
+	desc = ATOM_military_contracts.4.desc
 
 	is_triggered_only = yes
 
@@ -110,7 +111,7 @@ country_event = {
 	}
 
 	option = {
-		name = ATOM_military_contracts.2.a
+		name = ATOM_military_contracts.4.a
 		trigger = {
 			check_variable = { inf_eq_order_amount > 1 }
 		}
@@ -123,7 +124,7 @@ country_event = {
 	}
 
 	option = {
-		name = ATOM_military_contracts.2.b
+		name = ATOM_military_contracts.4.b
 		trigger = {
 			check_variable = { h_inf_eq_order_amount > 1 }
 		}
@@ -136,7 +137,7 @@ country_event = {
 	}
 
 	option = {
-		name = ATOM_military_contracts.2.c
+		name = ATOM_military_contracts.4.c
 		trigger = {
 			check_variable = { support_eq_order_amount > 1 }
 		}

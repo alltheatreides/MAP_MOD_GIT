@@ -75,7 +75,44 @@ guiTypes = {
 		# }
 	} 
 	
-	#Budget Tab
+	#TOP BAR RESEARCH SPENDING TAB
+	containerWindowType = {
+		name = "research_spending_top_bar"
+		position = { x = 1220 y = 5 } #990
+		Orientation = upper_left
+		iconType ={
+			name ="research_spending_bg"
+			spriteType = "GFX_generic_box_money"
+			position = { x=0 y=0 }
+		}
+		
+		iconType = {
+			name ="research_spending_icon"
+			spriteType = "GFX_research_spending_icon"
+			position = { x= 0 y = 2 }
+		}
+		
+		#buttonType = {
+		#	name ="buy_icon"
+		#	spriteType = "GFX_in_stock_icon"
+		#	position = { x= 105 y = 1 }
+		#	shortcut = "ctrl+g"
+		#}
+		
+		# instantTextBoxType = {
+		# 	name ="money_text"
+		# 	position = { x= 25 y = 4 }
+		# 	font = "hoi_18mbs"
+		# 	text = "budget_value"
+		# 	format = center
+		# 	maxWidth = 70
+		# 	maxHeight = 24
+		# 	fixedsize = yes
+		# 	# pdx_tooltip = "MONEY_TOOLTIP" 
+		# }
+	}
+
+	#BUDGET Tab
 	containerWindowType = {
 		name = "budget_tab_main"
 		position = { x=975 y= 25 }	
@@ -551,7 +588,7 @@ guiTypes = {
 		size = { width=550 height=900 }
 		# verticalScrollbar = "right_vertical_slider"
 
-		moveable = yes
+		# moveable = yes
 		
 		# fade_time = 10000
 		# fade_type = linear
@@ -606,16 +643,39 @@ guiTypes = {
 				spriteType ="GFX_tiled_bg"
 			}
 
+			background = {
+				name = "Background_2"
+				spriteType ="GFX_military_contracts_top_bg"
+				orientation = top
+			}
+
 			# iconType ={
 			# 	name ="diplo_filter_area_bg"
 			# 	spriteType = "GFX_military_contracts_topbar_bg"
 			# 	position = { x= 15 y = 0 }
 			# }
-			
+
+			# buttonType = {
+			# 	name = "open_research_design_menu" 
+			# 	position = { x = 350 y = 55 }	
+			# 	spriteType = "GFX_buy_military_contract"
+			# 	# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
+			# }
+
+			ButtonType = {
+				name = "research_a_thing"
+				position = { x=-140 y=-53 }
+				quadTextureSprite ="GFX_button_123x34"
+				buttonText = "Test"
+				buttonFont = "hoi_18mbs"
+				Orientation = "LOWER_RIGHT"
+				clicksound = click_default
+			}
+
 		}
 
 		containerWindowType = {
-			name = "league_of_nations_focuses_list_window"
+			name = "focuses_list_window"
 			position = { x = 8 y = 175 }
 			size = { width = 540 height = 625 }
 			margin = { top = 0 left = 0 bottom = 0 right = 0 }
@@ -624,7 +684,7 @@ guiTypes = {
 			# horizontalScrollbar = "bottom_horizontal_slider"
 
 			background = {
-				name = "league_of_nations_focuses_list_window_background_1"
+				name = "focuses_list_window_background_1"
 				spriteType = "GFX_budget_tab_main_background"
 			}
 
@@ -949,319 +1009,299 @@ guiTypes = {
 			}
 		}
 
-		# containerWindowtype = {
-		# 	name = "military_contracts_items"
-		# 	position = { x = 0 y = 47 }
-		# 	size = { width = 550 height = -98 }
-		# 	margin = { top = 0 bottom = 0}
-		# 	verticalScrollbar = "right_vertical_slider"
-			
-		# 	# background = {
-		# 	# 	name = "Background"
-		# 	# 	spriteType ="GFX_budget_tab_main_background"
-		# 	# }
-
-			# instantTextboxType = {
-			# 	name = "infantry_equipment_title"
-			# 	position = { x = 35 y = 30 }
-			# 	font = "hoi4_typewriter22"
-			# 	text = "INFANTRY EQUIPMENT"
-			# 	maxWidth = 500
-			# 	maxHeight = 20
-			# 	fixedsize = yes
-			# 	format = left
-			# }
-
-		# 	# iconType ={
-		# 	# 	name ="infantry_equipment_bg"
-		# 	# 	spriteType = "GFX_infantry_weapons_medium"
-		# 	# 	position = { x= 35 y = 65 }
-		# 	# 	Orientation = "UPPER_LEFT"
-		# 	# }
-			
-		# 	#Infantry equipment companies
-		# 	iconType = {
-		# 		name = "infantry_equipment_contractor_1_entry"
-		# 		spriteType = "GFX_military_contractor_entry"
-		# 		position = { x = 15 y = 0 }
-		# 		Orientation = "UPPER_LEFT"
-		# 	}
-			# iconType = {
-			# 	name = "infantry_equipment_contractor_1_overlay"
-			# 	spriteType = "GFX_military_contracts_contractor_overlay_black"
-			# 	position = { x = 30 y = 50 }
-			# 	Orientation = "UPPER_LEFT"
-			# }
-			# iconType = {
-			# 	name = "infantry_equipment_contractor_1"
-			# 	spriteType = "GFX_idea_mas"
-			# 	position = { x = 35 y = 65 }
-			# 	Orientation = "UPPER_LEFT"
-			# }
-			
-			# instantTextBoxType = {
-			# 	name = "infantry_equipment_contractor_name_1"
-			# 	position = { x = 45 y = 20 }
-			# 	font = "hoi4_typewriter22"
-			# 	text = "Manufacture d'Armes de Saint-Étienne"
-			# 	maxWidth = 500
-			# 	maxHeight = 48
-			# 	fixedsize = yes		
-			# }
-
-			# instantTextBoxType = {
-			# 	name = "infantry_equipment_text"
-			# 	position = { x = 115 y = 65 }
-			# 	font = "hoi4_typewriter16"
-			# 	text = "ORDER INFANTRY EQUIPMENT"
-			# 	maxWidth = 500
-			# 	maxHeight = 48
-			# 	fixedsize = yes		
-			# }
-
-
-			# buttonType = {
-			# 	name = "increase_inf_eq_number" 
-			# 	position = {x=370 y=60}	
-			# 	spriteType = "GFX_naval_increase_amount"
-			# 	# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
-			# 	scale = 0.8
-			# }
-			
-			# buttonType = {
-			# 	name = "decrease_increase_inf_eq_number" 
-			# 	position = {x=345 y=60}	
-			# 	spriteType = "GFX_naval_decrease_amount"
-			# 	# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
-			# 	scale = 0.8
-			# }
-
-			# buttonType = {
-			# 	name = "infantry_buy_1" 
-			# 	position = { x = 300 y = 65 }	
-			# 	spriteType = "GFX_buy_military_contract"
-			# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_1_quantity"
-		# 	# 	position = { x = 310 y = 70 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "1000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-
-		# 	# buttonType = {
-		# 	# 	name = "infantry_buy_2" 
-		# 	# 	position = { x = 300 y = 105 }	
-		# 	# 	spriteType = "GFX_buy_military_contract"
-		# 	# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_2_quantity"
-		# 	# 	position = { x = 310 y = 110 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "2000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-
-		# 	# buttonType = {
-		# 	# 	name = "infantry_buy_3" 
-		# 	# 	position = { x = 400 y = 65 }	
-		# 	# 	spriteType = "GFX_buy_military_contract"
-		# 	# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_3_quantity"
-		# 	# 	position = { x = 410 y = 70 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "5000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-
-		# 	# buttonType = {
-		# 	# 	name = "infantry_buy_4" 
-		# 	# 	position = { x = 400 y = 105 }	
-		# 	# 	spriteType = "GFX_buy_military_contract"
-		# 	# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_4_quantity"
-		# 	# 	position = { x = 410 y = 110 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "10 000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-		
-		# }
-
-		# containerWindowtype = {
-		# 	name = "military_contracts_items_2"
-		# 	position = { x = 0 y = 310 }
-		# 	size = { width = 550 height = -98 }
-		# 	margin = { top = 0 bottom = 0}
-		# 	verticalScrollbar = "right_vertical_slider"
-			
-		# 	# background = {
-		# 	# 	name = "Background"
-		# 	# 	spriteType ="GFX_budget_tab_main_background"
-		# 	# }
-
-		# 	instantTextboxType = {
-		# 		name = "infantry_equipment_title"
-		# 		position = { x = 35 y = 30 }
-		# 		font = "hoi4_typewriter22"
-		# 		text = "INFANTRY EQUIPMENT"
-		# 		maxWidth = 500
-		# 		maxHeight = 20
-		# 		fixedsize = yes
-		# 		format = left
-		# 	}
-
-		# 	# iconType ={
-		# 	# 	name ="infantry_equipment_bg"
-		# 	# 	spriteType = "GFX_infantry_weapons_medium"
-		# 	# 	position = { x= 35 y = 65 }
-		# 	# 	Orientation = "UPPER_LEFT"
-		# 	# }
-			
-		# 	#Infantry equipment companies
-		# 	iconType = {
-		# 		name = "infantry_equipment_contractor_1_entry"
-		# 		spriteType = "GFX_military_contractor_entry"
-		# 		position = { x = 15 y = 0 }
-		# 		Orientation = "UPPER_LEFT"
-		# 	}
-		# 	iconType = {
-		# 		name = "infantry_equipment_contractor_1_overlay"
-		# 		spriteType = "GFX_military_contracts_contractor_overlay_black"
-		# 		position = { x = 30 y = 50 }
-		# 		Orientation = "UPPER_LEFT"
-		# 	}
-		# 	iconType = {
-		# 		name = "infantry_equipment_contractor_1"
-		# 		spriteType = "GFX_idea_mas"
-		# 		position = { x = 35 y = 65 }
-		# 		Orientation = "UPPER_LEFT"
-		# 	}
-			
-		# 	instantTextBoxType = {
-		# 		name = "infantry_equipment_contractor_name_1"
-		# 		position = { x = 45 y = 20 }
-		# 		font = "hoi4_typewriter22"
-		# 		text = "Manufacture d'Armes de Saint-Étienne"
-		# 		maxWidth = 500
-		# 		maxHeight = 48
-		# 		fixedsize = yes		
-		# 	}
-
-		# 	instantTextBoxType = {
-		# 		name = "infantry_equipment_text"
-		# 		position = { x = 115 y = 65 }
-		# 		font = "hoi4_typewriter16"
-		# 		text = "ORDER INFANTRY EQUIPMENT"
-		# 		maxWidth = 500
-		# 		maxHeight = 48
-		# 		fixedsize = yes		
-		# 	}
-
-
-		# 	buttonType = {
-		# 		name = "increase_inf_eq_number" 
-		# 		position = {x=370 y=60}	
-		# 		spriteType = "GFX_naval_increase_amount"
-		# 		# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
-		# 		scale = 0.8
-		# 	}
-			
-		# 	buttonType = {
-		# 		name = "decrease_increase_inf_eq_number" 
-		# 		position = {x=345 y=60}	
-		# 		spriteType = "GFX_naval_decrease_amount"
-		# 		# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
-		# 		scale = 0.8
-		# 	}
-
-		# 	# buttonType = {
-		# 	# 	name = "infantry_buy_1" 
-		# 	# 	position = { x = 300 y = 65 }	
-		# 	# 	spriteType = "GFX_buy_military_contract"
-		# 	# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_1_quantity"
-		# 	# 	position = { x = 310 y = 70 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "1000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-
-		# 	# buttonType = {
-		# 	# 	name = "infantry_buy_2" 
-		# 	# 	position = { x = 300 y = 105 }	
-		# 	# 	spriteType = "GFX_buy_military_contract"
-		# 	# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_2_quantity"
-		# 	# 	position = { x = 310 y = 110 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "2000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-
-		# 	# buttonType = {
-		# 	# 	name = "infantry_buy_3" 
-		# 	# 	position = { x = 400 y = 65 }	
-		# 	# 	spriteType = "GFX_buy_military_contract"
-		# 	# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_3_quantity"
-		# 	# 	position = { x = 410 y = 70 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "5000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-
-		# 	# buttonType = {
-		# 	# 	name = "infantry_buy_4" 
-		# 	# 	position = { x = 400 y = 105 }	
-		# 	# 	spriteType = "GFX_buy_military_contract"
-		# 	# }
-
-		# 	# instantTextBoxType = {
-		# 	# 	name = "infantry_buy_4_quantity"
-		# 	# 	position = { x = 410 y = 110 }
-		# 	# 	font = "hoi_18mbs"
-		# 	# 	text = "10 000"
-		# 	# 	maxWidth = 75
-		# 	# 	maxHeight = 48
-		# 	# 	fixedsize = yes
-		# 	# 	format = center
-		# 	# }
-		
-		# }
 	}
+
+	#RESEARCH DESIGN TAB
+	containerWindowType = {
+		name = "research_design_tab_main"
+		position = { x = 500 y = 155 }
+		show_position = { x = 1200 y = 30 }
+		show_animation_type = decelerated
+		hide_animation_type = accelerated
+		animation_time = 300
+		size = { width = 550 height = 550 }
+
+		moveable = yes
+
+		#Utility stuff
+		background = {
+			name = "military_Background"
+			quadTextureSprite ="GFX_tiled_window_1b_border"
+		}
+
+		background = {
+			name = "Background"
+			spriteType ="GFX_tiled_bg"
+		}
+
+		buttonType = {
+			name = "exit_button"
+			position = { x = -43 y = 10 }
+			quadTextureSprite ="GFX_closebutton"
+			buttonFont = "hoi_16mbs"
+			shortcut = "ESCAPE"
+			Orientation = "UPPER_RIGHT"
+			clicksound = click_close
+			pdx_tooltip = "CLOSE"
+			shortcut = "ESCAPE"
+		}
+	
+		#Tank statistics buttons
+		#Armor thickness
+		instantTextBoxType = {
+			name = "armor_thickness_text"
+			position = { x = 230 y = 53 }
+			font = "hoi4_16"
+			text = "Armor thickness"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		buttonType = {
+			name = "increase_armor_thickness" 
+			position = { x = 370 y = 55 }	
+			spriteType = "GFX_naval_increase_amount"
+			# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}			
+		buttonType = {
+			name = "decrease_armor_thickness" 
+			position = { x = 350 y = 55 }	
+			spriteType = "GFX_naval_decrease_amount"
+			# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}
+		instantTextboxType = {
+			name = "armor_thickness_number"
+			position = { x = 430 y = 53 }
+			font = "hoi4_16"
+			text = "[?armor_thickness_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		#Engine power
+		instantTextBoxType = {
+			name = "engine_power_text"
+			position = { x = 230 y = 83 }
+			font = "hoi4_16"
+			text = "Engine Power"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		buttonType = {
+			name = "increase_engine_power_number" 
+			position = { x = 370 y = 85 }	
+			spriteType = "GFX_naval_increase_amount"
+			# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}			
+		buttonType = {
+			name = "decrease_engine_power_number" 
+			position = { x = 350 y = 85 }	
+			spriteType = "GFX_naval_decrease_amount"
+			# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}
+		instantTextboxType = {
+			name = "engine_power_number"
+			position = { x = 430 y = 83 }
+			font = "hoi4_16"
+			text = "[?engine_power_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		#Turret Number
+		instantTextBoxType = {
+			name = "turret_number_text"
+			position = { x = 230 y = 113 }
+			font = "hoi4_16"
+			text = "Turret Number"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		buttonType = {
+			name = "increase_turret_number" 
+			position = { x = 370 y = 115 }	
+			spriteType = "GFX_naval_increase_amount"
+			# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}			
+		buttonType = {
+			name = "decrease_turret_number" 
+			position = { x = 350 y = 115 }	
+			spriteType = "GFX_naval_decrease_amount"
+			# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}
+		instantTextboxType = {
+			name = "turret_number"
+			position = { x = 430 y = 113 }
+			font = "hoi4_16"
+			text = "[?turret_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		#Main Cannon caliber
+		instantTextBoxType = {
+			name = "main_cannon_caliber_text"
+			position = { x = 230 y = 143 }
+			font = "hoi4_16"
+			text = "Cannon Caliber"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		buttonType = {
+			name = "increase_main_cannon_caliber" 
+			position = { x = 370 y = 145 }	
+			spriteType = "GFX_naval_increase_amount"
+			# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}			
+		buttonType = {
+			name = "decrease_main_cannon_caliber" 
+			position = { x = 350 y = 145 }	
+			spriteType = "GFX_naval_decrease_amount"
+			# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}
+		instantTextboxType = {
+			name = "main_cannon_caliber_number"
+			position = { x = 430 y = 143 }
+			font = "hoi4_16"
+			text = "[?main_cannon_caliber_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		#Radio number
+		instantTextBoxType = {
+			name = "radio_number_text"
+			position = { x = 230 y = 173 }
+			font = "hoi4_16"
+			text = "Radio"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		buttonType = {
+			name = "increase_radio_number" 
+			position = { x = 370 y = 175 }	
+			spriteType = "GFX_naval_increase_amount"
+			# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}			
+		buttonType = {
+			name = "decrease_radio_number" 
+			position = { x = 350 y = 175 }	
+			spriteType = "GFX_naval_decrease_amount"
+			# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}
+		instantTextboxType = {
+			name = "radio_number"
+			position = { x = 430 y = 173 }
+			font = "hoi4_16"
+			text = "[?radio_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		#Machine Gun number
+		instantTextBoxType = {
+			name = "mg_number_text"
+			position = { x = 230 y = 203 }
+			font = "hoi4_16"
+			text = "Machine Gun"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		buttonType = {
+			name = "increase_mg_number" 
+			position = { x = 370 y = 205 }	
+			spriteType = "GFX_naval_increase_amount"
+			# pdx_tooltip = "INCREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}			
+		buttonType = {
+			name = "decrease_mg_number" 
+			position = { x = 350 y = 205 }	
+			spriteType = "GFX_naval_decrease_amount"
+			# pdx_tooltip = "DECREASE_TRANSPORT_TOOLTIP"
+			scale = 0.6
+		}
+		instantTextboxType = {
+			name = "mg_number"
+			position = { x = 430 y = 203 }
+			font = "hoi4_16"
+			text = "[?mg_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		#Info Stats
+		#Speed
+		instantTextBoxType = {
+			name = "speed_text"
+			position = { x = 230 y = 253 }
+			font = "hoi4_16"
+			text = "Speed"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		instantTextboxType = {
+			name = "speed_number"
+			position = { x = 430 y = 253 }
+			font = "hoi4_16"
+			text = "[?speed_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		#Tons
+		instantTextBoxType = {
+			name = "tons_text"
+			position = { x = 230 y = 283 }
+			font = "hoi4_16"
+			text = "Tons"
+			maxWidth = 500
+			maxHeight = 48
+			fixedsize = yes		
+		}
+		instantTextboxType = {
+			name = "tons_number"
+			position = { x = 430 y = 283 }
+			font = "hoi4_16"
+			text = "[?tons_number]"
+			maxWidth = 500
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+	}
+
+
 
 }

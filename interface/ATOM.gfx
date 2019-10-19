@@ -369,10 +369,23 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 
+	spriteType = {
+		name = "GFX_military_contracts_top_bg"
+		textureFile = "gfx/interface/military_contracts_top_bg.dds"
+		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
+		legacy_lazy_load = no
+	}
+
 	#BUDGET
 	spriteType = {
 		name = "GFX_money"
 		texturefile = "gfx/interface/icon_money_small.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_research_spending_icon"
+		texturefile = "gfx/interface/icon_research_spending.dds"
 		legacy_lazy_load = no
 	}
 
@@ -417,6 +430,8 @@ spriteTypes = {
 		textureFile = "gfx/interface/button_buysell.dds"
 		legacy_lazy_load = no
 	}
+
+	
 
 	#POLITICS - NEW IDEOLOGIES
 	spriteType = {

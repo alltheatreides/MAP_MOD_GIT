@@ -302,6 +302,6 @@
  ATOM_military_contracts.1.e:0 "Order [?support_eq_order_amount] Support Equipment"
  ATOM_military_contracts.1.c:0 "Apologies."
  ATOM_military_contracts.1.d:0 "On second thought cancel this."
- ATOM_military_contracts.2.desc:0 "Your order has arrived"
- ATOM_military_contracts.2.b:0 "Thanks."
+ ATOM_military_contracts.2.desc:0 "Are you sure you want to order [?h_inf_eq_order_amount] Heavy Infantry Equipment. They sould arrive in 150 days. It will cost XX Funds."
+ ATOM_military_contracts.2.b:0 "Order [?h_inf_eq_order_amount] Heavy Infantry Equipment."
  
